@@ -291,7 +291,8 @@ function pintarPartidos(){
 }
 function pintarTodo(){
   pintarAcumulado(); pintarClausura(); pintarPartidos();
-  document.getElementById("ultima-act").textContent = datos.actualizado;
+  const sello = document.getElementById("ultima-act");
+  if(sello) sello.textContent = datos.actualizado;
 }
 
 /* ================= PESTAÑAS ================= */
@@ -321,10 +322,10 @@ async function actualizarDatos(manual=false){
     document.querySelector("h2").style.display = (datos.partidos && datos.partidos.length)? "" : "none";
     pintarTodo();
     chip.classList.add("vivo");
-    chip.innerHTML = 'Actualizado <b>'+datos.actualizado+'</b>';
+    chip.innerHTML = 'Actualizado <b id="ultima-act">'+datos.actualizado+'</b>';
   }catch(e){
     chip.classList.remove("vivo");
-    chip.innerHTML = 'Datos guardados al <b>'+datos.actualizado+'</b>';
+    chip.innerHTML = 'Datos guardados al <b id="ultima-act">'+datos.actualizado+'</b>';
     if(manual) alert("No se pudo actualizar en este momento. Se muestran los últimos datos guardados.");
   }finally{
     btn.disabled = false;
