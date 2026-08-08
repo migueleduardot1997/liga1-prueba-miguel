@@ -1,0 +1,371 @@
+{
+  "actualizado": "8 ago 2026, 3:43 p.m.",
+  "acumulado": [
+    {
+      "eq": "Alianza Lima",
+      "pj": 3,
+      "dg": 3,
+      "pts": 7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 0,
+      "gf": 7,
+      "gc": 4,
+      "pos": 1
+    },
+    {
+      "eq": "Huancayo",
+      "pj": 4,
+      "dg": 3,
+      "pts": 7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 6,
+      "gc": 3,
+      "pos": 2
+    },
+    {
+      "eq": "Melgar",
+      "pj": 3,
+      "dg": 3,
+      "pts": 7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 0,
+      "gf": 5,
+      "gc": 2,
+      "pos": 3
+    },
+    {
+      "eq": "Sporting Cristal",
+      "pj": 4,
+      "dg": 2,
+      "pts": 7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 3,
+      "pos": 4
+    },
+    {
+      "eq": "Los Chankas",
+      "pj": 4,
+      "dg": 0,
+      "pts": 7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 6,
+      "gc": 6,
+      "pos": 5
+    },
+    {
+      "eq": "Universitario",
+      "pj": 4,
+      "dg": 0,
+      "pts": 7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 1,
+      "gf": 5,
+      "gc": 5,
+      "pos": 6
+    },
+    {
+      "eq": "Cusco",
+      "pj": 4,
+      "dg": 3,
+      "pts": 6,
+      "pg": 2,
+      "pe": 0,
+      "pp": 2,
+      "gf": 10,
+      "gc": 7,
+      "pos": 7
+    },
+    {
+      "eq": "Sport Boys",
+      "pj": 3,
+      "dg": 2,
+      "pts": 6,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 1,
+      "pos": 8
+    },
+    {
+      "eq": "Garcilaso",
+      "pj": 3,
+      "dg": 1,
+      "pts": 6,
+      "pg": 2,
+      "pe": 0,
+      "pp": 1,
+      "gf": 3,
+      "gc": 2,
+      "pos": 9
+    },
+    {
+      "eq": "Alianza Atl",
+      "pj": 4,
+      "dg": -2,
+      "pts": 6,
+      "pg": 2,
+      "pe": 0,
+      "pp": 2,
+      "gf": 6,
+      "gc": 8,
+      "pos": 10
+    },
+    {
+      "eq": "Comer Unid",
+      "pj": 4,
+      "dg": 1,
+      "pts": 5,
+      "pg": 1,
+      "pe": 2,
+      "pp": 1,
+      "gf": 9,
+      "gc": 8,
+      "pos": 11
+    },
+    {
+      "eq": "Juan Pablo II",
+      "pj": 3,
+      "dg": 0,
+      "pts": 4,
+      "pg": 1,
+      "pe": 1,
+      "pp": 1,
+      "gf": 4,
+      "gc": 4,
+      "pos": 12
+    },
+    {
+      "eq": "Moquegua",
+      "pj": 3,
+      "dg": 0,
+      "pts": 3,
+      "pg": 0,
+      "pe": 3,
+      "pp": 0,
+      "gf": 2,
+      "gc": 2,
+      "pos": 13
+    },
+    {
+      "eq": "Atlético Grau",
+      "pj": 3,
+      "dg": -1,
+      "pts": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 2,
+      "gf": 3,
+      "gc": 4,
+      "pos": 14
+    },
+    {
+      "eq": "Cienciano",
+      "pj": 4,
+      "dg": -3,
+      "pts": 3,
+      "pg": 1,
+      "pe": 0,
+      "pp": 3,
+      "gf": 3,
+      "gc": 6,
+      "pos": 15
+    },
+    {
+      "eq": "Cajamarca",
+      "pj": 3,
+      "dg": -3,
+      "pts": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 2,
+      "gf": 3,
+      "gc": 6,
+      "pos": 16
+    },
+    {
+      "eq": "UTC",
+      "pj": 3,
+      "dg": -5,
+      "pts": 1,
+      "pg": 0,
+      "pe": 1,
+      "pp": 2,
+      "gf": 2,
+      "gc": 7,
+      "pos": 17
+    },
+    {
+      "eq": "ADT",
+      "pj": 3,
+      "dg": -4,
+      "pts": 0,
+      "pg": 0,
+      "pe": 0,
+      "pp": 3,
+      "gf": 1,
+      "gc": 5,
+      "pos": 18
+    }
+  ],
+  "clausura": [
+    {
+      "eq": "Alianza Lima",
+      "pj": 3,
+      "dg": 3,
+      "pts": 7,
+      "pos": 1
+    },
+    {
+      "eq": "Huancayo",
+      "pj": 4,
+      "dg": 3,
+      "pts": 7,
+      "pos": 2
+    },
+    {
+      "eq": "Melgar",
+      "pj": 3,
+      "dg": 3,
+      "pts": 7,
+      "pos": 3
+    },
+    {
+      "eq": "Sporting Cristal",
+      "pj": 4,
+      "dg": 2,
+      "pts": 7,
+      "pos": 4
+    },
+    {
+      "eq": "Los Chankas",
+      "pj": 4,
+      "dg": 0,
+      "pts": 7,
+      "pos": 5
+    },
+    {
+      "eq": "Universitario",
+      "pj": 4,
+      "dg": 0,
+      "pts": 7,
+      "pos": 6
+    },
+    {
+      "eq": "Cusco",
+      "pj": 4,
+      "dg": 3,
+      "pts": 6,
+      "pos": 7
+    },
+    {
+      "eq": "Sport Boys",
+      "pj": 3,
+      "dg": 2,
+      "pts": 6,
+      "pos": 8
+    },
+    {
+      "eq": "Garcilaso",
+      "pj": 3,
+      "dg": 1,
+      "pts": 6,
+      "pos": 9
+    },
+    {
+      "eq": "Alianza Atl",
+      "pj": 4,
+      "dg": -2,
+      "pts": 6,
+      "pos": 10
+    },
+    {
+      "eq": "Comer Unid",
+      "pj": 4,
+      "dg": 1,
+      "pts": 5,
+      "pos": 11
+    },
+    {
+      "eq": "Juan Pablo II",
+      "pj": 3,
+      "dg": 0,
+      "pts": 4,
+      "pos": 12
+    },
+    {
+      "eq": "Moquegua",
+      "pj": 3,
+      "dg": 0,
+      "pts": 3,
+      "pos": 13
+    },
+    {
+      "eq": "Atlético Grau",
+      "pj": 3,
+      "dg": -1,
+      "pts": 3,
+      "pos": 14
+    },
+    {
+      "eq": "Cienciano",
+      "pj": 4,
+      "dg": -3,
+      "pts": 3,
+      "pos": 15
+    },
+    {
+      "eq": "Cajamarca",
+      "pj": 3,
+      "dg": -3,
+      "pts": 1,
+      "pos": 16
+    },
+    {
+      "eq": "UTC",
+      "pj": 3,
+      "dg": -5,
+      "pts": 1,
+      "pos": 17
+    },
+    {
+      "eq": "ADT",
+      "pj": 3,
+      "dg": -4,
+      "pts": 0,
+      "pos": 18
+    }
+  ],
+  "partidos": [
+    {
+      "dia": "Sábado 8 de agosto",
+      "juegos": [
+        {
+          "l": "UTC",
+          "v": "ADT",
+          "m": "1 - 1"
+        },
+        {
+          "l": "Juan Pablo II",
+          "v": "Atlético Grau",
+          "m": "0 - 0"
+        },
+        {
+          "l": "Sport Boys",
+          "v": "Alianza Lima",
+          "h": "8:00 p.m."
+        }
+      ]
+    }
+  ]
+}
