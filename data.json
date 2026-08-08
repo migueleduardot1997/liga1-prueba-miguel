@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 ago 2026, 5:01 p.m.",
+  "actualizado": "8 ago 2026, 6:04 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -94,16 +94,16 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 20,
+      "pj": 21,
       "dg": -18,
-      "pts": 20,
+      "pts": 21,
       "pos": 14
     },
     {
       "eq": "Atlético Grau",
-      "pj": 20,
+      "pj": 21,
       "dg": -7,
-      "pts": 19,
+      "pts": 20,
       "pos": 15
     },
     {
@@ -208,22 +208,22 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 3,
+      "pj": 4,
       "dg": 0,
-      "pts": 4,
+      "pts": 5,
       "pos": 12
+    },
+    {
+      "eq": "Atlético Grau",
+      "pj": 4,
+      "dg": -1,
+      "pts": 4,
+      "pos": 13
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 3,
       "dg": 0,
-      "pts": 3,
-      "pos": 13
-    },
-    {
-      "eq": "Atlético Grau",
-      "pj": 3,
-      "dg": -1,
       "pts": 3,
       "pos": 14
     },
