@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 ago 2026, 3:50 p.m.",
+  "actualizado": "8 ago 2026, 5:01 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -79,17 +79,17 @@
       "pos": 11
     },
     {
-      "eq": "Dep. Moquegua",
-      "pj": 20,
-      "dg": -7,
+      "eq": "ADT",
+      "pj": 21,
+      "dg": -3,
       "pts": 21,
       "pos": 12
     },
     {
-      "eq": "ADT",
+      "eq": "Dep. Moquegua",
       "pj": 20,
-      "dg": -3,
-      "pts": 20,
+      "dg": -7,
+      "pts": 21,
       "pos": 13
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "eq": "UTC",
-      "pj": 20,
+      "pj": 21,
       "dg": -10,
-      "pts": 14,
+      "pts": 15,
       "pos": 17
     },
     {
@@ -235,24 +235,24 @@
       "pos": 15
     },
     {
-      "eq": "FC Cajamarca",
-      "pj": 3,
-      "dg": -3,
-      "pts": 1,
+      "eq": "UTC",
+      "pj": 4,
+      "dg": -5,
+      "pts": 2,
       "pos": 16
     },
     {
-      "eq": "UTC",
+      "eq": "FC Cajamarca",
       "pj": 3,
-      "dg": -5,
+      "dg": -3,
       "pts": 1,
       "pos": 17
     },
     {
       "eq": "ADT",
-      "pj": 3,
+      "pj": 4,
       "dg": -4,
-      "pts": 0,
+      "pts": 1,
       "pos": 18
     }
   ],
