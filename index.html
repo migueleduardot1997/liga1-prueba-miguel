@@ -6,81 +6,43 @@
 <title>Liga 1 Perú 2026 · Tablas de posiciones</title>
 <style>
   :root{
-    --bg:#0F1317;          /* noche de estadio */
-    --panel:#161C22;
-    --panel-2:#1C242C;
-    --line:#26303A;
-    --chalk:#EFF3EE;       /* cal de la cancha */
-    --muted:#8A97A3;
-    --rojo:#E0263C;        /* franja peruana */
-    --oro:#D9A441;         /* zona Libertadores */
-    --acero:#5B8DEF;       /* zona Sudamericana */
-    --baja:#C4402F;        /* zona descenso */
-    --ok:#3FA96A;
+    --bg:#0F1317; --panel:#161C22; --panel-2:#1C242C; --line:#26303A;
+    --chalk:#EFF3EE; --muted:#8A97A3; --rojo:#E0263C;
+    --oro:#D9A441; --acero:#5B8DEF; --baja:#C4402F; --ok:#3FA96A;
   }
   *{margin:0;padding:0;box-sizing:border-box}
   html{-webkit-text-size-adjust:100%}
-  body{
-    background:var(--bg);
-    color:var(--chalk);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    min-height:100vh;
-  }
+  body{background:var(--bg);color:var(--chalk);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;min-height:100vh}
   .wrap{max-width:860px;margin:0 auto;padding:0 14px 60px}
-
-  /* ---------- Cabecera tipo marcador ---------- */
-  header{
-    padding:26px 0 18px;
-    border-bottom:3px solid var(--rojo);
-    display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px;justify-content:space-between;
-  }
-  .brand h1{
-    font-size:clamp(26px,6vw,40px);
-    font-weight:800;
-    letter-spacing:.06em;
-    text-transform:uppercase;
-    line-height:1;
-  }
+  header{padding:26px 0 18px;border-bottom:3px solid var(--rojo);
+    display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px;justify-content:space-between}
+  .brand h1{font-size:clamp(26px,6vw,40px);font-weight:800;letter-spacing:.06em;text-transform:uppercase;line-height:1}
   .brand h1 span{color:var(--rojo)}
   .brand p{color:var(--muted);font-size:13px;margin-top:6px;letter-spacing:.04em}
   .estado{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
-  .chip{
-    font-size:12px;color:var(--muted);
-    background:var(--panel);border:1px solid var(--line);
-    padding:6px 10px;border-radius:999px;white-space:nowrap;
-  }
+  .chip{font-size:12px;color:var(--muted);background:var(--panel);border:1px solid var(--line);
+    padding:6px 10px;border-radius:999px;white-space:nowrap}
   .chip b{color:var(--chalk);font-weight:600}
   .chip.vivo b{color:var(--ok)}
-  button.actualizar{
-    background:var(--rojo);color:#fff;border:none;border-radius:8px;
-    padding:9px 16px;font-size:13px;font-weight:700;letter-spacing:.05em;
-    text-transform:uppercase;cursor:pointer;
-  }
+  button.actualizar{background:var(--rojo);color:#fff;border:none;border-radius:8px;
+    padding:9px 16px;font-size:13px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;cursor:pointer}
   button.actualizar:disabled{opacity:.5;cursor:wait}
   button.actualizar:focus-visible,.tab:focus-visible{outline:2px solid var(--chalk);outline-offset:2px}
-
-  /* ---------- Pestañas ---------- */
   nav{display:flex;gap:8px;margin:20px 0 16px}
-  .tab{
-    flex:1;background:var(--panel);border:1px solid var(--line);color:var(--muted);
+  .tab{flex:1;background:var(--panel);border:1px solid var(--line);color:var(--muted);
     padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;
-    letter-spacing:.08em;text-transform:uppercase;cursor:pointer;text-align:center;
-  }
+    letter-spacing:.08em;text-transform:uppercase;cursor:pointer;text-align:center}
   .tab[aria-selected="true"]{background:var(--panel-2);color:var(--chalk);border-color:var(--rojo)}
   .tab small{display:block;font-weight:400;font-size:11px;letter-spacing:.02em;text-transform:none;margin-top:3px}
-
-  /* ---------- Tablas ---------- */
   section[role="tabpanel"]{display:none}
   section[role="tabpanel"].activa{display:block;animation:entra .25s ease}
   @keyframes entra{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
   @media (prefers-reduced-motion: reduce){section[role="tabpanel"].activa{animation:none}}
-
   .tabla-caja{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
   table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
-  thead th{
-    font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;
-    padding:10px 6px;border-bottom:1px solid var(--line);text-align:center;font-weight:600;
-  }
+  thead th{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;
+    padding:10px 6px;border-bottom:1px solid var(--line);text-align:center;font-weight:600}
   thead th.eq{text-align:left;padding-left:10px}
   tbody td{padding:10px 6px;border-bottom:1px solid var(--line);text-align:center;font-size:14px}
   tbody tr:last-child td{border-bottom:none}
@@ -92,23 +54,14 @@
   tr.z-lib{border-left-color:var(--oro)}
   tr.z-sud{border-left-color:var(--acero)}
   tr.z-baj{border-left-color:var(--baja)}
-  .oculto-movil{display:table-cell}
-  @media (max-width:520px){.oculto-movil{display:none}}
-
   .leyenda{display:flex;flex-wrap:wrap;gap:14px;margin:12px 2px 0;font-size:12px;color:var(--muted)}
   .leyenda i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
   .nota{color:var(--muted);font-size:12px;line-height:1.6;margin-top:12px}
-
-  /* ---------- Bloques informativos ---------- */
-  h2{
-    font-size:15px;text-transform:uppercase;letter-spacing:.1em;font-weight:800;
-    margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--rojo);
-  }
+  h2{font-size:15px;text-transform:uppercase;letter-spacing:.1em;font-weight:800;
+    margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--rojo)}
   .partidos{display:grid;gap:8px}
-  .partido{
-    background:var(--panel);border:1px solid var(--line);border-radius:10px;
-    padding:10px 14px;display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:14px;
-  }
+  .partido{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:10px 14px;display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:14px}
   .partido .marcador{font-weight:800;min-width:44px;text-align:center;background:var(--panel-2);border-radius:6px;padding:4px 8px}
   .partido .cuando{color:var(--muted);font-size:12px;text-align:right;min-width:70px}
   .dia{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin:10px 2px 2px}
@@ -123,7 +76,7 @@
   <header>
     <div class="brand">
       <h1>Liga 1 <span>Perú</span> 2026</h1>
-      <p>Tabla acumulada · Torneo Clausura · Fecha 4 en juego</p>
+      <p>Tabla acumulada · Torneo Clausura</p>
     </div>
     <div class="estado">
       <span class="chip" id="chip-fecha">Datos al <b id="ultima-act">7 ago 2026, 10:25 p.m.</b></span>
@@ -140,15 +93,11 @@
     </button>
   </nav>
 
-  <!-- ================= ACUMULADO ================= -->
   <section id="panel-acumulado" role="tabpanel" aria-labelledby="tab-acumulado" class="activa">
     <div class="tabla-caja">
       <table id="tabla-acumulado">
         <thead><tr>
-          <th>#</th><th class="eq">Equipo</th><th>PJ</th>
-          <th class="oculto-movil">PG</th><th class="oculto-movil">PE</th><th class="oculto-movil">PP</th>
-          <th class="oculto-movil">GF</th><th class="oculto-movil">GC</th>
-          <th>DG</th><th>Pts</th>
+          <th>#</th><th class="eq">Equipo</th><th>PJ</th><th>DG</th><th>Pts</th>
         </tr></thead>
         <tbody></tbody>
       </table>
@@ -162,7 +111,6 @@
     Sanciones de puntos vigentes: Sport Boys −2 · ADT −1 · FC Cajamarca −1 · UTC −7 (resoluciones FPF).</p>
   </section>
 
-  <!-- ================= CLAUSURA ================= -->
   <section id="panel-clausura" role="tabpanel" aria-labelledby="tab-clausura">
     <div class="tabla-caja">
       <table id="tabla-clausura">
@@ -172,14 +120,12 @@
         <tbody></tbody>
       </table>
     </div>
-    <p class="nota">Seis equipos en un puñado de puntos: el Clausura está al rojo vivo con la fecha 4 aún en disputa. Alianza Lima, campeón del Apertura, defiende la punta.</p>
+    <p class="nota">Alianza Lima, campeón del Apertura, defiende la punta del Clausura.</p>
   </section>
 
-  <!-- ================= FECHA 4 ================= -->
-  <h2>Fecha 4 del Clausura</h2>
+  <h2 id="titulo-partidos">Partidos</h2>
   <div class="partidos" id="lista-partidos"></div>
 
-  <!-- ================= FORMATO ================= -->
   <h2>¿Cómo se define el título 2026?</h2>
   <div class="formato">
     <p><b>Apertura + Clausura + Acumulado.</b> Alianza Lima ya ganó el Torneo Apertura. Si también gana el Clausura, es <b>campeón nacional directo</b>.</p>
@@ -188,114 +134,182 @@
   </div>
 
   <footer>
-    Página informativa de uso personal, sin fines comerciales. Los datos se renuevan automáticamente cada hora
-    desde fuentes deportivas públicas; si la actualización no está disponible, se muestran los últimos datos guardados con su fecha.
+    Página informativa de uso personal, sin fines comerciales. Las tablas se consultan en vivo al abrir la página;
+    si la fuente no responde, se muestran los últimos datos guardados con su fecha.
   </footer>
 </div>
 
 <script>
-/* ================= DATOS (respaldo embebido, al 7 ago 2026 ~22:25, con fecha 4 en curso) ================= */
+/* ============ RESPALDO EMBEBIDO (por si todo lo demás falla) ============ */
 let datos = {
   actualizado: "7 ago 2026, 10:25 p.m.",
   acumulado: [
-    {pos:1, eq:"Alianza Lima",        pj:20, pg:14, pe:5, pp:1,  gf:37, gc:12, dg:25,  pts:47},
-    {pos:2, eq:"Los Chankas",         pj:21, pg:12, pe:5, pp:4,  gf:31, gc:27, dg:4,   pts:41},
-    {pos:3, eq:"Universitario",       pj:21, pg:10, pe:6, pp:5,  gf:29, gc:20, dg:9,   pts:36},
-    {pos:4, eq:"Cienciano",           pj:21, pg:11, pe:3, pp:7,  gf:37, gc:28, dg:9,   pts:36},
-    {pos:5, eq:"Melgar",              pj:20, pg:10, pe:5, pp:5,  gf:34, gc:22, dg:12,  pts:35},
-    {pos:6, eq:"Cusco FC",            pj:21, pg:10, pe:3, pp:8,  gf:31, gc:31, dg:0,   pts:33},
-    {pos:7, eq:"Dep. Garcilaso",      pj:20, pg:9,  pe:5, pp:6,  gf:24, gc:20, dg:4,   pts:32},
-    {pos:8, eq:"Alianza Atlético",    pj:21, pg:7,  pe:6, pp:8,  gf:26, gc:26, dg:0,   pts:27},
-    {pos:9, eq:"Sporting Cristal",    pj:21, pg:7,  pe:5, pp:9,  gf:33, gc:33, dg:0,   pts:26},
-    {pos:10,eq:"Comerciantes Unidos", pj:21, pg:6,  pe:8, pp:7,  gf:27, gc:28, dg:-1,  pts:26},
-    {pos:11,eq:"Sport Boys*",         pj:20, pg:7,  pe:5, pp:8,  gf:18, gc:20, dg:-2,  pts:26},
-    {pos:12,eq:"Sport Huancayo",      pj:21, pg:6,  pe:5, pp:10, gf:27, gc:34, dg:-7,  pts:23},
-    {pos:13,eq:"Dep. Moquegua",       pj:20, pg:5,  pe:6, pp:9,  gf:19, gc:26, dg:-7,  pts:21},
-    {pos:14,eq:"ADT*",                pj:20, pg:5,  pe:5, pp:10, gf:23, gc:26, dg:-3,  pts:20},
-    {pos:15,eq:"Juan Pablo II",       pj:20, pg:5,  pe:5, pp:10, gf:26, gc:44, dg:-18, pts:20},
-    {pos:16,eq:"Atlético Grau",       pj:20, pg:5,  pe:4, pp:11, gf:15, gc:22, dg:-7,  pts:19},
-    {pos:17,eq:"FC Cajamarca*",       pj:20, pg:4,  pe:6, pp:10, gf:25, gc:33, dg:-8,  pts:18},
-    {pos:18,eq:"UTC*",                pj:20, pg:4,  pe:7, pp:9,  gf:23, gc:33, dg:-10, pts:14}
+    {pos:1, eq:"Alianza Lima",pj:20,dg:25,pts:47},{pos:2, eq:"Los Chankas",pj:21,dg:4,pts:41},
+    {pos:3, eq:"Universitario",pj:21,dg:9,pts:36},{pos:4, eq:"Cienciano",pj:21,dg:9,pts:36},
+    {pos:5, eq:"Melgar",pj:20,dg:12,pts:35},{pos:6, eq:"Cusco FC",pj:21,dg:0,pts:33},
+    {pos:7, eq:"Dep. Garcilaso",pj:20,dg:4,pts:32},{pos:8, eq:"Alianza Atlético",pj:21,dg:0,pts:27},
+    {pos:9, eq:"Sporting Cristal",pj:21,dg:0,pts:26},{pos:10,eq:"Comerciantes Unidos",pj:21,dg:-1,pts:26},
+    {pos:11,eq:"Sport Boys",pj:20,dg:-2,pts:26},{pos:12,eq:"Sport Huancayo",pj:21,dg:-7,pts:23},
+    {pos:13,eq:"Dep. Moquegua",pj:20,dg:-7,pts:21},{pos:14,eq:"ADT",pj:20,dg:-3,pts:20},
+    {pos:15,eq:"Juan Pablo II",pj:20,dg:-18,pts:20},{pos:16,eq:"Atlético Grau",pj:20,dg:-7,pts:19},
+    {pos:17,eq:"FC Cajamarca",pj:20,dg:-8,pts:18},{pos:18,eq:"UTC",pj:20,dg:-10,pts:14}
   ],
   clausura: [
-    {pos:1, eq:"Alianza Lima",        pj:3, dg:3,  pts:7},
-    {pos:2, eq:"Sport Huancayo",      pj:4, dg:3,  pts:7},
-    {pos:3, eq:"Melgar",              pj:3, dg:3,  pts:7},
-    {pos:4, eq:"Sporting Cristal",    pj:4, dg:2,  pts:7},
-    {pos:5, eq:"Los Chankas",         pj:4, dg:0,  pts:7},
-    {pos:6, eq:"Universitario",       pj:4, dg:0,  pts:7},
-    {pos:7, eq:"Cusco FC",            pj:4, dg:3,  pts:6},
-    {pos:8, eq:"Sport Boys",          pj:3, dg:2,  pts:6},
-    {pos:9, eq:"Dep. Garcilaso",      pj:3, dg:1,  pts:6},
-    {pos:10,eq:"Alianza Atlético",    pj:4, dg:-2, pts:6},
-    {pos:11,eq:"Comerciantes Unidos", pj:4, dg:1,  pts:5},
-    {pos:12,eq:"Juan Pablo II",       pj:3, dg:0,  pts:4},
-    {pos:13,eq:"Dep. Moquegua",       pj:3, dg:0,  pts:3},
-    {pos:14,eq:"Atlético Grau",       pj:3, dg:-1, pts:3},
-    {pos:15,eq:"Cienciano",           pj:4, dg:-3, pts:3},
-    {pos:16,eq:"FC Cajamarca",        pj:3, dg:-3, pts:1},
-    {pos:17,eq:"UTC",                 pj:3, dg:-5, pts:1},
-    {pos:18,eq:"ADT",                 pj:3, dg:-4, pts:0}
+    {pos:1, eq:"Alianza Lima",pj:3,dg:3,pts:7},{pos:2, eq:"Sport Huancayo",pj:4,dg:3,pts:7},
+    {pos:3, eq:"Melgar",pj:3,dg:3,pts:7},{pos:4, eq:"Sporting Cristal",pj:4,dg:2,pts:7},
+    {pos:5, eq:"Los Chankas",pj:4,dg:0,pts:7},{pos:6, eq:"Universitario",pj:4,dg:0,pts:7},
+    {pos:7, eq:"Cusco FC",pj:4,dg:3,pts:6},{pos:8, eq:"Sport Boys",pj:3,dg:2,pts:6},
+    {pos:9, eq:"Dep. Garcilaso",pj:3,dg:1,pts:6},{pos:10,eq:"Alianza Atlético",pj:4,dg:-2,pts:6},
+    {pos:11,eq:"Comerciantes Unidos",pj:4,dg:1,pts:5},{pos:12,eq:"Juan Pablo II",pj:3,dg:0,pts:4},
+    {pos:13,eq:"Dep. Moquegua",pj:3,dg:0,pts:3},{pos:14,eq:"Atlético Grau",pj:3,dg:-1,pts:3},
+    {pos:15,eq:"Cienciano",pj:4,dg:-3,pts:3},{pos:16,eq:"FC Cajamarca",pj:3,dg:-3,pts:1},
+    {pos:17,eq:"UTC",pj:3,dg:-5,pts:1},{pos:18,eq:"ADT",pj:3,dg:-4,pts:0}
   ],
-  partidos: [
-    {dia:"Jueves 6 de agosto",  juegos:[{l:"Alianza Atlético", v:"Cienciano", m:"1 - 0"}]},
-    {dia:"Viernes 7 de agosto", juegos:[
-      {l:"Sport Huancayo", v:"Los Chankas", m:"1 - 1"},
-      {l:"Comerciantes Unidos", v:"Cusco FC", m:"3 - 1"},
-      {l:"Universitario", v:"Sporting Cristal", m:"1 - 1"}
-    ]},
-    {dia:"Sábado 8 de agosto",  juegos:[
-      {l:"UTC", v:"ADT", h:"1:00 p.m."},
-      {l:"Juan Pablo II", v:"Atlético Grau", h:"3:30 p.m."},
-      {l:"Sport Boys", v:"Alianza Lima", h:"8:00 p.m."}
-    ]},
-    {dia:"Domingo 9 de agosto", juegos:[
-      {l:"Dep. Garcilaso", v:"Dep. Moquegua", h:"1:00 p.m."},
-      {l:"Melgar", v:"FC Cajamarca", h:"3:30 p.m."}
-    ]}
-  ]
+  partidos: null
 };
 
-/* ================= RENDER ================= */
-function zona(pos){ if(pos<=4) return "z-lib"; if(pos<=8) return "z-sud"; if(pos>=16) return "z-baj"; return ""; }
-function celdaDG(dg){ const s = dg>0? "+"+dg : String(dg); const c = dg>0? "dg-pos" : (dg<0? "dg-neg":""); return `<td class="${c}">${s}</td>`; }
+/* ============ BASE FIJA: TORNEO APERTURA 2026 (final, con sanciones) ============ */
+const APERTURA = {
+  "Alianza Lima":[40,22],"Los Chankas":[34,4],"Universitario":[29,9],"Cienciano":[33,12],
+  "Melgar":[28,9],"Cusco FC":[27,-3],"Dep. Garcilaso":[26,3],"Alianza Atlético":[21,2],
+  "Sporting Cristal":[19,-2],"Comerciantes Unidos":[21,-2],"Sport Boys":[20,-4],
+  "Sport Huancayo":[16,-10],"Dep. Moquegua":[18,-7],"ADT":[20,1],"Juan Pablo II":[16,-18],
+  "Atlético Grau":[16,-6],"FC Cajamarca":[17,-5],"UTC":[13,-5]
+};
+const ALIAS = [["garcilaso","Dep. Garcilaso"],["grau","Atlético Grau"],["chanka","Los Chankas"],
+  ["universitario","Universitario"],["cristal","Sporting Cristal"],["cienciano","Cienciano"],
+  ["melgar","Melgar"],["boys","Sport Boys"],["huancayo","Sport Huancayo"],
+  ["moquegua","Dep. Moquegua"],["adt","ADT"],["tarma","ADT"],["juan pablo","Juan Pablo II"],
+  ["utc","UTC"],["comerciantes","Comerciantes Unidos"],["cusco","Cusco FC"],
+  ["alianza atl","Alianza Atlético"],["atletico","Alianza Atlético"],
+  ["alianza","Alianza Lima"],["cajamarca","FC Cajamarca"]];
 
-function pintarAcumulado(){
-  const tb = document.querySelector("#tabla-acumulado tbody");
-  tb.innerHTML = datos.acumulado.map(f=>`
-    <tr class="${zona(f.pos)}">
-      <td class="pos">${f.pos}</td><td class="eq">${f.eq}</td><td>${f.pj}</td>
-      <td class="oculto-movil">${f.pg??"–"}</td><td class="oculto-movil">${f.pe??"–"}</td><td class="oculto-movil">${f.pp??"–"}</td>
-      <td class="oculto-movil">${f.gf??"–"}</td><td class="oculto-movil">${f.gc??"–"}</td>
-      ${celdaDG(f.dg)}<td class="pts">${f.pts}</td>
-    </tr>`).join("");
+function normal(t){return String(t).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
+function canonico(n){const x=normal(n);for(const [c,o] of ALIAS){if(x.includes(c))return o}return n}
+
+/* ============ FUENTE EN VIVO: API pública de ESPN (per.1) ============ */
+const URL_TABLA="https://site.api.espn.com/apis/v2/sports/soccer/per.1/standings";
+const URL_JUEGOS="https://site.api.espn.com/apis/site/v2/sports/soccer/per.1/scoreboard";
+const MESES=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+const MESES_L=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+const DIAS=["Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado"];
+
+function horaLima(fecha){
+  const f = fecha || new Date();
+  const p = new Intl.DateTimeFormat("es-PE",{timeZone:"America/Lima",
+    day:"numeric",month:"numeric",year:"numeric",hour:"numeric",minute:"2-digit",hour12:true})
+    .formatToParts(f).reduce((a,x)=>(a[x.type]=x.value,a),{});
+  const ampm=(p.dayPeriod||"").toLowerCase().includes("p")?"p.m.":"a.m.";
+  return `${p.day} ${MESES[p.month-1]} ${p.year}, ${p.hour}:${p.minute} ${ampm}`;
 }
-function pintarClausura(){
-  const tb = document.querySelector("#tabla-clausura tbody");
-  tb.innerHTML = datos.clausura.map(f=>`
-    <tr>
+function statOf(e,nombres){
+  for(const s of (e.stats||[])){
+    if(nombres.includes(s.name)||nombres.includes(s.abbreviation)||nombres.includes(s.type)){
+      const v=parseFloat(s.value!==undefined?s.value:s.displayValue);
+      if(!isNaN(v))return Math.round(v);
+    }
+  }
+  return 0;
+}
+function buscarGrupos(nodo,out){
+  if(Array.isArray(nodo)){for(const v of nodo)buscarGrupos(v,out);return}
+  if(nodo&&typeof nodo==="object"){
+    if(nodo.standings&&nodo.standings.entries&&nodo.standings.entries.length){
+      out.push([normal((nodo.name||"")+" "+(nodo.abbreviation||"")),nodo.standings.entries]);
+    }
+    for(const k in nodo)buscarGrupos(nodo[k],out);
+  }
+}
+function parsear(entries){
+  return entries.map(e=>({
+    eq:canonico((e.team&&(e.team.shortDisplayName||e.team.displayName))||"?"),
+    pj:statOf(e,["gamesPlayed","GP"]),
+    dg:statOf(e,["pointDifferential","GD","pointsDiff"]),
+    pts:statOf(e,["points","P","PTS"])
+  }));
+}
+function ordenar(filas){
+  filas.sort((a,b)=>(b.pts-a.pts)||(b.dg-a.dg));
+  filas.forEach((f,i)=>f.pos=i+1);
+  return filas;
+}
+async function traerJSON(url){
+  const r=await fetch(url,{cache:"no-store"});
+  if(!r.ok)throw new Error("HTTP "+r.status);
+  return r.json();
+}
+async function desdeESPN(){
+  const data=await traerJSON(URL_TABLA);
+  const grupos=[];buscarGrupos(data,grupos);
+  if(!grupos.length)throw new Error("sin tablas");
+  let entries=(grupos.find(g=>g[0].includes("clausura"))||grupos.reduce((a,b)=>a[1].length>=b[1].length?a:b))[1];
+  const tabla=parsear(entries);
+  const maxPJ=Math.max(...tabla.map(f=>f.pj));
+  let clausura,acumulado;
+  if(maxPJ<=10){
+    clausura=ordenar(tabla.map(f=>({...f})));
+    acumulado=ordenar(tabla.map(f=>{const b=APERTURA[f.eq]||[0,0];
+      return {eq:f.eq,pj:f.pj+17,dg:f.dg+b[1],pts:f.pts+b[0]}}));
+  }else{
+    acumulado=ordenar(tabla.map(f=>({...f})));
+    clausura=ordenar(tabla.map(f=>{const b=APERTURA[f.eq]||[0,0];
+      return {eq:f.eq,pj:f.pj-17,dg:f.dg-b[1],pts:f.pts-b[0]}}));
+  }
+  if(tabla.filter(f=>!APERTURA[f.eq]).length>3)throw new Error("nombres sin reconocer");
+  let partidos=null;
+  try{
+    const sb=await traerJSON(URL_JUEGOS);const porDia={};
+    for(const ev of (sb.events||[])){
+      const fe=new Date(ev.date);
+      const pl=new Intl.DateTimeFormat("es-PE",{timeZone:"America/Lima",weekday:"long",day:"numeric",
+        month:"numeric",hour:"numeric",minute:"2-digit",hour12:true}).formatToParts(fe)
+        .reduce((a,x)=>(a[x.type]=x.value,a),{});
+      const et=`${pl.weekday.charAt(0).toUpperCase()+pl.weekday.slice(1)} ${pl.day} de ${MESES_L[pl.month-1]}`;
+      const comp=(ev.competitions||[{}])[0];
+      const lados={};for(const c of (comp.competitors||[]))lados[c.homeAway]=c;
+      const L=lados.home||{},V=lados.away||{};
+      const j={l:canonico((L.team||{}).shortDisplayName||"?"),v:canonico((V.team||{}).shortDisplayName||"?")};
+      const est=((ev.status||{}).type)||{};
+      if(est.completed||est.state==="in"){j.m=`${L.score??""} - ${V.score??""}`;}
+      else{const ampm=(pl.dayPeriod||"").toLowerCase().includes("p")?"p.m.":"a.m.";
+        j.h=`${pl.hour}:${pl.minute} ${ampm}`;}
+      (porDia[ev.date.slice(0,10)+"|"+et]=porDia[ev.date.slice(0,10)+"|"+et]||[]).push(j);
+    }
+    partidos=Object.keys(porDia).sort().map(k=>({dia:k.split("|")[1],juegos:porDia[k]}));
+  }catch(e){}
+  return {actualizado:horaLima(),acumulado,clausura,partidos,envivo:true};
+}
+
+/* ============ RENDER ============ */
+function zona(pos){if(pos<=4)return "z-lib";if(pos<=8)return "z-sud";if(pos>=16)return "z-baj";return ""}
+function celdaDG(dg){const s=dg>0?"+"+dg:String(dg);const c=dg>0?"dg-pos":(dg<0?"dg-neg":"");
+  return `<td class="${c}">${s}</td>`}
+function pintarTabla(sel,filas,conZona){
+  document.querySelector(sel+" tbody").innerHTML=filas.map(f=>`
+    <tr class="${conZona?zona(f.pos):""}">
       <td class="pos">${f.pos}</td><td class="eq">${f.eq}</td><td>${f.pj}</td>
-      ${celdaDG(f.dg)}<td class="pts">${f.pts}</td>
-    </tr>`).join("");
+      ${celdaDG(f.dg)}<td class="pts">${f.pts}</td></tr>`).join("");
 }
 function pintarPartidos(){
-  const c = document.getElementById("lista-partidos");
-  if(!datos.partidos){ c.innerHTML=""; return; }
-  c.innerHTML = datos.partidos.map(d=>
-    `<p class="dia">${d.dia}</p>` + d.juegos.map(j=>`
+  const c=document.getElementById("lista-partidos");
+  const t=document.getElementById("titulo-partidos");
+  if(!datos.partidos||!datos.partidos.length){c.innerHTML="";t.style.display="none";return}
+  t.style.display="";
+  c.innerHTML=datos.partidos.map(d=>
+    `<p class="dia">${d.dia}</p>`+d.juegos.map(j=>`
       <div class="partido">
         <span>${j.l} <span style="color:var(--muted)">vs</span> ${j.v}</span>
-        ${j.m ? `<span class="marcador">${j.m}</span>` : `<span class="cuando">${j.h}</span>`}
-      </div>`).join("")
-  ).join("");
+        ${j.m?`<span class="marcador">${j.m}</span>`:`<span class="cuando">${j.h}</span>`}
+      </div>`).join("")).join("");
 }
 function pintarTodo(){
-  pintarAcumulado(); pintarClausura(); pintarPartidos();
-  const sello = document.getElementById("ultima-act");
-  if(sello) sello.textContent = datos.actualizado;
+  pintarTabla("#tabla-acumulado",datos.acumulado,true);
+  pintarTabla("#tabla-clausura",datos.clausura,false);
+  pintarPartidos();
+  const s=document.getElementById("ultima-act");
+  if(s)s.textContent=datos.actualizado;
 }
 
-/* ================= PESTAÑAS ================= */
 document.querySelectorAll(".tab").forEach(t=>{
   t.addEventListener("click",()=>{
     document.querySelectorAll(".tab").forEach(x=>x.setAttribute("aria-selected","false"));
@@ -305,38 +319,38 @@ document.querySelectorAll(".tab").forEach(t=>{
   });
 });
 
-/* ================= ACTUALIZACIÓN AUTOMÁTICA (cada hora) ================= */
-const chip = document.getElementById("chip-fecha");
-const btn  = document.getElementById("btn-act");
+/* ============ ACTUALIZACIÓN: ESPN en vivo → data.json → embebido ============ */
+const chip=document.getElementById("chip-fecha");
+const btn=document.getElementById("btn-act");
 
 async function actualizarDatos(manual=false){
-  btn.disabled = true;
-  btn.textContent = "Actualizando…";
+  btn.disabled=true;btn.textContent="Actualizando…";
   try{
-    /* data.json vive junto a esta página y lo renueva un robot (GitHub Actions) cada hora */
-    const respuesta = await fetch("data.json?t=" + Date.now(), {cache:"no-store"});
-    if(!respuesta.ok) throw new Error("HTTP " + respuesta.status);
-    const nuevo = await respuesta.json();
-    if(!Array.isArray(nuevo.acumulado)||nuevo.acumulado.length<10||!Array.isArray(nuevo.clausura)) throw new Error("JSON incompleto");
-    datos = nuevo;
-    document.querySelector("h2").style.display = (datos.partidos && datos.partidos.length)? "" : "none";
+    datos=await desdeESPN();
     pintarTodo();
     chip.classList.add("vivo");
-    chip.innerHTML = 'Actualizado <b id="ultima-act">'+datos.actualizado+'</b>';
-  }catch(e){
-    chip.classList.remove("vivo");
-    chip.innerHTML = 'Datos guardados al <b id="ultima-act">'+datos.actualizado+'</b>';
-    if(manual) alert("No se pudo actualizar en este momento. Se muestran los últimos datos guardados.");
+    chip.innerHTML='En vivo <b id="ultima-act">'+datos.actualizado+'</b>';
+  }catch(e1){
+    try{
+      const respaldo=await traerJSON("data.json?t="+Date.now());
+      if(!Array.isArray(respaldo.acumulado)||respaldo.acumulado.length<10)throw new Error("respaldo incompleto");
+      datos=respaldo;
+      pintarTodo();
+      chip.classList.remove("vivo");
+      chip.innerHTML='Datos al <b id="ultima-act">'+datos.actualizado+'</b>';
+    }catch(e2){
+      chip.classList.remove("vivo");
+      chip.innerHTML='Datos guardados al <b id="ultima-act">'+datos.actualizado+'</b>';
+      if(manual)alert("No se pudo actualizar en este momento. Se muestran los últimos datos guardados.");
+    }
   }finally{
-    btn.disabled = false;
-    btn.textContent = "Actualizar ahora";
+    btn.disabled=false;btn.textContent="Actualizar ahora";
   }
 }
-
 btn.addEventListener("click",()=>actualizarDatos(true));
-setInterval(actualizarDatos, 60*60*1000);  /* cada hora */
+setInterval(actualizarDatos,5*60*1000);  /* refresco automático cada 5 minutos */
 pintarTodo();
-actualizarDatos();                          /* intento al abrir la página */
+actualizarDatos();
 </script>
 </body>
 </html>
