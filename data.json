@@ -1,11 +1,11 @@
 {
-  "actualizado": "8 ago 2026, 11:48 p.m.",
+  "actualizado": "9 ago 2026, 2:59 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
-      "pj": 20,
+      "pj": 21,
       "dg": 25,
-      "pts": 47,
+      "pts": 48,
       "pos": 1
     },
     {
@@ -58,16 +58,16 @@
       "pos": 8
     },
     {
-      "eq": "Sporting Cristal",
+      "eq": "Sport Boys",
       "pj": 21,
-      "dg": 0,
-      "pts": 26,
+      "dg": -2,
+      "pts": 27,
       "pos": 9
     },
     {
-      "eq": "Sport Boys",
-      "pj": 20,
-      "dg": -2,
+      "eq": "Sporting Cristal",
+      "pj": 21,
+      "dg": 0,
       "pts": 26,
       "pos": 10
     },
@@ -131,9 +131,9 @@
   "clausura": [
     {
       "eq": "Alianza Lima",
-      "pj": 3,
+      "pj": 4,
       "dg": 3,
-      "pts": 7,
+      "pts": 8,
       "pos": 1
     },
     {
@@ -158,30 +158,30 @@
       "pos": 4
     },
     {
-      "eq": "Los Chankas",
+      "eq": "Sport Boys",
       "pj": 4,
-      "dg": 0,
+      "dg": 2,
       "pts": 7,
       "pos": 5
     },
     {
-      "eq": "Universitario",
+      "eq": "Los Chankas",
       "pj": 4,
       "dg": 0,
       "pts": 7,
       "pos": 6
     },
     {
-      "eq": "Cusco FC",
+      "eq": "Universitario",
       "pj": 4,
-      "dg": 3,
-      "pts": 6,
+      "dg": 0,
+      "pts": 7,
       "pos": 7
     },
     {
-      "eq": "Sport Boys",
-      "pj": 3,
-      "dg": 2,
+      "eq": "Cusco FC",
+      "pj": 4,
+      "dg": 3,
       "pts": 6,
       "pos": 8
     },
@@ -258,22 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 8 de agosto",
+      "dia": "Domingo 9 de agosto",
       "juegos": [
         {
-          "l": "UTC",
-          "v": "ADT",
-          "m": "1 - 1"
+          "l": "Dep. Garcilaso",
+          "v": "Dep. Moquegua",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Juan Pablo II",
-          "v": "Atlético Grau",
-          "m": "0 - 0"
-        },
-        {
-          "l": "Sport Boys",
-          "v": "Alianza Lima",
-          "m": "1 - 1"
+          "l": "Melgar",
+          "v": "FC Cajamarca",
+          "h": "3:30 p.m."
         }
       ]
     }
