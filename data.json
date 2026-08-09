@@ -1,5 +1,5 @@
 {
-  "actualizado": "9 ago 2026, 2:51 p.m.",
+  "actualizado": "9 ago 2026, 4:52 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -37,17 +37,17 @@
       "pos": 5
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 21,
+      "dg": 6,
+      "pts": 35,
+      "pos": 6
+    },
+    {
       "eq": "Cusco FC",
       "pj": 21,
       "dg": 0,
       "pts": 33,
-      "pos": 6
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 20,
-      "dg": 4,
-      "pts": 32,
       "pos": 7
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 20,
-      "dg": -7,
+      "pj": 21,
+      "dg": -9,
       "pts": 21,
       "pos": 13
     },
@@ -130,65 +130,65 @@
   ],
   "clausura": [
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 4,
+      "dg": 3,
+      "pts": 9,
+      "pos": 1
+    },
+    {
       "eq": "Alianza Lima",
       "pj": 4,
       "dg": 3,
       "pts": 8,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Sport Huancayo",
       "pj": 4,
       "dg": 3,
       "pts": 7,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Melgar",
       "pj": 3,
       "dg": 3,
       "pts": 7,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Sporting Cristal",
       "pj": 4,
       "dg": 2,
       "pts": 7,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Sport Boys",
       "pj": 4,
       "dg": 2,
       "pts": 7,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Los Chankas",
       "pj": 4,
       "dg": 0,
       "pts": 7,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Universitario",
       "pj": 4,
       "dg": 0,
       "pts": 7,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Cusco FC",
       "pj": 4,
       "dg": 3,
-      "pts": 6,
-      "pos": 8
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 3,
-      "dg": 1,
       "pts": 6,
       "pos": 9
     },
@@ -222,8 +222,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 3,
-      "dg": 0,
+      "pj": 4,
+      "dg": -2,
       "pts": 3,
       "pos": 14
     },
@@ -268,7 +268,7 @@
         {
           "l": "Melgar",
           "v": "FC Cajamarca",
-          "h": "3:30 p.m."
+          "m": "1 - 3"
         }
       ]
     }
