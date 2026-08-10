@@ -1,5 +1,5 @@
 {
-  "actualizado": "9 ago 2026, 6:16 p.m.",
+  "actualizado": "10 ago 2026, 12:11 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -31,8 +31,8 @@
     },
     {
       "eq": "Melgar",
-      "pj": 20,
-      "dg": 12,
+      "pj": 21,
+      "dg": 10,
       "pts": 35,
       "pos": 5
     },
@@ -86,31 +86,31 @@
       "pos": 12
     },
     {
+      "eq": "FC Cajamarca",
+      "pj": 21,
+      "dg": -6,
+      "pts": 21,
+      "pos": 13
+    },
+    {
       "eq": "Dep. Moquegua",
       "pj": 21,
       "dg": -9,
       "pts": 21,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "Juan Pablo II",
       "pj": 21,
       "dg": -18,
       "pts": 21,
-      "pos": 14
+      "pos": 15
     },
     {
       "eq": "Atlético Grau",
       "pj": 21,
       "dg": -7,
       "pts": 20,
-      "pos": 15
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 20,
-      "dg": -8,
-      "pts": 18,
       "pos": 16
     },
     {
@@ -151,23 +151,23 @@
       "pos": 3
     },
     {
-      "eq": "Melgar",
-      "pj": 3,
-      "dg": 3,
+      "eq": "Sporting Cristal",
+      "pj": 4,
+      "dg": 2,
       "pts": 7,
       "pos": 4
     },
     {
-      "eq": "Sporting Cristal",
+      "eq": "Sport Boys",
       "pj": 4,
       "dg": 2,
       "pts": 7,
       "pos": 5
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Melgar",
       "pj": 4,
-      "dg": 2,
+      "dg": 1,
       "pts": 7,
       "pos": 6
     },
@@ -214,38 +214,38 @@
       "pos": 12
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "FC Cajamarca",
       "pj": 4,
       "dg": -1,
       "pts": 4,
       "pos": 13
     },
     {
+      "eq": "Atlético Grau",
+      "pj": 4,
+      "dg": -1,
+      "pts": 4,
+      "pos": 14
+    },
+    {
       "eq": "Dep. Moquegua",
       "pj": 4,
       "dg": -2,
       "pts": 3,
-      "pos": 14
+      "pos": 15
     },
     {
       "eq": "Cienciano",
       "pj": 4,
       "dg": -3,
       "pts": 3,
-      "pos": 15
+      "pos": 16
     },
     {
       "eq": "UTC",
       "pj": 4,
       "dg": -5,
       "pts": 2,
-      "pos": 16
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 3,
-      "dg": -3,
-      "pts": 1,
       "pos": 17
     },
     {
