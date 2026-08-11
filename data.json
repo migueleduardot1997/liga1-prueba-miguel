@@ -1,5 +1,5 @@
 {
-  "actualizado": "10 ago 2026, 11:06 p.m.",
+  "actualizado": "11 ago 2026, 3:14 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 9 de agosto",
+      "dia": "Viernes 14 de agosto",
       "juegos": [
         {
-          "l": "Dep. Garcilaso",
-          "v": "Dep. Moquegua",
-          "m": "2 - 0"
+          "l": "Atlético Grau",
+          "v": "Comer Unid",
+          "h": "3:00 p.m."
         },
         {
-          "l": "Melgar",
-          "v": "FC Cajamarca",
-          "m": "2 - 4"
+          "l": "Cusco FC",
+          "v": "Juan Pablo II",
+          "h": "6:00 p.m."
         }
       ]
     }
