@@ -1,5 +1,5 @@
 {
-  "actualizado": "14 ago 2026, 4:54 p.m.",
+  "actualizado": "14 ago 2026, 5:56 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -72,45 +72,45 @@
       "pos": 10
     },
     {
+      "eq": "Atlético Grau",
+      "pj": 22,
+      "dg": -6,
+      "pts": 23,
+      "pos": 11
+    },
+    {
       "eq": "Sport Huancayo",
       "pj": 21,
       "dg": -7,
       "pts": 23,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "ADT",
       "pj": 21,
       "dg": -3,
       "pts": 21,
-      "pos": 12
+      "pos": 13
     },
     {
       "eq": "FC Cajamarca",
       "pj": 21,
       "dg": -6,
       "pts": 21,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 21,
       "dg": -9,
       "pts": 21,
-      "pos": 14
+      "pos": 15
     },
     {
       "eq": "Juan Pablo II",
       "pj": 21,
       "dg": -18,
       "pts": 21,
-      "pos": 15
-    },
-    {
-      "eq": "Atlético Grau",
-      "pj": 21,
-      "dg": -7,
-      "pts": 20,
       "pos": 16
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 21,
-      "dg": 1,
+      "pj": 22,
+      "dg": 0,
       "pts": 5,
       "pos": 18
     }
@@ -186,42 +186,42 @@
       "pos": 8
     },
     {
+      "eq": "Atlético Grau",
+      "pj": 5,
+      "dg": 0,
+      "pts": 7,
+      "pos": 9
+    },
+    {
       "eq": "Cusco FC",
       "pj": 4,
       "dg": 3,
       "pts": 6,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Alianza Atlético",
       "pj": 4,
       "dg": -2,
       "pts": 6,
-      "pos": 10
+      "pos": 11
     },
     {
       "eq": "Comer Unid",
-      "pj": 4,
-      "dg": 1,
+      "pj": 5,
+      "dg": 0,
       "pts": 5,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Juan Pablo II",
       "pj": 4,
       "dg": 0,
       "pts": 5,
-      "pos": 12
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 4,
-      "dg": -1,
-      "pts": 4,
       "pos": 13
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "FC Cajamarca",
       "pj": 4,
       "dg": -1,
       "pts": 4,
