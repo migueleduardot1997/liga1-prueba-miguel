@@ -1,5 +1,5 @@
 {
-  "actualizado": "15 ago 2026, 3:54 p.m.",
+  "actualizado": "15 ago 2026, 4:48 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -52,9 +52,9 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 21,
+      "pj": 22,
       "dg": 0,
-      "pts": 27,
+      "pts": 28,
       "pos": 8
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "eq": "ADT",
-      "pj": 21,
+      "pj": 22,
       "dg": -3,
-      "pts": 21,
+      "pts": 22,
       "pos": 13
     },
     {
@@ -201,9 +201,9 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 4,
+      "pj": 5,
       "dg": -2,
-      "pts": 6,
+      "pts": 7,
       "pos": 11
     },
     {
@@ -242,17 +242,17 @@
       "pos": 16
     },
     {
-      "eq": "UTC",
-      "pj": 4,
-      "dg": -5,
+      "eq": "ADT",
+      "pj": 5,
+      "dg": -4,
       "pts": 2,
       "pos": 17
     },
     {
-      "eq": "ADT",
+      "eq": "UTC",
       "pj": 4,
-      "dg": -4,
-      "pts": 1,
+      "dg": -5,
+      "pts": 2,
       "pos": 18
     }
   ],
@@ -268,7 +268,7 @@
         {
           "l": "Los Chankas",
           "v": "Melgar",
-          "m": "0 - 0"
+          "m": "0 - 2"
         },
         {
           "l": "Alianza Lima",
