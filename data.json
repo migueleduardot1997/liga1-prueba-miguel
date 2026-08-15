@@ -1,5 +1,5 @@
 {
-  "actualizado": "14 ago 2026, 6:57 p.m.",
+  "actualizado": "14 ago 2026, 10:06 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -30,24 +30,24 @@
       "pos": 4
     },
     {
+      "eq": "Cusco FC",
+      "pj": 22,
+      "dg": 2,
+      "pts": 36,
+      "pos": 5
+    },
+    {
       "eq": "Melgar",
       "pj": 21,
       "dg": 10,
       "pts": 35,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 21,
       "dg": 6,
       "pts": 35,
-      "pos": 6
-    },
-    {
-      "eq": "Cusco FC",
-      "pj": 21,
-      "dg": 0,
-      "pts": 33,
       "pos": 7
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 21,
-      "dg": -18,
+      "pj": 22,
+      "dg": -20,
       "pts": 21,
       "pos": 16
     },
@@ -130,73 +130,73 @@
   ],
   "clausura": [
     {
+      "eq": "Cusco FC",
+      "pj": 5,
+      "dg": 5,
+      "pts": 9,
+      "pos": 1
+    },
+    {
       "eq": "Dep. Garcilaso",
       "pj": 4,
       "dg": 3,
       "pts": 9,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Alianza Lima",
       "pj": 4,
       "dg": 3,
       "pts": 8,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Sport Huancayo",
       "pj": 4,
       "dg": 3,
       "pts": 7,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Sporting Cristal",
       "pj": 4,
       "dg": 2,
       "pts": 7,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Sport Boys",
       "pj": 4,
       "dg": 2,
       "pts": 7,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Melgar",
       "pj": 4,
       "dg": 1,
       "pts": 7,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Los Chankas",
       "pj": 4,
       "dg": 0,
       "pts": 7,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Universitario",
       "pj": 4,
       "dg": 0,
       "pts": 7,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Atlético Grau",
       "pj": 5,
       "dg": 0,
       "pts": 7,
-      "pos": 9
-    },
-    {
-      "eq": "Cusco FC",
-      "pj": 4,
-      "dg": 3,
-      "pts": 6,
       "pos": 10
     },
     {
@@ -215,8 +215,8 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 4,
-      "dg": 0,
+      "pj": 5,
+      "dg": -2,
       "pts": 5,
       "pos": 13
     },
