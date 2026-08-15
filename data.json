@@ -1,5 +1,5 @@
 {
-  "actualizado": "15 ago 2026, 12:58 a.m.",
+  "actualizado": "15 ago 2026, 2:44 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 14 de agosto",
+      "dia": "Sábado 15 de agosto",
       "juegos": [
         {
-          "l": "Atlético Grau",
-          "v": "Comer Unid",
-          "m": "1 - 0"
+          "l": "ADT",
+          "v": "Alianza Atlético",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Cusco FC",
-          "v": "Juan Pablo II",
-          "m": "2 - 0"
+          "l": "Los Chankas",
+          "v": "Melgar",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Alianza Lima",
+          "v": "UTC",
+          "h": "7:30 p.m."
         }
       ]
     }
