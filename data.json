@@ -1,5 +1,5 @@
 {
-  "actualizado": "15 ago 2026, 4:48 p.m.",
+  "actualizado": "15 ago 2026, 5:53 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -10,37 +10,37 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 21,
-      "dg": 4,
+      "pj": 22,
+      "dg": 1,
       "pts": 41,
       "pos": 2
+    },
+    {
+      "eq": "Melgar",
+      "pj": 22,
+      "dg": 13,
+      "pts": 38,
+      "pos": 3
     },
     {
       "eq": "Universitario",
       "pj": 21,
       "dg": 9,
       "pts": 36,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Cienciano",
       "pj": 21,
       "dg": 9,
       "pts": 36,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Cusco FC",
       "pj": 22,
       "dg": 2,
       "pts": 36,
-      "pos": 5
-    },
-    {
-      "eq": "Melgar",
-      "pj": 21,
-      "dg": 10,
-      "pts": 35,
       "pos": 6
     },
     {
@@ -130,79 +130,79 @@
   ],
   "clausura": [
     {
+      "eq": "Melgar",
+      "pj": 5,
+      "dg": 4,
+      "pts": 10,
+      "pos": 1
+    },
+    {
       "eq": "Cusco FC",
       "pj": 5,
       "dg": 5,
       "pts": 9,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 4,
       "dg": 3,
       "pts": 9,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Alianza Lima",
       "pj": 4,
       "dg": 3,
       "pts": 8,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Sport Huancayo",
       "pj": 4,
       "dg": 3,
       "pts": 7,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Sporting Cristal",
       "pj": 4,
       "dg": 2,
       "pts": 7,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Sport Boys",
       "pj": 4,
       "dg": 2,
       "pts": 7,
-      "pos": 6
-    },
-    {
-      "eq": "Melgar",
-      "pj": 4,
-      "dg": 1,
-      "pts": 7,
       "pos": 7
-    },
-    {
-      "eq": "Los Chankas",
-      "pj": 4,
-      "dg": 0,
-      "pts": 7,
-      "pos": 8
     },
     {
       "eq": "Universitario",
       "pj": 4,
       "dg": 0,
       "pts": 7,
-      "pos": 9
+      "pos": 8
     },
     {
       "eq": "Atlético Grau",
       "pj": 5,
       "dg": 0,
       "pts": 7,
-      "pos": 10
+      "pos": 9
     },
     {
       "eq": "Alianza Atlético",
       "pj": 5,
       "dg": -2,
+      "pts": 7,
+      "pos": 10
+    },
+    {
+      "eq": "Los Chankas",
+      "pj": 5,
+      "dg": -3,
       "pts": 7,
       "pos": 11
     },
@@ -268,7 +268,7 @@
         {
           "l": "Los Chankas",
           "v": "Melgar",
-          "m": "0 - 2"
+          "m": "0 - 3"
         },
         {
           "l": "Alianza Lima",
