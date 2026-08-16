@@ -1,5 +1,5 @@
 {
-  "actualizado": "16 ago 2026, 12:48 p.m.",
+  "actualizado": "16 ago 2026, 2:01 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -51,24 +51,24 @@
       "pos": 7
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 22,
+      "dg": 3,
+      "pts": 29,
+      "pos": 8
+    },
+    {
       "eq": "Alianza Atlético",
       "pj": 22,
       "dg": 0,
       "pts": 28,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Sport Boys",
       "pj": 21,
       "dg": -2,
       "pts": 27,
-      "pos": 9
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 21,
-      "dg": 0,
-      "pts": 26,
       "pos": 10
     },
     {
@@ -80,8 +80,8 @@
     },
     {
       "eq": "Sport Huancayo",
-      "pj": 21,
-      "dg": -7,
+      "pj": 22,
+      "dg": -10,
       "pts": 23,
       "pos": 12
     },
@@ -137,44 +137,44 @@
       "pos": 1
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 5,
+      "dg": 5,
+      "pts": 10,
+      "pos": 2
+    },
+    {
       "eq": "Melgar",
       "pj": 5,
       "dg": 4,
       "pts": 10,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Cusco FC",
       "pj": 5,
       "dg": 5,
       "pts": 9,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 4,
       "dg": 3,
       "pts": 9,
-      "pos": 4
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 4,
-      "dg": 3,
-      "pts": 7,
       "pos": 5
     },
     {
-      "eq": "Sporting Cristal",
+      "eq": "Sport Boys",
       "pj": 4,
       "dg": 2,
       "pts": 7,
       "pos": 6
     },
     {
-      "eq": "Sport Boys",
-      "pj": 4,
-      "dg": 2,
+      "eq": "Sport Huancayo",
+      "pj": 5,
+      "dg": 0,
       "pts": 7,
       "pos": 7
     },
@@ -268,7 +268,7 @@
         {
           "l": "Dep. Moquegua",
           "v": "Sport Boys",
-          "h": "1:15 p.m."
+          "m": "1 - 0"
         },
         {
           "l": "FC Cajamarca",
