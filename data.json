@@ -1,11 +1,11 @@
 {
-  "actualizado": "15 ago 2026, 10:28 p.m.",
+  "actualizado": "16 ago 2026, 12:15 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
-      "pj": 21,
-      "dg": 25,
-      "pts": 48,
+      "pj": 22,
+      "dg": 26,
+      "pts": 51,
       "pos": 1
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 21,
-      "dg": -10,
+      "pj": 22,
+      "dg": -11,
       "pts": 15,
       "pos": 17
     },
@@ -130,31 +130,31 @@
   ],
   "clausura": [
     {
+      "eq": "Alianza Lima",
+      "pj": 5,
+      "dg": 4,
+      "pts": 11,
+      "pos": 1
+    },
+    {
       "eq": "Melgar",
       "pj": 5,
       "dg": 4,
       "pts": 10,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Cusco FC",
       "pj": 5,
       "dg": 5,
       "pts": 9,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 4,
       "dg": 3,
       "pts": 9,
-      "pos": 3
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": 4,
-      "dg": 3,
-      "pts": 8,
       "pos": 4
     },
     {
@@ -250,8 +250,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 4,
-      "dg": -5,
+      "pj": 5,
+      "dg": -6,
       "pts": 2,
       "pos": 18
     }
