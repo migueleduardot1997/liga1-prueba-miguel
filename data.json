@@ -1,5 +1,5 @@
 {
-  "actualizado": "16 ago 2026, 4:47 p.m.",
+  "actualizado": "16 ago 2026, 5:51 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -16,17 +16,17 @@
       "pos": 2
     },
     {
+      "eq": "Universitario",
+      "pj": 22,
+      "dg": 10,
+      "pts": 39,
+      "pos": 3
+    },
+    {
       "eq": "Melgar",
       "pj": 22,
       "dg": 13,
       "pts": 38,
-      "pos": 3
-    },
-    {
-      "eq": "Universitario",
-      "pj": 21,
-      "dg": 9,
-      "pts": 36,
       "pos": 4
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 21,
-      "dg": -6,
+      "pj": 22,
+      "dg": -7,
       "pts": 21,
       "pos": 15
     },
@@ -151,36 +151,36 @@
       "pos": 3
     },
     {
+      "eq": "Universitario",
+      "pj": 5,
+      "dg": 1,
+      "pts": 10,
+      "pos": 4
+    },
+    {
       "eq": "Cusco FC",
       "pj": 5,
       "dg": 5,
       "pts": 9,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 4,
       "dg": 3,
       "pts": 9,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Sport Boys",
       "pj": 5,
       "dg": 2,
       "pts": 8,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Sport Huancayo",
       "pj": 5,
-      "dg": 0,
-      "pts": 7,
-      "pos": 7
-    },
-    {
-      "eq": "Universitario",
-      "pj": 4,
       "dg": 0,
       "pts": 7,
       "pos": 8
@@ -222,8 +222,8 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 4,
-      "dg": -1,
+      "pj": 5,
+      "dg": -2,
       "pts": 4,
       "pos": 14
     },
@@ -273,7 +273,7 @@
         {
           "l": "FC Cajamarca",
           "v": "Universitario",
-          "m": "1 - 2"
+          "m": "2 - 3"
         },
         {
           "l": "Cienciano",
