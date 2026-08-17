@@ -1,5 +1,5 @@
 {
-  "actualizado": "16 ago 2026, 6:44 p.m.",
+  "actualizado": "16 ago 2026, 10:28 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -31,23 +31,23 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 21,
+      "pj": 22,
       "dg": 9,
-      "pts": 36,
+      "pts": 37,
       "pos": 5
+    },
+    {
+      "eq": "Dep. Garcilaso",
+      "pj": 22,
+      "dg": 6,
+      "pts": 36,
+      "pos": 6
     },
     {
       "eq": "Cusco FC",
       "pj": 22,
       "dg": 2,
       "pts": 36,
-      "pos": 6
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 21,
-      "dg": 6,
-      "pts": 35,
       "pos": 7
     },
     {
@@ -151,23 +151,23 @@
       "pos": 3
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 5,
+      "dg": 3,
+      "pts": 10,
+      "pos": 4
+    },
+    {
       "eq": "Universitario",
       "pj": 5,
       "dg": 1,
       "pts": 10,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Cusco FC",
       "pj": 5,
       "dg": 5,
-      "pts": 9,
-      "pos": 5
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 4,
-      "dg": 3,
       "pts": 9,
       "pos": 6
     },
@@ -236,9 +236,9 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 4,
+      "pj": 5,
       "dg": -3,
-      "pts": 3,
+      "pts": 4,
       "pos": 16
     },
     {
