@@ -1,5 +1,5 @@
 {
-  "actualizado": "17 ago 2026, 5:56 p.m.",
+  "actualizado": "17 ago 2026, 6:53 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -256,5 +256,31 @@
       "pos": 18
     }
   ],
-  "partidos": null
+  "partidos": [
+    {
+      "dia": "Domingo 16 de agosto",
+      "juegos": [
+        {
+          "l": "Sporting Cristal",
+          "v": "Sport Huancayo",
+          "m": "4 - 1"
+        },
+        {
+          "l": "Dep. Moquegua",
+          "v": "Sport Boys",
+          "m": "1 - 1"
+        },
+        {
+          "l": "FC Cajamarca",
+          "v": "Universitario",
+          "m": "2 - 3"
+        },
+        {
+          "l": "Cienciano",
+          "v": "Dep. Garcilaso",
+          "m": "0 - 0"
+        }
+      ]
+    }
+  ]
 }
