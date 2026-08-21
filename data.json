@@ -1,5 +1,5 @@
 {
-  "actualizado": "21 ago 2026, 2:17 p.m.",
+  "actualizado": "21 ago 2026, 3:56 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -73,9 +73,9 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": 22,
-      "dg": -6,
-      "pts": 23,
+      "pj": 23,
+      "dg": -4,
+      "pts": 26,
       "pos": 11
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 22,
-      "dg": -7,
+      "pj": 23,
+      "dg": -9,
       "pts": 21,
       "pos": 15
     },
@@ -158,35 +158,35 @@
       "pos": 4
     },
     {
+      "eq": "Atlético Grau",
+      "pj": 6,
+      "dg": 2,
+      "pts": 10,
+      "pos": 5
+    },
+    {
       "eq": "Universitario",
       "pj": 5,
       "dg": 1,
       "pts": 10,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Cusco FC",
       "pj": 5,
       "dg": 5,
       "pts": 9,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Sport Boys",
       "pj": 5,
       "dg": 2,
       "pts": 8,
-      "pos": 7
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 5,
-      "dg": 0,
-      "pts": 7,
       "pos": 8
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "Sport Huancayo",
       "pj": 5,
       "dg": 0,
       "pts": 7,
@@ -221,23 +221,23 @@
       "pos": 13
     },
     {
-      "eq": "FC Cajamarca",
+      "eq": "Dep. Moquegua",
       "pj": 5,
       "dg": -2,
       "pts": 4,
       "pos": 14
     },
     {
-      "eq": "Dep. Moquegua",
+      "eq": "Cienciano",
       "pj": 5,
-      "dg": -2,
+      "dg": -3,
       "pts": 4,
       "pos": 15
     },
     {
-      "eq": "Cienciano",
-      "pj": 5,
-      "dg": -3,
+      "eq": "FC Cajamarca",
+      "pj": 6,
+      "dg": -4,
       "pts": 4,
       "pos": 16
     },
@@ -268,7 +268,7 @@
         {
           "l": "Alianza Atlético",
           "v": "Sporting Cristal",
-          "h": "3:00 p.m."
+          "m": "1 - 0"
         }
       ]
     }
