@@ -1,5 +1,5 @@
 {
-  "actualizado": "22 ago 2026, 12:59 a.m.",
+  "actualizado": "22 ago 2026, 2:47 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 21 de agosto",
+      "dia": "Sábado 22 de agosto",
       "juegos": [
         {
-          "l": "FC Cajamarca",
-          "v": "Atlético Grau",
-          "m": "1 - 3"
+          "l": "Sport Huancayo",
+          "v": "Dep. Moquegua",
+          "h": "11:00 a.m."
         },
         {
-          "l": "Alianza Atlético",
-          "v": "Sporting Cristal",
-          "m": "3 - 1"
+          "l": "UTC",
+          "v": "Comer Unid",
+          "h": "1:15 p.m."
+        },
+        {
+          "l": "Juan Pablo II",
+          "v": "ADT",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Dep. Garcilaso",
+          "v": "Cusco FC",
+          "h": "7:00 p.m."
         }
       ]
     }
