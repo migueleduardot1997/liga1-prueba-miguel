@@ -1,5 +1,5 @@
 {
-  "actualizado": "22 ago 2026, 12:52 p.m.",
+  "actualizado": "22 ago 2026, 2:04 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -79,23 +79,23 @@
       "pos": 11
     },
     {
-      "eq": "Sport Huancayo",
-      "pj": 22,
-      "dg": -10,
-      "pts": 23,
+      "eq": "Dep. Moquegua",
+      "pj": 23,
+      "dg": -7,
+      "pts": 25,
       "pos": 12
+    },
+    {
+      "eq": "Sport Huancayo",
+      "pj": 23,
+      "dg": -12,
+      "pts": 23,
+      "pos": 13
     },
     {
       "eq": "ADT",
       "pj": 22,
       "dg": -3,
-      "pts": 22,
-      "pos": 13
-    },
-    {
-      "eq": "Dep. Moquegua",
-      "pj": 22,
-      "dg": -9,
       "pts": 22,
       "pos": 14
     },
@@ -193,38 +193,38 @@
       "pos": 9
     },
     {
-      "eq": "Sport Huancayo",
-      "pj": 5,
+      "eq": "Dep. Moquegua",
+      "pj": 6,
       "dg": 0,
       "pts": 7,
       "pos": 10
+    },
+    {
+      "eq": "Sport Huancayo",
+      "pj": 6,
+      "dg": -2,
+      "pts": 7,
+      "pos": 11
     },
     {
       "eq": "Los Chankas",
       "pj": 5,
       "dg": -3,
       "pts": 7,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Comer Unid",
       "pj": 5,
       "dg": 0,
       "pts": 5,
-      "pos": 12
+      "pos": 13
     },
     {
       "eq": "Juan Pablo II",
       "pj": 5,
       "dg": -2,
       "pts": 5,
-      "pos": 13
-    },
-    {
-      "eq": "Dep. Moquegua",
-      "pj": 5,
-      "dg": -2,
-      "pts": 4,
       "pos": 14
     },
     {
@@ -268,7 +268,7 @@
         {
           "l": "UTC",
           "v": "Comer Unid",
-          "h": "1:15 p.m."
+          "m": "1 - 1"
         },
         {
           "l": "Juan Pablo II",
