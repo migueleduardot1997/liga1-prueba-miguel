@@ -1,5 +1,5 @@
 {
-  "actualizado": "22 ago 2026, 5:54 p.m.",
+  "actualizado": "22 ago 2026, 6:49 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -86,30 +86,30 @@
       "pos": 12
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 23,
+      "dg": -16,
+      "pts": 24,
+      "pos": 13
+    },
+    {
       "eq": "Sport Huancayo",
       "pj": 23,
       "dg": -12,
       "pts": 23,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "ADT",
-      "pj": 22,
-      "dg": -3,
+      "pj": 23,
+      "dg": -7,
       "pts": 22,
-      "pos": 14
+      "pos": 15
     },
     {
       "eq": "FC Cajamarca",
       "pj": 23,
       "dg": -9,
-      "pts": 21,
-      "pos": 15
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 22,
-      "dg": -20,
       "pts": 21,
       "pos": 16
     },
@@ -193,38 +193,38 @@
       "pos": 9
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 6,
+      "dg": 2,
+      "pts": 8,
+      "pos": 10
+    },
+    {
       "eq": "Sport Boys",
       "pj": 5,
       "dg": 2,
       "pts": 8,
-      "pos": 10
+      "pos": 11
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 6,
       "dg": 0,
       "pts": 7,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Sport Huancayo",
       "pj": 6,
       "dg": -2,
       "pts": 7,
-      "pos": 12
+      "pos": 13
     },
     {
       "eq": "Los Chankas",
       "pj": 5,
       "dg": -3,
       "pts": 7,
-      "pos": 13
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 5,
-      "dg": -2,
-      "pts": 5,
       "pos": 14
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 5,
-      "dg": -4,
+      "pj": 6,
+      "dg": -8,
       "pts": 2,
       "pos": 17
     },
