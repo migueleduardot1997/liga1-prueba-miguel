@@ -1,5 +1,5 @@
 {
-  "actualizado": "23 ago 2026, 12:17 a.m.",
+  "actualizado": "23 ago 2026, 2:49 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,27 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 22 de agosto",
+      "dia": "Domingo 23 de agosto",
       "juegos": [
         {
-          "l": "Sport Huancayo",
-          "v": "Dep. Moquegua",
-          "m": "0 - 2"
+          "l": "Sport Boys",
+          "v": "Cienciano",
+          "h": "1:00 p.m."
         },
         {
-          "l": "UTC",
-          "v": "Comer Unid",
-          "m": "1 - 3"
+          "l": "Melgar",
+          "v": "Alianza Lima",
+          "h": "3:30 p.m."
         },
         {
-          "l": "Juan Pablo II",
-          "v": "ADT",
-          "m": "5 - 1"
-        },
-        {
-          "l": "Dep. Garcilaso",
-          "v": "Cusco FC",
-          "m": "4 - 1"
+          "l": "Universitario",
+          "v": "Los Chankas",
+          "h": "6:30 p.m."
         }
       ]
     }
