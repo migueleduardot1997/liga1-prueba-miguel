@@ -1,11 +1,11 @@
 {
-  "actualizado": "23 ago 2026, 4:49 p.m.",
+  "actualizado": "23 ago 2026, 5:53 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
-      "pj": 22,
+      "pj": 23,
       "dg": 26,
-      "pts": 51,
+      "pts": 52,
       "pos": 1
     },
     {
@@ -16,24 +16,24 @@
       "pos": 2
     },
     {
+      "eq": "Melgar",
+      "pj": 23,
+      "dg": 13,
+      "pts": 39,
+      "pos": 3
+    },
+    {
       "eq": "Universitario",
       "pj": 22,
       "dg": 10,
       "pts": 39,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 23,
       "dg": 9,
       "pts": 39,
-      "pos": 4
-    },
-    {
-      "eq": "Melgar",
-      "pj": 22,
-      "dg": 13,
-      "pts": 38,
       "pos": 5
     },
     {
@@ -137,24 +137,24 @@
       "pos": 1
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Alianza Lima",
       "pj": 6,
-      "dg": 6,
-      "pts": 11,
+      "dg": 4,
+      "pts": 12,
       "pos": 2
     },
     {
-      "eq": "Alianza Lima",
-      "pj": 5,
-      "dg": 4,
+      "eq": "Sport Boys",
+      "pj": 6,
+      "dg": 6,
       "pts": 11,
       "pos": 3
     },
     {
       "eq": "Melgar",
-      "pj": 5,
+      "pj": 6,
       "dg": 4,
-      "pts": 10,
+      "pts": 11,
       "pos": 4
     },
     {
