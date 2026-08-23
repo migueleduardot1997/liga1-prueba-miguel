@@ -1,5 +1,5 @@
 {
-  "actualizado": "22 ago 2026, 6:49 p.m.",
+  "actualizado": "22 ago 2026, 10:31 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -23,30 +23,30 @@
       "pos": 3
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 23,
+      "dg": 9,
+      "pts": 39,
+      "pos": 4
+    },
+    {
       "eq": "Melgar",
       "pj": 22,
       "dg": 13,
       "pts": 38,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Cienciano",
       "pj": 22,
       "dg": 9,
       "pts": 37,
-      "pos": 5
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 22,
-      "dg": 6,
-      "pts": 36,
       "pos": 6
     },
     {
       "eq": "Cusco FC",
-      "pj": 22,
-      "dg": 2,
+      "pj": 23,
+      "dg": -1,
       "pts": 36,
       "pos": 7
     },
@@ -130,29 +130,29 @@
   ],
   "clausura": [
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 6,
+      "dg": 6,
+      "pts": 13,
+      "pos": 1
+    },
+    {
       "eq": "Alianza Lima",
       "pj": 5,
       "dg": 4,
       "pts": 11,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Melgar",
       "pj": 5,
       "dg": 4,
       "pts": 10,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Sporting Cristal",
       "pj": 6,
-      "dg": 3,
-      "pts": 10,
-      "pos": 3
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 5,
       "dg": 3,
       "pts": 10,
       "pos": 4
@@ -180,8 +180,8 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": 5,
-      "dg": 5,
+      "pj": 6,
+      "dg": 2,
       "pts": 9,
       "pos": 8
     },
@@ -278,7 +278,7 @@
         {
           "l": "Dep. Garcilaso",
           "v": "Cusco FC",
-          "h": "7:00 p.m."
+          "m": "4 - 1"
         }
       ]
     }
