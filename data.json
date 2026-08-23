@@ -1,5 +1,5 @@
 {
-  "actualizado": "23 ago 2026, 2:47 p.m.",
+  "actualizado": "23 ago 2026, 3:54 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -38,8 +38,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 22,
-      "dg": 9,
+      "pj": 23,
+      "dg": 5,
       "pts": 37,
       "pos": 6
     },
@@ -51,24 +51,24 @@
       "pos": 7
     },
     {
-      "eq": "Alianza Atlético",
+      "eq": "Sport Boys",
       "pj": 23,
       "dg": 2,
       "pts": 31,
       "pos": 8
     },
     {
+      "eq": "Alianza Atlético",
+      "pj": 23,
+      "dg": 2,
+      "pts": 31,
+      "pos": 9
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 23,
       "dg": 1,
       "pts": 29,
-      "pos": 9
-    },
-    {
-      "eq": "Sport Boys",
-      "pj": 22,
-      "dg": -2,
-      "pts": 28,
       "pos": 10
     },
     {
@@ -117,7 +117,7 @@
       "eq": "UTC",
       "pj": 23,
       "dg": -13,
-      "pts": 15,
+      "pts": 10,
       "pos": 17
     },
     {
@@ -137,71 +137,71 @@
       "pos": 1
     },
     {
+      "eq": "Sport Boys",
+      "pj": 6,
+      "dg": 6,
+      "pts": 11,
+      "pos": 2
+    },
+    {
       "eq": "Alianza Lima",
       "pj": 5,
       "dg": 4,
       "pts": 11,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Melgar",
       "pj": 5,
       "dg": 4,
       "pts": 10,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Sporting Cristal",
       "pj": 6,
       "dg": 3,
       "pts": 10,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Atlético Grau",
       "pj": 6,
       "dg": 2,
       "pts": 10,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Universitario",
       "pj": 5,
       "dg": 1,
       "pts": 10,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Alianza Atlético",
       "pj": 6,
       "dg": 0,
       "pts": 10,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Cusco FC",
       "pj": 6,
       "dg": 2,
       "pts": 9,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Comer Unid",
       "pj": 6,
       "dg": 2,
       "pts": 8,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Juan Pablo II",
       "pj": 6,
-      "dg": 2,
-      "pts": 8,
-      "pos": 10
-    },
-    {
-      "eq": "Sport Boys",
-      "pj": 5,
       "dg": 2,
       "pts": 8,
       "pos": 11
@@ -228,16 +228,16 @@
       "pos": 14
     },
     {
-      "eq": "Cienciano",
-      "pj": 5,
-      "dg": -3,
+      "eq": "FC Cajamarca",
+      "pj": 6,
+      "dg": -4,
       "pts": 4,
       "pos": 15
     },
     {
-      "eq": "FC Cajamarca",
+      "eq": "Cienciano",
       "pj": 6,
-      "dg": -4,
+      "dg": -7,
       "pts": 4,
       "pos": 16
     },
@@ -252,7 +252,7 @@
       "eq": "UTC",
       "pj": 6,
       "dg": -8,
-      "pts": 2,
+      "pts": -3,
       "pos": 18
     }
   ],
@@ -268,7 +268,7 @@
         {
           "l": "Melgar",
           "v": "Alianza Lima",
-          "h": "3:30 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Universitario",
