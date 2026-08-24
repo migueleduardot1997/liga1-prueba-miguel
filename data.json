@@ -1,5 +1,5 @@
 {
-  "actualizado": "23 ago 2026, 6:49 p.m.",
+  "actualizado": "23 ago 2026, 10:33 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -9,23 +9,23 @@
       "pos": 1
     },
     {
-      "eq": "Los Chankas",
-      "pj": 22,
-      "dg": 1,
-      "pts": 41,
+      "eq": "Universitario",
+      "pj": 23,
+      "dg": 13,
+      "pts": 42,
       "pos": 2
+    },
+    {
+      "eq": "Los Chankas",
+      "pj": 23,
+      "dg": -2,
+      "pts": 41,
+      "pos": 3
     },
     {
       "eq": "Melgar",
       "pj": 23,
       "dg": 13,
-      "pts": 39,
-      "pos": 3
-    },
-    {
-      "eq": "Universitario",
-      "pj": 22,
-      "dg": 10,
       "pts": 39,
       "pos": 4
     },
@@ -137,44 +137,44 @@
       "pos": 1
     },
     {
+      "eq": "Universitario",
+      "pj": 6,
+      "dg": 4,
+      "pts": 13,
+      "pos": 2
+    },
+    {
       "eq": "Alianza Lima",
       "pj": 6,
       "dg": 4,
       "pts": 12,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Sport Boys",
       "pj": 6,
       "dg": 6,
       "pts": 11,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Melgar",
       "pj": 6,
       "dg": 4,
       "pts": 11,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Sporting Cristal",
       "pj": 6,
       "dg": 3,
       "pts": 10,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Atlético Grau",
       "pj": 6,
       "dg": 2,
-      "pts": 10,
-      "pos": 6
-    },
-    {
-      "eq": "Universitario",
-      "pj": 5,
-      "dg": 1,
       "pts": 10,
       "pos": 7
     },
@@ -222,8 +222,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 5,
-      "dg": -3,
+      "pj": 6,
+      "dg": -6,
       "pts": 7,
       "pos": 14
     },
@@ -273,7 +273,7 @@
         {
           "l": "Universitario",
           "v": "Los Chankas",
-          "m": "0 - 0"
+          "m": "3 - 0"
         }
       ]
     }
