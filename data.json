@@ -1,5 +1,5 @@
 {
-  "actualizado": "24 ago 2026, 10:26 p.m.",
+  "actualizado": "25 ago 2026, 12:50 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,22 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 23 de agosto",
+      "dia": "Viernes 28 de agosto",
       "juegos": [
         {
-          "l": "Sport Boys",
-          "v": "Cienciano",
-          "m": "5 - 1"
-        },
-        {
-          "l": "Melgar",
-          "v": "Alianza Lima",
-          "m": "1 - 1"
-        },
-        {
-          "l": "Universitario",
-          "v": "Los Chankas",
-          "m": "3 - 0"
+          "l": "Comer Unid",
+          "v": "FC Cajamarca",
+          "h": "3:00 p.m."
         }
       ]
     }
