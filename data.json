@@ -1,5 +1,5 @@
 {
-  "actualizado": "28 ago 2026, 5:11 p.m.",
+  "actualizado": "28 ago 2026, 6:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -86,31 +86,31 @@
       "pos": 12
     },
     {
+      "eq": "FC Cajamarca",
+      "pj": 24,
+      "dg": -8,
+      "pts": 24,
+      "pos": 13
+    },
+    {
       "eq": "Juan Pablo II",
       "pj": 23,
       "dg": -16,
       "pts": 24,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "Sport Huancayo",
       "pj": 23,
       "dg": -12,
       "pts": 23,
-      "pos": 14
+      "pos": 15
     },
     {
       "eq": "ADT",
       "pj": 23,
       "dg": -7,
       "pts": 22,
-      "pos": 15
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 23,
-      "dg": -9,
-      "pts": 21,
       "pos": 16
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 23,
-      "dg": 2,
+      "pj": 24,
+      "dg": 1,
       "pts": 8,
       "pos": 18
     }
@@ -193,16 +193,16 @@
       "pos": 9
     },
     {
-      "eq": "Comer Unid",
+      "eq": "Juan Pablo II",
       "pj": 6,
       "dg": 2,
       "pts": 8,
       "pos": 10
     },
     {
-      "eq": "Juan Pablo II",
-      "pj": 6,
-      "dg": 2,
+      "eq": "Comer Unid",
+      "pj": 7,
+      "dg": 1,
       "pts": 8,
       "pos": 11
     },
@@ -221,17 +221,17 @@
       "pos": 13
     },
     {
-      "eq": "Los Chankas",
-      "pj": 6,
-      "dg": -6,
+      "eq": "FC Cajamarca",
+      "pj": 7,
+      "dg": -3,
       "pts": 7,
       "pos": 14
     },
     {
-      "eq": "FC Cajamarca",
+      "eq": "Los Chankas",
       "pj": 6,
-      "dg": -4,
-      "pts": 4,
+      "dg": -6,
+      "pts": 7,
       "pos": 15
     },
     {
@@ -263,7 +263,7 @@
         {
           "l": "Comer Unid",
           "v": "FC Cajamarca",
-          "m": "2 - 2"
+          "m": "2 - 3"
         }
       ]
     }
