@@ -1,5 +1,5 @@
 {
-  "actualizado": "29 ago 2026, 5:11 p.m.",
+  "actualizado": "29 ago 2026, 6:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -10,9 +10,9 @@
     },
     {
       "eq": "Universitario",
-      "pj": 23,
-      "dg": 13,
-      "pts": 42,
+      "pj": 24,
+      "dg": 15,
+      "pts": 45,
       "pos": 2
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 23,
-      "dg": -13,
+      "pj": 24,
+      "dg": -15,
       "pts": 10,
       "pos": 17
     },
@@ -130,16 +130,16 @@
   ],
   "clausura": [
     {
-      "eq": "Dep. Garcilaso",
-      "pj": 6,
+      "eq": "Universitario",
+      "pj": 7,
       "dg": 6,
-      "pts": 13,
+      "pts": 16,
       "pos": 1
     },
     {
-      "eq": "Universitario",
+      "eq": "Dep. Garcilaso",
       "pj": 6,
-      "dg": 4,
+      "dg": 6,
       "pts": 13,
       "pos": 2
     },
@@ -250,8 +250,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 6,
-      "dg": -8,
+      "pj": 7,
+      "dg": -10,
       "pts": -3,
       "pos": 18
     }
@@ -268,7 +268,7 @@
         {
           "l": "UTC",
           "v": "Universitario",
-          "m": "2 - 3"
+          "m": "2 - 4"
         },
         {
           "l": "Alianza Lima",
