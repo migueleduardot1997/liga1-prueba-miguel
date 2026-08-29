@@ -1,5 +1,5 @@
 {
-  "actualizado": "29 ago 2026, 1:11 a.m.",
+  "actualizado": "29 ago 2026, 2:11 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,12 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 28 de agosto",
+      "dia": "Sábado 29 de agosto",
       "juegos": [
         {
-          "l": "Comer Unid",
-          "v": "FC Cajamarca",
-          "m": "2 - 3"
+          "l": "Los Chankas",
+          "v": "Juan Pablo II",
+          "h": "1:00 p.m."
+        },
+        {
+          "l": "UTC",
+          "v": "Universitario",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Alianza Lima",
+          "v": "Dep. Garcilaso",
+          "h": "7:30 p.m."
         }
       ]
     }
