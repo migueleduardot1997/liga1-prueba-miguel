@@ -1,5 +1,5 @@
 {
-  "actualizado": "29 ago 2026, 2:11 p.m.",
+  "actualizado": "29 ago 2026, 3:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -17,8 +17,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 23,
-      "dg": -2,
+      "pj": 24,
+      "dg": -3,
       "pts": 41,
       "pos": 3
     },
@@ -72,30 +72,30 @@
       "pos": 10
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 24,
+      "dg": -15,
+      "pts": 27,
+      "pos": 11
+    },
+    {
       "eq": "Atlético Grau",
       "pj": 23,
       "dg": -4,
       "pts": 26,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 23,
       "dg": -7,
       "pts": 25,
-      "pos": 12
+      "pos": 13
     },
     {
       "eq": "FC Cajamarca",
       "pj": 24,
       "dg": -8,
-      "pts": 24,
-      "pos": 13
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 23,
-      "dg": -16,
       "pts": 24,
       "pos": 14
     },
@@ -165,38 +165,38 @@
       "pos": 5
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 7,
+      "dg": 3,
+      "pts": 11,
+      "pos": 6
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 6,
       "dg": 3,
       "pts": 10,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Atlético Grau",
       "pj": 6,
       "dg": 2,
       "pts": 10,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Alianza Atlético",
       "pj": 6,
       "dg": 0,
       "pts": 10,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Cusco FC",
       "pj": 6,
       "dg": 2,
       "pts": 9,
-      "pos": 9
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 6,
-      "dg": 2,
-      "pts": 8,
       "pos": 10
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 6,
-      "dg": -6,
+      "pj": 7,
+      "dg": -7,
       "pts": 7,
       "pos": 15
     },
@@ -263,7 +263,7 @@
         {
           "l": "Los Chankas",
           "v": "Juan Pablo II",
-          "m": "2 - 3"
+          "m": "3 - 4"
         },
         {
           "l": "UTC",
