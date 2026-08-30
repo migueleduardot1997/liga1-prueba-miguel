@@ -1,5 +1,5 @@
 {
-  "actualizado": "30 ago 2026, 1:11 a.m.",
+  "actualizado": "30 ago 2026, 2:11 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,22 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 29 de agosto",
+      "dia": "Domingo 30 de agosto",
       "juegos": [
         {
-          "l": "Los Chankas",
-          "v": "Juan Pablo II",
-          "m": "3 - 4"
+          "l": "Dep. Moquegua",
+          "v": "Alianza Atlético",
+          "h": "11:00 a.m."
         },
         {
-          "l": "UTC",
-          "v": "Universitario",
-          "m": "2 - 4"
+          "l": "ADT",
+          "v": "Sport Huancayo",
+          "h": "1:15 p.m."
         },
         {
-          "l": "Alianza Lima",
-          "v": "Dep. Garcilaso",
-          "m": "0 - 1"
+          "l": "Sport Boys",
+          "v": "Sporting Cristal",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Cienciano",
+          "v": "Cusco FC",
+          "h": "7:00 p.m."
         }
       ]
     }
