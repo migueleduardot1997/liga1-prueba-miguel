@@ -1,5 +1,5 @@
 {
-  "actualizado": "30 ago 2026, 2:11 p.m.",
+  "actualizado": "30 ago 2026, 3:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -51,14 +51,14 @@
       "pos": 7
     },
     {
-      "eq": "Sport Boys",
-      "pj": 23,
-      "dg": 2,
-      "pts": 31,
+      "eq": "Alianza Atlético",
+      "pj": 24,
+      "dg": 5,
+      "pts": 34,
       "pos": 8
     },
     {
-      "eq": "Alianza Atlético",
+      "eq": "Sport Boys",
       "pj": 23,
       "dg": 2,
       "pts": 31,
@@ -87,8 +87,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 23,
-      "dg": -7,
+      "pj": 24,
+      "dg": -10,
       "pts": 25,
       "pos": 13
     },
@@ -144,51 +144,51 @@
       "pos": 2
     },
     {
+      "eq": "Alianza Atlético",
+      "pj": 7,
+      "dg": 3,
+      "pts": 13,
+      "pos": 3
+    },
+    {
       "eq": "Alianza Lima",
       "pj": 7,
       "dg": 3,
       "pts": 12,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Sport Boys",
       "pj": 6,
       "dg": 6,
       "pts": 11,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Melgar",
       "pj": 6,
       "dg": 4,
       "pts": 11,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Juan Pablo II",
       "pj": 7,
       "dg": 3,
       "pts": 11,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Sporting Cristal",
       "pj": 6,
       "dg": 3,
       "pts": 10,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Atlético Grau",
       "pj": 6,
       "dg": 2,
-      "pts": 10,
-      "pos": 8
-    },
-    {
-      "eq": "Alianza Atlético",
-      "pj": 6,
-      "dg": 0,
       "pts": 10,
       "pos": 9
     },
@@ -207,21 +207,21 @@
       "pos": 11
     },
     {
-      "eq": "Dep. Moquegua",
-      "pj": 6,
-      "dg": 0,
-      "pts": 7,
-      "pos": 12
-    },
-    {
       "eq": "Sport Huancayo",
       "pj": 6,
       "dg": -2,
       "pts": 7,
-      "pos": 13
+      "pos": 12
     },
     {
       "eq": "FC Cajamarca",
+      "pj": 7,
+      "dg": -3,
+      "pts": 7,
+      "pos": 13
+    },
+    {
+      "eq": "Dep. Moquegua",
       "pj": 7,
       "dg": -3,
       "pts": 7,
@@ -268,7 +268,7 @@
         {
           "l": "ADT",
           "v": "Sport Huancayo",
-          "m": "0 - 3"
+          "m": "1 - 3"
         },
         {
           "l": "Sport Boys",
