@@ -1,5 +1,5 @@
 {
-  "actualizado": "30 ago 2026, 3:11 p.m.",
+  "actualizado": "30 ago 2026, 4:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -86,30 +86,30 @@
       "pos": 12
     },
     {
+      "eq": "Sport Huancayo",
+      "pj": 24,
+      "dg": -10,
+      "pts": 26,
+      "pos": 13
+    },
+    {
       "eq": "Dep. Moquegua",
       "pj": 24,
       "dg": -10,
       "pts": 25,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "FC Cajamarca",
       "pj": 24,
       "dg": -8,
       "pts": 24,
-      "pos": 14
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 23,
-      "dg": -12,
-      "pts": 23,
       "pos": 15
     },
     {
       "eq": "ADT",
-      "pj": 23,
-      "dg": -7,
+      "pj": 24,
+      "dg": -9,
       "pts": 22,
       "pos": 16
     },
@@ -193,24 +193,24 @@
       "pos": 9
     },
     {
+      "eq": "Sport Huancayo",
+      "pj": 7,
+      "dg": 0,
+      "pts": 10,
+      "pos": 10
+    },
+    {
       "eq": "Cusco FC",
       "pj": 6,
       "dg": 2,
       "pts": 9,
-      "pos": 10
+      "pos": 11
     },
     {
       "eq": "Comer Unid",
       "pj": 7,
       "dg": 1,
       "pts": 8,
-      "pos": 11
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 6,
-      "dg": -2,
-      "pts": 7,
       "pos": 12
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 6,
-      "dg": -8,
+      "pj": 7,
+      "dg": -10,
       "pts": 2,
       "pos": 17
     },
@@ -273,7 +273,7 @@
         {
           "l": "Sport Boys",
           "v": "Sporting Cristal",
-          "h": "3:30 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Cienciano",
