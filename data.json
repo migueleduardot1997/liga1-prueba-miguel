@@ -1,10 +1,10 @@
 {
-  "actualizado": "29 ago 2026, 9:11 p.m.",
+  "actualizado": "29 ago 2026, 10:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
-      "pj": 23,
-      "dg": 26,
+      "pj": 24,
+      "dg": 25,
       "pts": 52,
       "pos": 1
     },
@@ -16,23 +16,23 @@
       "pos": 2
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 24,
+      "dg": 10,
+      "pts": 42,
+      "pos": 3
+    },
+    {
       "eq": "Los Chankas",
       "pj": 24,
       "dg": -3,
       "pts": 41,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Melgar",
       "pj": 23,
       "dg": 13,
-      "pts": 39,
-      "pos": 4
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 23,
-      "dg": 9,
       "pts": 39,
       "pos": 5
     },
@@ -130,23 +130,23 @@
   ],
   "clausura": [
     {
-      "eq": "Universitario",
+      "eq": "Dep. Garcilaso",
       "pj": 7,
-      "dg": 6,
+      "dg": 7,
       "pts": 16,
       "pos": 1
     },
     {
-      "eq": "Dep. Garcilaso",
-      "pj": 6,
+      "eq": "Universitario",
+      "pj": 7,
       "dg": 6,
-      "pts": 13,
+      "pts": 16,
       "pos": 2
     },
     {
       "eq": "Alianza Lima",
-      "pj": 6,
-      "dg": 4,
+      "pj": 7,
+      "dg": 3,
       "pts": 12,
       "pos": 3
     },
