@@ -1,5 +1,5 @@
 {
-  "actualizado": "1 sep 2026, 5:17 p.m.",
+  "actualizado": "1 sep 2026, 6:15 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -31,8 +31,8 @@
     },
     {
       "eq": "Melgar",
-      "pj": 23,
-      "dg": 13,
+      "pj": 24,
+      "dg": 12,
       "pts": 39,
       "pos": 5
     },
@@ -72,17 +72,17 @@
       "pos": 10
     },
     {
+      "eq": "Atlético Grau",
+      "pj": 24,
+      "dg": -3,
+      "pts": 29,
+      "pos": 11
+    },
+    {
       "eq": "Juan Pablo II",
       "pj": 24,
       "dg": -15,
       "pts": 27,
-      "pos": 11
-    },
-    {
-      "eq": "Atlético Grau",
-      "pj": 23,
-      "dg": -4,
-      "pts": 26,
       "pos": 12
     },
     {
@@ -158,24 +158,24 @@
       "pos": 4
     },
     {
-      "eq": "Cusco FC",
+      "eq": "Atlético Grau",
       "pj": 7,
       "dg": 3,
-      "pts": 12,
+      "pts": 13,
       "pos": 5
     },
     {
-      "eq": "Alianza Lima",
+      "eq": "Cusco FC",
       "pj": 7,
       "dg": 3,
       "pts": 12,
       "pos": 6
     },
     {
-      "eq": "Melgar",
-      "pj": 6,
-      "dg": 4,
-      "pts": 11,
+      "eq": "Alianza Lima",
+      "pj": 7,
+      "dg": 3,
+      "pts": 12,
       "pos": 7
     },
     {
@@ -186,15 +186,15 @@
       "pos": 8
     },
     {
-      "eq": "Sporting Cristal",
+      "eq": "Melgar",
       "pj": 7,
-      "dg": 2,
-      "pts": 10,
+      "dg": 3,
+      "pts": 11,
       "pos": 9
     },
     {
-      "eq": "Atlético Grau",
-      "pj": 6,
+      "eq": "Sporting Cristal",
+      "pj": 7,
       "dg": 2,
       "pts": 10,
       "pos": 10
