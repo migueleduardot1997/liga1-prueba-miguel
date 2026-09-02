@@ -1,5 +1,5 @@
 {
-  "actualizado": "1 sep 2026, 10:18 p.m.",
+  "actualizado": "1 sep 2026, 11:20 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,12 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Martes 1 de septiembre",
+      "dia": "Viernes 4 de septiembre",
       "juegos": [
         {
-          "l": "Atlético Grau",
-          "v": "Melgar",
-          "m": "1 - 0"
+          "l": "FC Cajamarca",
+          "v": "Cienciano",
+          "h": "1:00 p.m."
+        },
+        {
+          "l": "Alianza Atlético",
+          "v": "UTC",
+          "h": "3:15 p.m."
         }
       ]
     }
