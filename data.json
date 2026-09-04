@@ -1,5 +1,5 @@
 {
-  "actualizado": "4 sep 2026, 3:18 p.m.",
+  "actualizado": "4 sep 2026, 4:17 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -30,24 +30,24 @@
       "pos": 4
     },
     {
+      "eq": "Cienciano",
+      "pj": 25,
+      "dg": 7,
+      "pts": 40,
+      "pos": 5
+    },
+    {
       "eq": "Melgar",
       "pj": 24,
       "dg": 12,
       "pts": 39,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Cusco FC",
       "pj": 24,
       "dg": 0,
       "pts": 39,
-      "pos": 6
-    },
-    {
-      "eq": "Cienciano",
-      "pj": 24,
-      "dg": 4,
-      "pts": 37,
       "pos": 7
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 24,
-      "dg": -8,
+      "pj": 25,
+      "dg": -11,
       "pts": 24,
       "pos": 15
     },
@@ -214,31 +214,31 @@
       "pos": 12
     },
     {
-      "eq": "FC Cajamarca",
+      "eq": "Dep. Moquegua",
       "pj": 7,
       "dg": -3,
       "pts": 7,
       "pos": 13
     },
     {
-      "eq": "Dep. Moquegua",
-      "pj": 7,
-      "dg": -3,
+      "eq": "Cienciano",
+      "pj": 8,
+      "dg": -5,
       "pts": 7,
       "pos": 14
+    },
+    {
+      "eq": "FC Cajamarca",
+      "pj": 8,
+      "dg": -6,
+      "pts": 7,
+      "pos": 15
     },
     {
       "eq": "Los Chankas",
       "pj": 7,
       "dg": -7,
       "pts": 7,
-      "pos": 15
-    },
-    {
-      "eq": "Cienciano",
-      "pj": 7,
-      "dg": -8,
-      "pts": 4,
       "pos": 16
     },
     {
@@ -268,7 +268,7 @@
         {
           "l": "Alianza Atlético",
           "v": "UTC",
-          "m": "0 - 0"
+          "m": "2 - 1"
         }
       ]
     }
