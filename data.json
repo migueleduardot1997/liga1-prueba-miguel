@@ -1,5 +1,5 @@
 {
-  "actualizado": "4 sep 2026, 5:17 p.m.",
+  "actualizado": "4 sep 2026, 6:16 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -52,9 +52,9 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 24,
-      "dg": 5,
-      "pts": 34,
+      "pj": 25,
+      "dg": 6,
+      "pts": 37,
       "pos": 8
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 24,
-      "dg": -15,
+      "pj": 25,
+      "dg": -16,
       "pts": 10,
       "pos": 17
     },
@@ -144,17 +144,17 @@
       "pos": 2
     },
     {
+      "eq": "Alianza Atlético",
+      "pj": 8,
+      "dg": 4,
+      "pts": 16,
+      "pos": 3
+    },
+    {
       "eq": "Sport Boys",
       "pj": 7,
       "dg": 7,
       "pts": 14,
-      "pos": 3
-    },
-    {
-      "eq": "Alianza Atlético",
-      "pj": 7,
-      "dg": 3,
-      "pts": 13,
       "pos": 4
     },
     {
@@ -250,8 +250,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 7,
-      "dg": -10,
+      "pj": 8,
+      "dg": -11,
       "pts": -3,
       "pos": 18
     }
