@@ -1,5 +1,5 @@
 {
-  "actualizado": "5 sep 2026, 1:22 a.m.",
+  "actualizado": "5 sep 2026, 2:16 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 4 de septiembre",
+      "dia": "Sábado 5 de septiembre",
       "juegos": [
         {
-          "l": "FC Cajamarca",
-          "v": "Cienciano",
-          "m": "2 - 5"
+          "l": "Sport Huancayo",
+          "v": "Sport Boys",
+          "h": "3:00 p.m."
         },
         {
-          "l": "Alianza Atlético",
-          "v": "UTC",
-          "m": "3 - 2"
+          "l": "Cusco FC",
+          "v": "Dep. Moquegua",
+          "h": "6:00 p.m."
+        },
+        {
+          "l": "Universitario",
+          "v": "Comer Unid",
+          "h": "8:30 p.m."
         }
       ]
     }
