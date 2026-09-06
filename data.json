@@ -1,11 +1,11 @@
 {
-  "actualizado": "6 sep 2026, 4:17 p.m.",
+  "actualizado": "6 sep 2026, 5:18 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
-      "pj": 24,
+      "pj": 25,
       "dg": 25,
-      "pts": 52,
+      "pts": 53,
       "pos": 1
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 24,
+      "pj": 25,
       "dg": -15,
-      "pts": 27,
+      "pts": 28,
       "pos": 13
     },
     {
@@ -172,31 +172,31 @@
       "pos": 6
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Alianza Lima",
       "pj": 8,
-      "dg": 1,
+      "dg": 3,
       "pts": 13,
       "pos": 7
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "Sport Huancayo",
       "pj": 8,
       "dg": 1,
       "pts": 13,
       "pos": 8
     },
     {
-      "eq": "Alianza Lima",
-      "pj": 7,
-      "dg": 3,
-      "pts": 12,
+      "eq": "Atlético Grau",
+      "pj": 8,
+      "dg": 1,
+      "pts": 13,
       "pos": 9
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 7,
+      "pj": 8,
       "dg": 3,
-      "pts": 11,
+      "pts": 12,
       "pos": 10
     },
     {
