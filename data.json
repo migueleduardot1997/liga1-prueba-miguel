@@ -1,5 +1,5 @@
 {
-  "actualizado": "6 sep 2026, 1:22 a.m.",
+  "actualizado": "6 sep 2026, 2:17 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,22 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 5 de septiembre",
+      "dia": "Domingo 6 de septiembre",
       "juegos": [
         {
-          "l": "Sport Huancayo",
-          "v": "Sport Boys",
-          "m": "2 - 1"
+          "l": "Sporting Cristal",
+          "v": "Los Chankas",
+          "h": "11:00 a.m."
         },
         {
-          "l": "Cusco FC",
-          "v": "Dep. Moquegua",
-          "m": "2 - 0"
+          "l": "Dep. Garcilaso",
+          "v": "Atlético Grau",
+          "h": "1:30 p.m."
         },
         {
-          "l": "Universitario",
-          "v": "Comer Unid",
-          "m": "2 - 2"
+          "l": "Juan Pablo II",
+          "v": "Alianza Lima",
+          "h": "3:00 p.m."
+        },
+        {
+          "l": "Melgar",
+          "v": "ADT",
+          "h": "6:30 p.m."
         }
       ]
     }
