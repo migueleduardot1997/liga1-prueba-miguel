@@ -1,5 +1,5 @@
 {
-  "actualizado": "5 sep 2026, 6:16 p.m.",
+  "actualizado": "5 sep 2026, 7:31 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -59,8 +59,8 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": 24,
-      "dg": 3,
+      "pj": 25,
+      "dg": 2,
       "pts": 34,
       "pos": 9
     },
@@ -79,17 +79,17 @@
       "pos": 11
     },
     {
+      "eq": "Sport Huancayo",
+      "pj": 25,
+      "dg": -9,
+      "pts": 29,
+      "pos": 12
+    },
+    {
       "eq": "Juan Pablo II",
       "pj": 24,
       "dg": -15,
       "pts": 27,
-      "pos": 12
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 24,
-      "dg": -10,
-      "pts": 26,
       "pos": 13
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": 7,
-      "dg": 7,
+      "pj": 8,
+      "dg": 6,
       "pts": 14,
       "pos": 4
     },
@@ -165,44 +165,44 @@
       "pos": 5
     },
     {
-      "eq": "Cusco FC",
-      "pj": 7,
-      "dg": 3,
-      "pts": 12,
+      "eq": "Sport Huancayo",
+      "pj": 8,
+      "dg": 1,
+      "pts": 13,
       "pos": 6
     },
     {
-      "eq": "Alianza Lima",
+      "eq": "Cusco FC",
       "pj": 7,
       "dg": 3,
       "pts": 12,
       "pos": 7
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Alianza Lima",
       "pj": 7,
       "dg": 3,
-      "pts": 11,
+      "pts": 12,
       "pos": 8
     },
     {
-      "eq": "Melgar",
+      "eq": "Juan Pablo II",
       "pj": 7,
       "dg": 3,
       "pts": 11,
       "pos": 9
     },
     {
-      "eq": "Sporting Cristal",
+      "eq": "Melgar",
       "pj": 7,
-      "dg": 2,
-      "pts": 10,
+      "dg": 3,
+      "pts": 11,
       "pos": 10
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Sporting Cristal",
       "pj": 7,
-      "dg": 0,
+      "dg": 2,
       "pts": 10,
       "pos": 11
     },
