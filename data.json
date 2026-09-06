@@ -1,5 +1,5 @@
 {
-  "actualizado": "6 sep 2026, 12:16 p.m.",
+  "actualizado": "6 sep 2026, 1:20 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -31,8 +31,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 24,
-      "dg": -3,
+      "pj": 25,
+      "dg": -8,
       "pts": 41,
       "pos": 5
     },
@@ -66,9 +66,9 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": 24,
-      "dg": 0,
-      "pts": 29,
+      "pj": 25,
+      "dg": 5,
+      "pts": 32,
       "pos": 10
     },
     {
@@ -165,45 +165,45 @@
       "pos": 5
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 8,
+      "dg": 7,
+      "pts": 13,
+      "pos": 6
+    },
+    {
       "eq": "Atlético Grau",
       "pj": 7,
       "dg": 3,
       "pts": 13,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Sport Huancayo",
       "pj": 8,
       "dg": 1,
       "pts": 13,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Alianza Lima",
       "pj": 7,
       "dg": 3,
       "pts": 12,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Juan Pablo II",
       "pj": 7,
       "dg": 3,
       "pts": 11,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Melgar",
       "pj": 7,
       "dg": 3,
       "pts": 11,
-      "pos": 10
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 7,
-      "dg": 2,
-      "pts": 10,
       "pos": 11
     },
     {
@@ -236,8 +236,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 7,
-      "dg": -7,
+      "pj": 8,
+      "dg": -12,
       "pts": 7,
       "pos": 16
     },
@@ -263,7 +263,7 @@
         {
           "l": "Sporting Cristal",
           "v": "Los Chankas",
-          "m": "2 - 0"
+          "m": "5 - 0"
         },
         {
           "l": "Dep. Garcilaso",
