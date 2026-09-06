@@ -1,5 +1,5 @@
 {
-  "actualizado": "5 sep 2026, 10:18 p.m.",
+  "actualizado": "5 sep 2026, 11:18 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -10,9 +10,9 @@
     },
     {
       "eq": "Universitario",
-      "pj": 24,
+      "pj": 25,
       "dg": 15,
-      "pts": 45,
+      "pts": 46,
       "pos": 2
     },
     {
@@ -122,24 +122,24 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 24,
+      "pj": 25,
       "dg": 1,
-      "pts": 8,
+      "pts": 9,
       "pos": 18
     }
   ],
   "clausura": [
     {
-      "eq": "Dep. Garcilaso",
-      "pj": 7,
-      "dg": 7,
-      "pts": 16,
+      "eq": "Universitario",
+      "pj": 8,
+      "dg": 6,
+      "pts": 17,
       "pos": 1
     },
     {
-      "eq": "Universitario",
+      "eq": "Dep. Garcilaso",
       "pj": 7,
-      "dg": 6,
+      "dg": 7,
       "pts": 16,
       "pos": 2
     },
@@ -208,9 +208,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 7,
+      "pj": 8,
       "dg": 1,
-      "pts": 8,
+      "pts": 9,
       "pos": 12
     },
     {
