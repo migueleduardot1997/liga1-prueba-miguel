@@ -1,5 +1,5 @@
 {
-  "actualizado": "6 sep 2026, 3:18 p.m.",
+  "actualizado": "6 sep 2026, 4:17 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -17,9 +17,9 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": 24,
-      "dg": 10,
-      "pts": 42,
+      "pj": 25,
+      "dg": 12,
+      "pts": 45,
       "pos": 3
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": 24,
-      "dg": -3,
+      "pj": 25,
+      "dg": -5,
       "pts": 29,
       "pos": 11
     },
@@ -130,17 +130,17 @@
   ],
   "clausura": [
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 8,
+      "dg": 9,
+      "pts": 19,
+      "pos": 1
+    },
+    {
       "eq": "Universitario",
       "pj": 8,
       "dg": 6,
       "pts": 17,
-      "pos": 1
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 7,
-      "dg": 7,
-      "pts": 16,
       "pos": 2
     },
     {
@@ -172,14 +172,14 @@
       "pos": 6
     },
     {
-      "eq": "Atlético Grau",
-      "pj": 7,
-      "dg": 3,
+      "eq": "Sport Huancayo",
+      "pj": 8,
+      "dg": 1,
       "pts": 13,
       "pos": 7
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Atlético Grau",
       "pj": 8,
       "dg": 1,
       "pts": 13,
@@ -268,12 +268,12 @@
         {
           "l": "Dep. Garcilaso",
           "v": "Atlético Grau",
-          "m": "3 - 2"
+          "m": "4 - 2"
         },
         {
           "l": "Juan Pablo II",
           "v": "Alianza Lima",
-          "m": "0 - 0"
+          "m": "1 - 1"
         },
         {
           "l": "Melgar",
