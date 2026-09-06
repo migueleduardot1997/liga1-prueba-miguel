@@ -1,5 +1,5 @@
 {
-  "actualizado": "5 sep 2026, 8:16 p.m.",
+  "actualizado": "5 sep 2026, 9:18 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -23,30 +23,30 @@
       "pos": 3
     },
     {
+      "eq": "Cusco FC",
+      "pj": 25,
+      "dg": 2,
+      "pts": 42,
+      "pos": 4
+    },
+    {
       "eq": "Los Chankas",
       "pj": 24,
       "dg": -3,
       "pts": 41,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Cienciano",
       "pj": 25,
       "dg": 7,
       "pts": 40,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Melgar",
       "pj": 24,
       "dg": 12,
-      "pts": 39,
-      "pos": 6
-    },
-    {
-      "eq": "Cusco FC",
-      "pj": 24,
-      "dg": 0,
       "pts": 39,
       "pos": 7
     },
@@ -94,8 +94,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 24,
-      "dg": -10,
+      "pj": 25,
+      "dg": -12,
       "pts": 25,
       "pos": 14
     },
@@ -151,31 +151,31 @@
       "pos": 3
     },
     {
+      "eq": "Cusco FC",
+      "pj": 8,
+      "dg": 5,
+      "pts": 15,
+      "pos": 4
+    },
+    {
       "eq": "Sport Boys",
       "pj": 8,
       "dg": 6,
       "pts": 14,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Atlético Grau",
       "pj": 7,
       "dg": 3,
       "pts": 13,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Sport Huancayo",
       "pj": 8,
       "dg": 1,
       "pts": 13,
-      "pos": 6
-    },
-    {
-      "eq": "Cusco FC",
-      "pj": 7,
-      "dg": 3,
-      "pts": 12,
       "pos": 7
     },
     {
@@ -214,14 +214,14 @@
       "pos": 12
     },
     {
-      "eq": "Dep. Moquegua",
-      "pj": 7,
-      "dg": -3,
+      "eq": "Cienciano",
+      "pj": 8,
+      "dg": -5,
       "pts": 7,
       "pos": 13
     },
     {
-      "eq": "Cienciano",
+      "eq": "Dep. Moquegua",
       "pj": 8,
       "dg": -5,
       "pts": 7,
@@ -273,7 +273,7 @@
         {
           "l": "Universitario",
           "v": "Comer Unid",
-          "h": "8:30 p.m."
+          "m": "0 - 1"
         }
       ]
     }
