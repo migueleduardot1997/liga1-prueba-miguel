@@ -1,5 +1,5 @@
 {
-  "actualizado": "6 sep 2026, 9:19 p.m.",
+  "actualizado": "6 sep 2026, 10:20 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -23,31 +23,31 @@
       "pos": 3
     },
     {
+      "eq": "Melgar",
+      "pj": 25,
+      "dg": 15,
+      "pts": 42,
+      "pos": 4
+    },
+    {
       "eq": "Cusco FC",
       "pj": 25,
       "dg": 2,
       "pts": 42,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Los Chankas",
       "pj": 25,
       "dg": -8,
       "pts": 41,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Cienciano",
       "pj": 25,
       "dg": 7,
       "pts": 40,
-      "pos": 6
-    },
-    {
-      "eq": "Melgar",
-      "pj": 24,
-      "dg": 12,
-      "pts": 39,
       "pos": 7
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 24,
-      "dg": -9,
+      "pj": 25,
+      "dg": -12,
       "pts": 22,
       "pos": 16
     },
@@ -158,52 +158,52 @@
       "pos": 4
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Melgar",
       "pj": 8,
       "dg": 6,
       "pts": 14,
       "pos": 5
     },
     {
+      "eq": "Sport Boys",
+      "pj": 8,
+      "dg": 6,
+      "pts": 14,
+      "pos": 6
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 8,
       "dg": 7,
       "pts": 13,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Alianza Lima",
       "pj": 8,
       "dg": 3,
       "pts": 13,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Sport Huancayo",
       "pj": 8,
       "dg": 1,
       "pts": 13,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Atlético Grau",
       "pj": 8,
       "dg": 1,
       "pts": 13,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Juan Pablo II",
       "pj": 8,
       "dg": 3,
       "pts": 12,
-      "pos": 10
-    },
-    {
-      "eq": "Melgar",
-      "pj": 7,
-      "dg": 3,
-      "pts": 11,
       "pos": 11
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 7,
-      "dg": -10,
+      "pj": 8,
+      "dg": -13,
       "pts": 2,
       "pos": 17
     },
