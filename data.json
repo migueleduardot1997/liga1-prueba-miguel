@@ -1,5 +1,5 @@
 {
-  "actualizado": "7 sep 2026, 8:07 p.m.",
+  "actualizado": "8 sep 2026, 12:53 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,27 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 6 de septiembre",
+      "dia": "Viernes 11 de septiembre",
       "juegos": [
         {
-          "l": "Sporting Cristal",
-          "v": "Los Chankas",
-          "m": "5 - 0"
+          "l": "UTC",
+          "v": "Juan Pablo II",
+          "h": "3:00 p.m."
         },
         {
-          "l": "Dep. Garcilaso",
-          "v": "Atlético Grau",
-          "m": "4 - 2"
-        },
-        {
-          "l": "Juan Pablo II",
-          "v": "Alianza Lima",
-          "m": "1 - 1"
-        },
-        {
-          "l": "Melgar",
-          "v": "ADT",
-          "m": "3 - 0"
+          "l": "Cusco FC",
+          "v": "Melgar",
+          "h": "7:00 p.m."
         }
       ]
     }
