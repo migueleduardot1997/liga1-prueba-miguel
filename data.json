@@ -1,5 +1,5 @@
 {
-  "actualizado": "11 sep 2026, 4:40 p.m.",
+  "actualizado": "11 sep 2026, 7:09 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -72,24 +72,24 @@
       "pos": 10
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 26,
+      "dg": -14,
+      "pts": 31,
+      "pos": 11
+    },
+    {
       "eq": "Atlético Grau",
       "pj": 25,
       "dg": -5,
       "pts": 29,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Sport Huancayo",
       "pj": 25,
       "dg": -9,
       "pts": 29,
-      "pos": 12
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 25,
-      "dg": -15,
-      "pts": 28,
       "pos": 13
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 25,
-      "dg": -16,
+      "pj": 26,
+      "dg": -17,
       "pts": 10,
       "pos": 17
     },
@@ -158,52 +158,52 @@
       "pos": 4
     },
     {
-      "eq": "Melgar",
-      "pj": 8,
-      "dg": 6,
-      "pts": 14,
+      "eq": "Juan Pablo II",
+      "pj": 9,
+      "dg": 4,
+      "pts": 15,
       "pos": 5
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Melgar",
       "pj": 8,
       "dg": 6,
       "pts": 14,
       "pos": 6
     },
     {
+      "eq": "Sport Boys",
+      "pj": 8,
+      "dg": 6,
+      "pts": 14,
+      "pos": 7
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 8,
       "dg": 7,
       "pts": 13,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Alianza Lima",
       "pj": 8,
       "dg": 3,
       "pts": 13,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Sport Huancayo",
       "pj": 8,
       "dg": 1,
       "pts": 13,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Atlético Grau",
       "pj": 8,
       "dg": 1,
       "pts": 13,
-      "pos": 10
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 8,
-      "dg": 3,
-      "pts": 12,
       "pos": 11
     },
     {
@@ -250,8 +250,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 8,
-      "dg": -11,
+      "pj": 9,
+      "dg": -12,
       "pts": -3,
       "pos": 18
     }
@@ -263,12 +263,12 @@
         {
           "l": "UTC",
           "v": "Juan Pablo II",
-          "m": "1 - 1"
+          "m": "1 - 2"
         },
         {
           "l": "Cusco FC",
           "v": "Melgar",
-          "h": "7:00 p.m."
+          "m": "0 - 0"
         }
       ]
     }
