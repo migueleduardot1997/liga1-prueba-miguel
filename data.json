@@ -1,5 +1,5 @@
 {
-  "actualizado": "12 sep 2026, 2:11 p.m.",
+  "actualizado": "12 sep 2026, 5:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -72,23 +72,23 @@
       "pos": 10
     },
     {
+      "eq": "Sport Huancayo",
+      "pj": 26,
+      "dg": -8,
+      "pts": 32,
+      "pos": 11
+    },
+    {
       "eq": "Juan Pablo II",
       "pj": 26,
       "dg": -14,
       "pts": 31,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Atlético Grau",
       "pj": 25,
       "dg": -5,
-      "pts": 29,
-      "pos": 12
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 25,
-      "dg": -9,
       "pts": 29,
       "pos": 13
     },
@@ -122,8 +122,8 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 25,
-      "dg": 1,
+      "pj": 26,
+      "dg": 0,
       "pts": 9,
       "pos": 18
     }
@@ -158,44 +158,44 @@
       "pos": 4
     },
     {
-      "eq": "Cusco FC",
+      "eq": "Sport Huancayo",
       "pj": 9,
-      "dg": 4,
-      "pts": 15,
+      "dg": 2,
+      "pts": 16,
       "pos": 5
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Cusco FC",
       "pj": 9,
       "dg": 4,
       "pts": 15,
       "pos": 6
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 9,
+      "dg": 4,
+      "pts": 15,
+      "pos": 7
+    },
+    {
       "eq": "Sport Boys",
       "pj": 8,
       "dg": 6,
       "pts": 14,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Sporting Cristal",
       "pj": 8,
       "dg": 7,
       "pts": 13,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Alianza Lima",
       "pj": 8,
       "dg": 3,
-      "pts": 13,
-      "pos": 9
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 8,
-      "dg": 1,
       "pts": 13,
       "pos": 10
     },
@@ -215,8 +215,8 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 8,
-      "dg": 1,
+      "pj": 9,
+      "dg": 0,
       "pts": 9,
       "pos": 13
     },
@@ -268,7 +268,7 @@
         {
           "l": "Comer Unid",
           "v": "Sport Huancayo",
-          "m": "0 - 0"
+          "m": "0 - 1"
         },
         {
           "l": "Alianza Lima",
