@@ -1,5 +1,5 @@
 {
-  "actualizado": "12 sep 2026, 11:58 a.m.",
+  "actualizado": "12 sep 2026, 2:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -38,8 +38,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 25,
-      "dg": -8,
+      "pj": 26,
+      "dg": -9,
       "pts": 41,
       "pos": 6
     },
@@ -93,17 +93,17 @@
       "pos": 13
     },
     {
+      "eq": "FC Cajamarca",
+      "pj": 26,
+      "dg": -10,
+      "pts": 27,
+      "pos": 14
+    },
+    {
       "eq": "Dep. Moquegua",
       "pj": 25,
       "dg": -12,
       "pts": 25,
-      "pos": 14
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 25,
-      "dg": -11,
-      "pts": 24,
       "pos": 15
     },
     {
@@ -207,37 +207,37 @@
       "pos": 11
     },
     {
+      "eq": "FC Cajamarca",
+      "pj": 9,
+      "dg": -5,
+      "pts": 10,
+      "pos": 12
+    },
+    {
       "eq": "Comer Unid",
       "pj": 8,
       "dg": 1,
       "pts": 9,
-      "pos": 12
+      "pos": 13
     },
     {
       "eq": "Cienciano",
       "pj": 8,
       "dg": -5,
       "pts": 7,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 8,
       "dg": -5,
       "pts": 7,
-      "pos": 14
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 8,
-      "dg": -6,
-      "pts": 7,
       "pos": 15
     },
     {
       "eq": "Los Chankas",
-      "pj": 8,
-      "dg": -12,
+      "pj": 9,
+      "dg": -13,
       "pts": 7,
       "pos": 16
     },
@@ -268,7 +268,7 @@
         {
           "l": "Comer Unid",
           "v": "Sport Huancayo",
-          "h": "1:00 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Alianza Lima",
