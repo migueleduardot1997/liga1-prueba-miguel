@@ -1,5 +1,5 @@
 {
-  "actualizado": "11 sep 2026, 11:28 p.m.",
+  "actualizado": "12 sep 2026, 4:11 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 11 de septiembre",
+      "dia": "Sábado 12 de septiembre",
       "juegos": [
         {
-          "l": "UTC",
-          "v": "Juan Pablo II",
-          "m": "1 - 2"
+          "l": "Los Chankas",
+          "v": "FC Cajamarca",
+          "h": "10:30 a.m."
         },
         {
-          "l": "Cusco FC",
-          "v": "Melgar",
-          "m": "0 - 1"
+          "l": "Comer Unid",
+          "v": "Sport Huancayo",
+          "h": "1:00 p.m."
+        },
+        {
+          "l": "Dep. Moquegua",
+          "v": "Sporting Cristal",
+          "h": "3:15 p.m."
+        },
+        {
+          "l": "Alianza Lima",
+          "v": "Universitario",
+          "h": "8:00 p.m."
         }
       ]
     }
