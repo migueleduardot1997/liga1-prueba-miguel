@@ -1,5 +1,5 @@
 {
-  "actualizado": "11 sep 2026, 7:09 p.m.",
+  "actualizado": "11 sep 2026, 11:28 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -16,23 +16,23 @@
       "pos": 2
     },
     {
-      "eq": "Dep. Garcilaso",
-      "pj": 25,
-      "dg": 12,
+      "eq": "Melgar",
+      "pj": 26,
+      "dg": 16,
       "pts": 45,
       "pos": 3
     },
     {
-      "eq": "Melgar",
+      "eq": "Dep. Garcilaso",
       "pj": 25,
-      "dg": 15,
-      "pts": 42,
+      "dg": 12,
+      "pts": 45,
       "pos": 4
     },
     {
       "eq": "Cusco FC",
-      "pj": 25,
-      "dg": 2,
+      "pj": 26,
+      "dg": 1,
       "pts": 42,
       "pos": 5
     },
@@ -137,38 +137,38 @@
       "pos": 1
     },
     {
+      "eq": "Melgar",
+      "pj": 9,
+      "dg": 7,
+      "pts": 17,
+      "pos": 2
+    },
+    {
       "eq": "Universitario",
       "pj": 8,
       "dg": 6,
       "pts": 17,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Alianza Atlético",
       "pj": 8,
       "dg": 4,
       "pts": 16,
-      "pos": 3
-    },
-    {
-      "eq": "Cusco FC",
-      "pj": 8,
-      "dg": 5,
-      "pts": 15,
       "pos": 4
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Cusco FC",
       "pj": 9,
       "dg": 4,
       "pts": 15,
       "pos": 5
     },
     {
-      "eq": "Melgar",
-      "pj": 8,
-      "dg": 6,
-      "pts": 14,
+      "eq": "Juan Pablo II",
+      "pj": 9,
+      "dg": 4,
+      "pts": 15,
       "pos": 6
     },
     {
@@ -268,7 +268,7 @@
         {
           "l": "Cusco FC",
           "v": "Melgar",
-          "m": "0 - 0"
+          "m": "0 - 1"
         }
       ]
     }
