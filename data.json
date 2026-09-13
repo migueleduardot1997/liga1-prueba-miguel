@@ -1,5 +1,5 @@
 {
-  "actualizado": "13 sep 2026, 1:45 p.m.",
+  "actualizado": "13 sep 2026, 4:23 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -24,8 +24,8 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": 25,
-      "dg": 12,
+      "pj": 26,
+      "dg": 11,
       "pts": 45,
       "pos": 4
     },
@@ -58,17 +58,17 @@
       "pos": 8
     },
     {
+      "eq": "Sport Boys",
+      "pj": 26,
+      "dg": 3,
+      "pts": 37,
+      "pos": 9
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 26,
       "dg": 6,
       "pts": 35,
-      "pos": 9
-    },
-    {
-      "eq": "Sport Boys",
-      "pj": 25,
-      "dg": 2,
-      "pts": 34,
       "pos": 10
     },
     {
@@ -138,8 +138,8 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": 8,
-      "dg": 9,
+      "pj": 9,
+      "dg": 8,
       "pts": 19,
       "pos": 2
     },
@@ -151,45 +151,45 @@
       "pos": 3
     },
     {
+      "eq": "Sport Boys",
+      "pj": 9,
+      "dg": 7,
+      "pts": 17,
+      "pos": 4
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 9,
       "dg": 8,
       "pts": 16,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Alianza Atlético",
       "pj": 8,
       "dg": 4,
       "pts": 16,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Sport Huancayo",
       "pj": 9,
       "dg": 2,
       "pts": 16,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Cusco FC",
       "pj": 9,
       "dg": 4,
       "pts": 15,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Juan Pablo II",
       "pj": 9,
       "dg": 4,
       "pts": 15,
-      "pos": 8
-    },
-    {
-      "eq": "Sport Boys",
-      "pj": 8,
-      "dg": 6,
-      "pts": 14,
       "pos": 9
     },
     {
@@ -268,12 +268,12 @@
         {
           "l": "Sport Boys",
           "v": "Dep. Garcilaso",
-          "m": "0 - 0"
+          "m": "1 - 0"
         },
         {
           "l": "Atlético Grau",
           "v": "Alianza Atlético",
-          "h": "3:15 p.m."
+          "m": "1 - 1"
         }
       ]
     }
