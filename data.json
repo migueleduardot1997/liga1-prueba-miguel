@@ -1,5 +1,5 @@
 {
-  "actualizado": "13 sep 2026, 11:08 a.m.",
+  "actualizado": "13 sep 2026, 1:45 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -58,17 +58,17 @@
       "pos": 8
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 26,
+      "dg": 6,
+      "pts": 35,
+      "pos": 9
+    },
+    {
       "eq": "Sport Boys",
       "pj": 25,
       "dg": 2,
       "pts": 34,
-      "pos": 9
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 25,
-      "dg": 5,
-      "pts": 32,
       "pos": 10
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 25,
-      "dg": -12,
+      "pj": 26,
+      "dg": -13,
       "pts": 25,
       "pos": 15
     },
@@ -151,45 +151,45 @@
       "pos": 3
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 9,
+      "dg": 8,
+      "pts": 16,
+      "pos": 4
+    },
+    {
       "eq": "Alianza Atlético",
       "pj": 8,
       "dg": 4,
       "pts": 16,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Sport Huancayo",
       "pj": 9,
       "dg": 2,
       "pts": 16,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Cusco FC",
       "pj": 9,
       "dg": 4,
       "pts": 15,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Juan Pablo II",
       "pj": 9,
       "dg": 4,
       "pts": 15,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Sport Boys",
       "pj": 8,
       "dg": 6,
       "pts": 14,
-      "pos": 8
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 8,
-      "dg": 7,
-      "pts": 13,
       "pos": 9
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 8,
-      "dg": -5,
+      "pj": 9,
+      "dg": -6,
       "pts": 7,
       "pos": 15
     },
@@ -268,7 +268,7 @@
         {
           "l": "Sport Boys",
           "v": "Dep. Garcilaso",
-          "h": "1:00 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Atlético Grau",
