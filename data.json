@@ -1,5 +1,5 @@
 {
-  "actualizado": "13 sep 2026, 4:23 p.m.",
+  "actualizado": "13 sep 2026, 7:05 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -52,8 +52,8 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 25,
-      "dg": 6,
+      "pj": 26,
+      "dg": 4,
       "pts": 37,
       "pos": 8
     },
@@ -72,24 +72,24 @@
       "pos": 10
     },
     {
+      "eq": "Atlético Grau",
+      "pj": 26,
+      "dg": -3,
+      "pts": 32,
+      "pos": 11
+    },
+    {
       "eq": "Sport Huancayo",
       "pj": 26,
       "dg": -8,
       "pts": 32,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Juan Pablo II",
       "pj": 26,
       "dg": -14,
       "pts": 31,
-      "pos": 12
-    },
-    {
-      "eq": "Atlético Grau",
-      "pj": 25,
-      "dg": -5,
-      "pts": 29,
       "pos": 13
     },
     {
@@ -165,44 +165,44 @@
       "pos": 5
     },
     {
-      "eq": "Alianza Atlético",
-      "pj": 8,
-      "dg": 4,
+      "eq": "Atlético Grau",
+      "pj": 9,
+      "dg": 3,
       "pts": 16,
       "pos": 6
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Alianza Atlético",
       "pj": 9,
       "dg": 2,
       "pts": 16,
       "pos": 7
     },
     {
-      "eq": "Cusco FC",
+      "eq": "Sport Huancayo",
       "pj": 9,
-      "dg": 4,
-      "pts": 15,
+      "dg": 2,
+      "pts": 16,
       "pos": 8
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Cusco FC",
       "pj": 9,
       "dg": 4,
       "pts": 15,
       "pos": 9
     },
     {
-      "eq": "Alianza Lima",
+      "eq": "Juan Pablo II",
       "pj": 9,
-      "dg": 2,
-      "pts": 13,
+      "dg": 4,
+      "pts": 15,
       "pos": 10
     },
     {
-      "eq": "Atlético Grau",
-      "pj": 8,
-      "dg": 1,
+      "eq": "Alianza Lima",
+      "pj": 9,
+      "dg": 2,
       "pts": 13,
       "pos": 11
     },
@@ -273,7 +273,7 @@
         {
           "l": "Atlético Grau",
           "v": "Alianza Atlético",
-          "m": "1 - 1"
+          "m": "3 - 1"
         }
       ]
     }
