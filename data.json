@@ -1,5 +1,5 @@
 {
-  "actualizado": "14 sep 2026, 6:49 p.m.",
+  "actualizado": "14 sep 2026, 11:44 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,22 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 13 de septiembre",
+      "dia": "Viernes 18 de septiembre",
       "juegos": [
         {
-          "l": "Dep. Moquegua",
-          "v": "Sporting Cristal",
-          "m": "1 - 2"
+          "l": "Alianza Atlético",
+          "v": "Comer Unid",
+          "h": "3:00 p.m."
         },
         {
-          "l": "Sport Boys",
-          "v": "Dep. Garcilaso",
-          "m": "1 - 0"
-        },
-        {
-          "l": "Atlético Grau",
-          "v": "Alianza Atlético",
-          "m": "3 - 1"
+          "l": "Alianza Lima",
+          "v": "ADT",
+          "h": "8:00 p.m."
         }
       ]
     }
