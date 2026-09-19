@@ -1,5 +1,5 @@
 {
-  "actualizado": "18 sep 2026, 4:35 p.m.",
+  "actualizado": "18 sep 2026, 7:11 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -52,9 +52,9 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 26,
-      "dg": 4,
-      "pts": 37,
+      "pj": 27,
+      "dg": 5,
+      "pts": 40,
       "pos": 8
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 26,
-      "dg": 0,
+      "pj": 27,
+      "dg": -1,
       "pts": 9,
       "pos": 18
     }
@@ -144,37 +144,37 @@
       "pos": 2
     },
     {
-      "eq": "Melgar",
-      "pj": 9,
-      "dg": 7,
-      "pts": 17,
+      "eq": "Alianza Atlético",
+      "pj": 10,
+      "dg": 3,
+      "pts": 19,
       "pos": 3
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Melgar",
       "pj": 9,
       "dg": 7,
       "pts": 17,
       "pos": 4
     },
     {
+      "eq": "Sport Boys",
+      "pj": 9,
+      "dg": 7,
+      "pts": 17,
+      "pos": 5
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 9,
       "dg": 8,
       "pts": 16,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Atlético Grau",
       "pj": 9,
       "dg": 3,
-      "pts": 16,
-      "pos": 6
-    },
-    {
-      "eq": "Alianza Atlético",
-      "pj": 9,
-      "dg": 2,
       "pts": 16,
       "pos": 7
     },
@@ -215,8 +215,8 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 9,
-      "dg": 0,
+      "pj": 10,
+      "dg": -1,
       "pts": 9,
       "pos": 13
     },
