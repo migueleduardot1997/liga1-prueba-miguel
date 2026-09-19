@@ -1,11 +1,11 @@
 {
-  "actualizado": "18 sep 2026, 7:11 p.m.",
+  "actualizado": "19 sep 2026, 12:44 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
-      "pj": 26,
-      "dg": 24,
-      "pts": 53,
+      "pj": 27,
+      "dg": 26,
+      "pts": 56,
       "pos": 1
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 25,
-      "dg": -12,
+      "pj": 26,
+      "dg": -14,
       "pts": 22,
       "pos": 16
     },
@@ -172,38 +172,38 @@
       "pos": 6
     },
     {
+      "eq": "Alianza Lima",
+      "pj": 10,
+      "dg": 4,
+      "pts": 16,
+      "pos": 7
+    },
+    {
       "eq": "Atlético Grau",
       "pj": 9,
       "dg": 3,
       "pts": 16,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Sport Huancayo",
       "pj": 9,
       "dg": 2,
       "pts": 16,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Cusco FC",
       "pj": 9,
       "dg": 4,
       "pts": 15,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Juan Pablo II",
       "pj": 9,
       "dg": 4,
       "pts": 15,
-      "pos": 10
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": 9,
-      "dg": 2,
-      "pts": 13,
       "pos": 11
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 8,
-      "dg": -13,
+      "pj": 9,
+      "dg": -15,
       "pts": 2,
       "pos": 17
     },
@@ -268,7 +268,7 @@
         {
           "l": "Alianza Lima",
           "v": "ADT",
-          "h": "8:00 p.m."
+          "m": "2 - 0"
         }
       ]
     }
