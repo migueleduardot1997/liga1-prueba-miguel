@@ -1,5 +1,5 @@
 {
-  "actualizado": "19 sep 2026, 3:31 p.m.",
+  "actualizado": "19 sep 2026, 5:54 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -31,9 +31,9 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": 26,
-      "dg": 1,
-      "pts": 42,
+      "pj": 27,
+      "dg": 2,
+      "pts": 45,
       "pos": 5
     },
     {
@@ -58,23 +58,23 @@
       "pos": 8
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 27,
+      "dg": 8,
+      "pts": 38,
+      "pos": 9
+    },
+    {
       "eq": "Sport Boys",
       "pj": 26,
       "dg": 3,
       "pts": 37,
-      "pos": 9
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 26,
-      "dg": 6,
-      "pts": 35,
       "pos": 10
     },
     {
       "eq": "Atlético Grau",
-      "pj": 26,
-      "dg": -3,
+      "pj": 27,
+      "dg": -5,
       "pts": 32,
       "pos": 11
     },
@@ -94,8 +94,8 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 26,
-      "dg": -10,
+      "pj": 27,
+      "dg": -11,
       "pts": 27,
       "pos": 14
     },
@@ -137,51 +137,51 @@
       "pos": 1
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": 10,
+      "dg": 10,
+      "pts": 19,
+      "pos": 2
+    },
+    {
       "eq": "Dep. Garcilaso",
       "pj": 9,
       "dg": 8,
       "pts": 19,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Alianza Atlético",
       "pj": 10,
       "dg": 3,
       "pts": 19,
-      "pos": 3
+      "pos": 4
+    },
+    {
+      "eq": "Cusco FC",
+      "pj": 10,
+      "dg": 5,
+      "pts": 18,
+      "pos": 5
     },
     {
       "eq": "Melgar",
       "pj": 9,
       "dg": 7,
       "pts": 17,
-      "pos": 4
+      "pos": 6
     },
     {
       "eq": "Sport Boys",
       "pj": 9,
       "dg": 7,
       "pts": 17,
-      "pos": 5
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 9,
-      "dg": 8,
-      "pts": 16,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Alianza Lima",
       "pj": 10,
       "dg": 4,
-      "pts": 16,
-      "pos": 7
-    },
-    {
-      "eq": "Atlético Grau",
-      "pj": 9,
-      "dg": 3,
       "pts": 16,
       "pos": 8
     },
@@ -193,10 +193,10 @@
       "pos": 9
     },
     {
-      "eq": "Cusco FC",
-      "pj": 9,
-      "dg": 4,
-      "pts": 15,
+      "eq": "Atlético Grau",
+      "pj": 10,
+      "dg": 1,
+      "pts": 16,
       "pos": 10
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 9,
-      "dg": -5,
+      "pj": 10,
+      "dg": -6,
       "pts": 10,
       "pos": 12
     },
@@ -268,7 +268,7 @@
         {
           "l": "Sporting Cristal",
           "v": "Atlético Grau",
-          "m": "0 - 0"
+          "m": "3 - 1"
         },
         {
           "l": "Dep. Garcilaso",
