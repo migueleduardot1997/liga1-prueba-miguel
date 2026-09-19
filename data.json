@@ -1,5 +1,5 @@
 {
-  "actualizado": "19 sep 2026, 12:44 a.m.",
+  "actualizado": "19 sep 2026, 5:49 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 18 de septiembre",
+      "dia": "Sábado 19 de septiembre",
       "juegos": [
         {
-          "l": "Alianza Atlético",
-          "v": "Comer Unid",
-          "m": "2 - 1"
+          "l": "FC Cajamarca",
+          "v": "Cusco FC",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Alianza Lima",
-          "v": "ADT",
-          "m": "2 - 0"
+          "l": "Sporting Cristal",
+          "v": "Atlético Grau",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Dep. Garcilaso",
+          "v": "Universitario",
+          "h": "6:00 p.m."
+        },
+        {
+          "l": "Melgar",
+          "v": "Sport Boys",
+          "h": "8:15 p.m."
         }
       ]
     }
