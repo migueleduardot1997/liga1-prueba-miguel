@@ -1,5 +1,5 @@
 {
-  "actualizado": "20 sep 2026, 1:04 a.m.",
+  "actualizado": "20 sep 2026, 6:12 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,27 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 19 de septiembre",
+      "dia": "Domingo 20 de septiembre",
       "juegos": [
         {
-          "l": "FC Cajamarca",
-          "v": "Cusco FC",
-          "m": "1 - 2"
+          "l": "Sport Huancayo",
+          "v": "UTC",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Sporting Cristal",
-          "v": "Atlético Grau",
-          "m": "3 - 1"
-        },
-        {
-          "l": "Dep. Garcilaso",
-          "v": "Universitario",
-          "m": "4 - 0"
-        },
-        {
-          "l": "Melgar",
-          "v": "Sport Boys",
-          "m": "1 - 1"
+          "l": "Juan Pablo II",
+          "v": "Dep. Moquegua",
+          "h": "3:30 p.m."
         }
       ]
     }
