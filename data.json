@@ -1,5 +1,5 @@
 {
-  "actualizado": "19 sep 2026, 7:59 p.m.",
+  "actualizado": "20 sep 2026, 1:04 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -10,23 +10,23 @@
     },
     {
       "eq": "Universitario",
-      "pj": 26,
-      "dg": 16,
+      "pj": 27,
+      "dg": 12,
       "pts": 49,
       "pos": 2
     },
     {
-      "eq": "Melgar",
-      "pj": 26,
-      "dg": 16,
-      "pts": 45,
+      "eq": "Dep. Garcilaso",
+      "pj": 27,
+      "dg": 15,
+      "pts": 48,
       "pos": 3
     },
     {
-      "eq": "Dep. Garcilaso",
-      "pj": 26,
-      "dg": 11,
-      "pts": 45,
+      "eq": "Melgar",
+      "pj": 27,
+      "dg": 16,
+      "pts": 46,
       "pos": 4
     },
     {
@@ -66,9 +66,9 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": 26,
+      "pj": 27,
       "dg": 3,
-      "pts": 37,
+      "pts": 38,
       "pos": 10
     },
     {
@@ -130,23 +130,23 @@
   ],
   "clausura": [
     {
-      "eq": "Universitario",
-      "pj": 9,
-      "dg": 7,
-      "pts": 20,
+      "eq": "Dep. Garcilaso",
+      "pj": 10,
+      "dg": 12,
+      "pts": 22,
       "pos": 1
+    },
+    {
+      "eq": "Universitario",
+      "pj": 10,
+      "dg": 3,
+      "pts": 20,
+      "pos": 2
     },
     {
       "eq": "Sporting Cristal",
       "pj": 10,
       "dg": 10,
-      "pts": 19,
-      "pos": 2
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 9,
-      "dg": 8,
       "pts": 19,
       "pos": 3
     },
@@ -158,24 +158,24 @@
       "pos": 4
     },
     {
-      "eq": "Cusco FC",
+      "eq": "Melgar",
       "pj": 10,
-      "dg": 5,
+      "dg": 7,
       "pts": 18,
       "pos": 5
     },
     {
-      "eq": "Melgar",
-      "pj": 9,
+      "eq": "Sport Boys",
+      "pj": 10,
       "dg": 7,
-      "pts": 17,
+      "pts": 18,
       "pos": 6
     },
     {
-      "eq": "Sport Boys",
-      "pj": 9,
-      "dg": 7,
-      "pts": 17,
+      "eq": "Cusco FC",
+      "pj": 10,
+      "dg": 5,
+      "pts": 18,
       "pos": 7
     },
     {
@@ -278,7 +278,7 @@
         {
           "l": "Melgar",
           "v": "Sport Boys",
-          "h": "8:15 p.m."
+          "m": "1 - 1"
         }
       ]
     }
