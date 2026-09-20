@@ -1,5 +1,5 @@
 {
-  "actualizado": "20 sep 2026, 1:42 p.m.",
+  "actualizado": "20 sep 2026, 4:27 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -72,16 +72,16 @@
       "pos": 10
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "Sport Huancayo",
       "pj": 27,
-      "dg": -5,
-      "pts": 32,
+      "dg": -7,
+      "pts": 35,
       "pos": 11
     },
     {
-      "eq": "Sport Huancayo",
-      "pj": 26,
-      "dg": -8,
+      "eq": "Atlético Grau",
+      "pj": 27,
+      "dg": -5,
       "pts": 32,
       "pos": 12
     },
@@ -115,8 +115,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 26,
-      "dg": -17,
+      "pj": 27,
+      "dg": -18,
       "pts": 10,
       "pos": 17
     },
@@ -158,37 +158,37 @@
       "pos": 4
     },
     {
-      "eq": "Melgar",
+      "eq": "Sport Huancayo",
       "pj": 10,
-      "dg": 7,
-      "pts": 18,
+      "dg": 3,
+      "pts": 19,
       "pos": 5
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Melgar",
       "pj": 10,
       "dg": 7,
       "pts": 18,
       "pos": 6
     },
     {
+      "eq": "Sport Boys",
+      "pj": 10,
+      "dg": 7,
+      "pts": 18,
+      "pos": 7
+    },
+    {
       "eq": "Cusco FC",
       "pj": 10,
       "dg": 5,
       "pts": 18,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Alianza Lima",
       "pj": 10,
       "dg": 4,
-      "pts": 16,
-      "pos": 8
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 9,
-      "dg": 2,
       "pts": 16,
       "pos": 9
     },
@@ -250,8 +250,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 9,
-      "dg": -12,
+      "pj": 10,
+      "dg": -13,
       "pts": -3,
       "pos": 18
     }
@@ -263,12 +263,12 @@
         {
           "l": "Sport Huancayo",
           "v": "UTC",
-          "m": "0 - 1"
+          "m": "3 - 2"
         },
         {
           "l": "Juan Pablo II",
           "v": "Dep. Moquegua",
-          "h": "3:30 p.m."
+          "m": "2 - 0"
         }
       ]
     }
