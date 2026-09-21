@@ -1,5 +1,5 @@
 {
-  "actualizado": "20 sep 2026, 4:27 p.m.",
+  "actualizado": "20 sep 2026, 7:08 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -79,17 +79,17 @@
       "pos": 11
     },
     {
+      "eq": "Juan Pablo II",
+      "pj": 27,
+      "dg": -10,
+      "pts": 34,
+      "pos": 12
+    },
+    {
       "eq": "Atlético Grau",
       "pj": 27,
       "dg": -5,
       "pts": 32,
-      "pos": 12
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 26,
-      "dg": -14,
-      "pts": 31,
       "pos": 13
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 26,
-      "dg": -13,
+      "pj": 27,
+      "dg": -17,
       "pts": 25,
       "pos": 15
     },
@@ -165,45 +165,45 @@
       "pos": 5
     },
     {
-      "eq": "Melgar",
+      "eq": "Juan Pablo II",
       "pj": 10,
-      "dg": 7,
+      "dg": 8,
       "pts": 18,
       "pos": 6
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Melgar",
       "pj": 10,
       "dg": 7,
       "pts": 18,
       "pos": 7
     },
     {
+      "eq": "Sport Boys",
+      "pj": 10,
+      "dg": 7,
+      "pts": 18,
+      "pos": 8
+    },
+    {
       "eq": "Cusco FC",
       "pj": 10,
       "dg": 5,
       "pts": 18,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Alianza Lima",
       "pj": 10,
       "dg": 4,
       "pts": 16,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Atlético Grau",
       "pj": 10,
       "dg": 1,
       "pts": 16,
-      "pos": 10
-    },
-    {
-      "eq": "Juan Pablo II",
-      "pj": 9,
-      "dg": 4,
-      "pts": 15,
       "pos": 11
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 9,
-      "dg": -6,
+      "pj": 10,
+      "dg": -10,
       "pts": 7,
       "pos": 15
     },
@@ -268,7 +268,7 @@
         {
           "l": "Juan Pablo II",
           "v": "Dep. Moquegua",
-          "m": "2 - 0"
+          "m": "4 - 0"
         }
       ]
     }
