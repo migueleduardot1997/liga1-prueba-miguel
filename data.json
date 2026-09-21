@@ -1,5 +1,5 @@
 {
-  "actualizado": "20 sep 2026, 7:08 p.m.",
+  "actualizado": "20 sep 2026, 11:48 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,17 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 20 de septiembre",
+      "dia": "Miércoles 23 de septiembre",
       "juegos": [
         {
-          "l": "Sport Huancayo",
-          "v": "UTC",
-          "m": "3 - 2"
-        },
-        {
-          "l": "Juan Pablo II",
-          "v": "Dep. Moquegua",
-          "m": "4 - 0"
+          "l": "ADT",
+          "v": "Cienciano",
+          "h": "3:00 p.m."
         }
       ]
     }
