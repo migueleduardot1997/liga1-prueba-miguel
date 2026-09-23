@@ -1,5 +1,5 @@
 {
-  "actualizado": "23 sep 2026, 3:12 p.m.",
+  "actualizado": "23 sep 2026, 6:36 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -45,8 +45,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 25,
-      "dg": 7,
+      "pj": 26,
+      "dg": 6,
       "pts": 40,
       "pos": 7
     },
@@ -100,17 +100,17 @@
       "pos": 14
     },
     {
-      "eq": "Dep. Moquegua",
+      "eq": "ADT",
       "pj": 27,
-      "dg": -17,
+      "dg": -13,
       "pts": 25,
       "pos": 15
     },
     {
-      "eq": "ADT",
-      "pj": 26,
-      "dg": -14,
-      "pts": 22,
+      "eq": "Dep. Moquegua",
+      "pj": 27,
+      "dg": -17,
+      "pts": 25,
       "pos": 16
     },
     {
@@ -222,8 +222,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 8,
-      "dg": -5,
+      "pj": 9,
+      "dg": -6,
       "pts": 7,
       "pos": 14
     },
@@ -243,9 +243,9 @@
     },
     {
       "eq": "ADT",
-      "pj": 9,
-      "dg": -15,
-      "pts": 2,
+      "pj": 10,
+      "dg": -14,
+      "pts": 5,
       "pos": 17
     },
     {
@@ -263,7 +263,7 @@
         {
           "l": "ADT",
           "v": "Cienciano",
-          "m": "0 - 0"
+          "m": "2 - 1"
         }
       ]
     }
