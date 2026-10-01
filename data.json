@@ -1,5 +1,5 @@
 {
-  "actualizado": "30 sep 2026, 5:58 p.m.",
+  "actualizado": "30 sep 2026, 9:02 p.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -38,16 +38,16 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 26,
+      "pj": 27,
       "dg": -9,
-      "pts": 41,
+      "pts": 42,
       "pos": 6
     },
     {
       "eq": "Cienciano",
-      "pj": 26,
+      "pj": 27,
       "dg": 6,
-      "pts": 40,
+      "pts": 41,
       "pos": 7
     },
     {
@@ -222,22 +222,22 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 9,
+      "pj": 10,
       "dg": -6,
-      "pts": 7,
+      "pts": 8,
       "pos": 14
+    },
+    {
+      "eq": "Los Chankas",
+      "pj": 10,
+      "dg": -13,
+      "pts": 8,
+      "pos": 15
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 10,
       "dg": -10,
-      "pts": 7,
-      "pos": 15
-    },
-    {
-      "eq": "Los Chankas",
-      "pj": 9,
-      "dg": -13,
       "pts": 7,
       "pos": 16
     },
