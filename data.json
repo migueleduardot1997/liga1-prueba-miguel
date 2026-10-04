@@ -1,5 +1,5 @@
 {
-  "actualizado": "3 oct 2026, 6:44 p.m.",
+  "actualizado": "4 oct 2026, 12:41 a.m.",
   "acumulado": [
     {
       "eq": "Alianza Lima",
@@ -258,12 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Miércoles 30 de septiembre",
+      "dia": "Jueves 8 de octubre",
       "juegos": [
         {
-          "l": "Cienciano",
+          "l": "Dep. Moquegua",
+          "v": "Cienciano",
+          "h": "1:00 p.m."
+        },
+        {
+          "l": "Atlético Grau",
           "v": "Los Chankas",
-          "m": "1 - 1"
+          "h": "3:30 p.m."
         }
       ]
     }
