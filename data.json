@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 oct 2026, 4:59 p.m.",
+  "actualizado": "8 oct 2026, 9:00 p.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
@@ -65,16 +65,16 @@
       "pos": 9
     },
     {
-      "eq": "Alianza Lima",
-      "pj": 10,
-      "dg": 4,
-      "pts": 16,
+      "eq": "Atlético Grau",
+      "pj": 11,
+      "dg": 1,
+      "pts": 17,
       "pos": 10
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "Alianza Lima",
       "pj": 10,
-      "dg": 1,
+      "dg": 4,
       "pts": 16,
       "pos": 11
     },
@@ -101,9 +101,9 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 10,
+      "pj": 11,
       "dg": -13,
-      "pts": 8,
+      "pts": 9,
       "pos": 15
     },
     {
@@ -151,16 +151,16 @@
       "pos": 3
     },
     {
-      "eq": "Sporting Cristal",
-      "pj": -7,
-      "dg": 12,
-      "pts": 0,
+      "eq": "Atlético Grau",
+      "pj": -6,
+      "dg": 7,
+      "pts": 1,
       "pos": 4
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "Sporting Cristal",
       "pj": -7,
-      "dg": 7,
+      "dg": 12,
       "pts": 0,
       "pos": 5
     },
@@ -250,9 +250,9 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": -7,
+      "pj": -6,
       "dg": -17,
-      "pts": -26,
+      "pts": -25,
       "pos": 18
     }
   ],
