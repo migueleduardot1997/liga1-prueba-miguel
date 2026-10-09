@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 oct 2026, 9:00 p.m.",
+  "actualizado": "9 oct 2026, 3:53 a.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
@@ -258,17 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Jueves 8 de octubre",
+      "dia": "Viernes 9 de octubre",
       "juegos": [
         {
-          "l": "Dep. Moquegua",
-          "v": "Cienciano",
-          "m": "0 - 2"
-        },
-        {
-          "l": "Atlético Grau",
-          "v": "Los Chankas",
-          "m": "0 - 0"
+          "l": "Dep. Garcilaso",
+          "v": "Sport Huancayo",
+          "h": "8:00 p.m."
         }
       ]
     }
