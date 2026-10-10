@@ -1,5 +1,5 @@
 {
-  "actualizado": "10 oct 2026, 1:57 a.m.",
+  "actualizado": "10 oct 2026, 8:33 a.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
@@ -258,12 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 9 de octubre",
+      "dia": "Sábado 10 de octubre",
       "juegos": [
         {
-          "l": "Dep. Garcilaso",
-          "v": "Sport Huancayo",
-          "m": "0 - 1"
+          "l": "ADT",
+          "v": "FC Cajamarca",
+          "h": "1:00 p.m."
+        },
+        {
+          "l": "Comer Unid",
+          "v": "Juan Pablo II",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Universitario",
+          "v": "Melgar",
+          "h": "7:00 p.m."
         }
       ]
     }
