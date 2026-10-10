@@ -1,5 +1,5 @@
 {
-  "actualizado": "10 oct 2026, 1:28 p.m.",
+  "actualizado": "10 oct 2026, 5:25 p.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
@@ -87,9 +87,9 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 10,
+      "pj": 11,
       "dg": -6,
-      "pts": 10,
+      "pts": 11,
       "pos": 13
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "eq": "ADT",
-      "pj": 10,
+      "pj": 11,
       "dg": -14,
-      "pts": 5,
+      "pts": 6,
       "pos": 17
     },
     {
@@ -187,9 +187,9 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": -7,
+      "pj": -6,
       "dg": -1,
-      "pts": -7,
+      "pts": -6,
       "pos": 9
     },
     {
@@ -222,9 +222,9 @@
     },
     {
       "eq": "ADT",
-      "pj": -7,
+      "pj": -6,
       "dg": -15,
-      "pts": -15,
+      "pts": -14,
       "pos": 14
     },
     {
@@ -268,7 +268,7 @@
         {
           "l": "Comer Unid",
           "v": "Juan Pablo II",
-          "h": "3:30 p.m."
+          "m": "1 - 1"
         },
         {
           "l": "Universitario",
