@@ -1,36 +1,36 @@
 {
-  "actualizado": "9 oct 2026, 7:42 p.m.",
+  "actualizado": "10 oct 2026, 1:57 a.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
-      "pj": 10,
-      "dg": 12,
+      "pj": 11,
+      "dg": 11,
       "pts": 22,
       "pos": 1
+    },
+    {
+      "eq": "Sport Huancayo",
+      "pj": 11,
+      "dg": 4,
+      "pts": 22,
+      "pos": 2
     },
     {
       "eq": "Universitario",
       "pj": 10,
       "dg": 3,
       "pts": 20,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Sporting Cristal",
       "pj": 10,
       "dg": 10,
       "pts": 19,
-      "pos": 3
-    },
-    {
-      "eq": "Alianza Atlético",
-      "pj": 10,
-      "dg": 3,
-      "pts": 19,
       "pos": 4
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Alianza Atlético",
       "pj": 10,
       "dg": 3,
       "pts": 19,
@@ -138,9 +138,9 @@
     },
     {
       "eq": "Sport Huancayo",
-      "pj": -7,
-      "dg": 13,
-      "pts": 3,
+      "pj": -6,
+      "dg": 14,
+      "pts": 6,
       "pos": 2
     },
     {
@@ -180,8 +180,8 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": -7,
-      "dg": 9,
+      "pj": -6,
+      "dg": 8,
       "pts": -4,
       "pos": 8
     },
@@ -263,7 +263,7 @@
         {
           "l": "Dep. Garcilaso",
           "v": "Sport Huancayo",
-          "h": "8:00 p.m."
+          "m": "0 - 1"
         }
       ]
     }
