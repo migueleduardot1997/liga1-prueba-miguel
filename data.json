@@ -1,5 +1,5 @@
 {
-  "actualizado": "10 oct 2026, 8:47 p.m.",
+  "actualizado": "11 oct 2026, 3:40 a.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
@@ -17,9 +17,9 @@
     },
     {
       "eq": "Universitario",
-      "pj": 10,
+      "pj": 11,
       "dg": 3,
-      "pts": 20,
+      "pts": 21,
       "pos": 3
     },
     {
@@ -37,17 +37,17 @@
       "pos": 5
     },
     {
-      "eq": "Alianza Atlético",
-      "pj": 10,
-      "dg": 3,
+      "eq": "Melgar",
+      "pj": 11,
+      "dg": 7,
       "pts": 19,
       "pos": 6
     },
     {
-      "eq": "Melgar",
+      "eq": "Alianza Atlético",
       "pj": 10,
-      "dg": 7,
-      "pts": 18,
+      "dg": 3,
+      "pts": 19,
       "pos": 7
     },
     {
@@ -193,24 +193,24 @@
       "pos": 9
     },
     {
-      "eq": "Cusco FC",
-      "pj": -7,
-      "dg": 8,
-      "pts": -9,
+      "eq": "Universitario",
+      "pj": -6,
+      "dg": -6,
+      "pts": -8,
       "pos": 10
     },
     {
-      "eq": "Universitario",
+      "eq": "Cusco FC",
       "pj": -7,
-      "dg": -6,
+      "dg": 8,
       "pts": -9,
       "pos": 11
     },
     {
       "eq": "Melgar",
-      "pj": -7,
+      "pj": -6,
       "dg": -2,
-      "pts": -10,
+      "pts": -9,
       "pos": 12
     },
     {
@@ -258,22 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 10 de octubre",
+      "dia": "Domingo 11 de octubre",
       "juegos": [
         {
-          "l": "ADT",
-          "v": "FC Cajamarca",
-          "m": "0 - 0"
+          "l": "UTC",
+          "v": "Sporting Cristal",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Comer Unid",
-          "v": "Juan Pablo II",
-          "m": "1 - 1"
+          "l": "Sport Boys",
+          "v": "Alianza Atlético",
+          "h": "3:30 p.m."
         },
         {
-          "l": "Universitario",
-          "v": "Melgar",
-          "m": "2 - 2"
+          "l": "Cusco FC",
+          "v": "Alianza Lima",
+          "h": "6:30 p.m."
         }
       ]
     }
