@@ -1,32 +1,32 @@
 {
-  "actualizado": "11 oct 2026, 10:34 a.m.",
+  "actualizado": "11 oct 2026, 3:10 p.m.",
   "acumulado": [
     {
-      "eq": "Dep. Garcilaso",
+      "eq": "Sporting Cristal",
       "pj": 11,
       "dg": 11,
       "pts": 22,
       "pos": 1
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 11,
+      "dg": 11,
+      "pts": 22,
+      "pos": 2
+    },
+    {
       "eq": "Sport Huancayo",
       "pj": 11,
       "dg": 4,
       "pts": 22,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Universitario",
       "pj": 11,
       "dg": 3,
       "pts": 21,
-      "pos": 3
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 10,
-      "dg": 10,
-      "pts": 19,
       "pos": 4
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 10,
-      "dg": -13,
+      "pj": 11,
+      "dg": -14,
       "pts": -3,
       "pos": 18
     }
@@ -151,17 +151,17 @@
       "pos": 3
     },
     {
+      "eq": "Sporting Cristal",
+      "pj": -6,
+      "dg": 13,
+      "pts": 3,
+      "pos": 4
+    },
+    {
       "eq": "Atlético Grau",
       "pj": -6,
       "dg": 7,
       "pts": 1,
-      "pos": 4
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": -7,
-      "dg": 12,
-      "pts": 0,
       "pos": 5
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "eq": "UTC",
-      "pj": -7,
-      "dg": -8,
+      "pj": -6,
+      "dg": -9,
       "pts": -16,
       "pos": 15
     },
@@ -263,7 +263,7 @@
         {
           "l": "UTC",
           "v": "Sporting Cristal",
-          "h": "1:00 p.m."
+          "m": "0 - 1"
         },
         {
           "l": "Sport Boys",
