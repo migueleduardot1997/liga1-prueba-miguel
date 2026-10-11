@@ -1,5 +1,5 @@
 {
-  "actualizado": "10 oct 2026, 5:25 p.m.",
+  "actualizado": "10 oct 2026, 8:47 p.m.",
   "acumulado": [
     {
       "eq": "Dep. Garcilaso",
@@ -30,17 +30,17 @@
       "pos": 4
     },
     {
-      "eq": "Alianza Atlético",
-      "pj": 10,
-      "dg": 3,
+      "eq": "Juan Pablo II",
+      "pj": 11,
+      "dg": 8,
       "pts": 19,
       "pos": 5
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Alianza Atlético",
       "pj": 10,
-      "dg": 8,
-      "pts": 18,
+      "dg": 3,
+      "pts": 19,
       "pos": 6
     },
     {
@@ -94,9 +94,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 10,
+      "pj": 11,
       "dg": -1,
-      "pts": 9,
+      "pts": 10,
       "pos": 14
     },
     {
@@ -131,9 +131,9 @@
   "clausura": [
     {
       "eq": "Comer Unid",
-      "pj": -7,
+      "pj": -6,
       "dg": -1,
-      "pts": 9,
+      "pts": 10,
       "pos": 1
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": -7,
+      "pj": -6,
       "dg": 26,
-      "pts": 2,
+      "pts": 3,
       "pos": 3
     },
     {
@@ -273,7 +273,7 @@
         {
           "l": "Universitario",
           "v": "Melgar",
-          "h": "7:00 p.m."
+          "m": "2 - 2"
         }
       ]
     }
