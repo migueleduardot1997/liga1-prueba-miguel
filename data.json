@@ -1,5 +1,5 @@
 {
-  "actualizado": "11 oct 2026, 7:26 p.m.",
+  "actualizado": "12 oct 2026, 2:15 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -51,10 +51,10 @@
       "pos": 7
     },
     {
-      "eq": "Cusco FC",
-      "pj": 10,
+      "eq": "Alianza Lima",
+      "pj": 11,
       "dg": 5,
-      "pts": 18,
+      "pts": 19,
       "pos": 8
     },
     {
@@ -65,17 +65,17 @@
       "pos": 9
     },
     {
+      "eq": "Cusco FC",
+      "pj": 11,
+      "dg": 4,
+      "pts": 18,
+      "pos": 10
+    },
+    {
       "eq": "Atlético Grau",
       "pj": 11,
       "dg": 1,
       "pts": 17,
-      "pos": 10
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": 10,
-      "dg": 4,
-      "pts": 16,
       "pos": 11
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": -7,
-      "dg": 8,
+      "pj": -6,
+      "dg": 7,
       "pts": -9,
       "pos": 11
     },
@@ -235,17 +235,17 @@
       "pos": 15
     },
     {
+      "eq": "Alianza Lima",
+      "pj": -6,
+      "dg": -17,
+      "pts": -21,
+      "pos": 16
+    },
+    {
       "eq": "Cienciano",
       "pj": -6,
       "dg": -16,
       "pts": -22,
-      "pos": 16
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": -7,
-      "dg": -18,
-      "pts": -24,
       "pos": 17
     },
     {
@@ -273,7 +273,7 @@
         {
           "l": "Cusco FC",
           "v": "Alianza Lima",
-          "m": "0 - 1"
+          "m": "1 - 2"
         }
       ]
     }
