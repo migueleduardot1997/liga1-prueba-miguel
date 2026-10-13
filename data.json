@@ -1,5 +1,5 @@
 {
-  "actualizado": "12 oct 2026, 7:32 p.m.",
+  "actualizado": "13 oct 2026, 2:37 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -258,22 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 11 de octubre",
+      "dia": "Viernes 16 de octubre",
       "juegos": [
         {
-          "l": "UTC",
-          "v": "Sporting Cristal",
-          "m": "0 - 1"
+          "l": "Sport Huancayo",
+          "v": "Cusco FC",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Sport Boys",
-          "v": "Alianza Atlético",
-          "m": "1 - 3"
-        },
-        {
-          "l": "Cusco FC",
-          "v": "Alianza Lima",
-          "m": "1 - 2"
+          "l": "Los Chankas",
+          "v": "ADT",
+          "h": "3:30 p.m."
         }
       ]
     }
