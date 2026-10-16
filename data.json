@@ -1,31 +1,31 @@
 {
-  "actualizado": "16 oct 2026, 2:53 p.m.",
+  "actualizado": "16 oct 2026, 5:45 p.m.",
   "acumulado": [
     {
-      "eq": "Sporting Cristal",
-      "pj": 11,
-      "dg": 11,
-      "pts": 22,
+      "eq": "Sport Huancayo",
+      "pj": 12,
+      "dg": 5,
+      "pts": 25,
       "pos": 1
     },
     {
-      "eq": "Dep. Garcilaso",
+      "eq": "Sporting Cristal",
       "pj": 11,
       "dg": 11,
       "pts": 22,
       "pos": 2
     },
     {
-      "eq": "Alianza Atlético",
+      "eq": "Dep. Garcilaso",
       "pj": 11,
-      "dg": 5,
+      "dg": 11,
       "pts": 22,
       "pos": 3
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Alianza Atlético",
       "pj": 11,
-      "dg": 4,
+      "dg": 5,
       "pts": 22,
       "pos": 4
     },
@@ -66,8 +66,8 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": 11,
-      "dg": 4,
+      "pj": 12,
+      "dg": 3,
       "pts": 18,
       "pos": 10
     },
@@ -79,31 +79,31 @@
       "pos": 11
     },
     {
+      "eq": "Los Chankas",
+      "pj": 12,
+      "dg": -12,
+      "pts": 12,
+      "pos": 12
+    },
+    {
       "eq": "Cienciano",
       "pj": 11,
       "dg": -4,
       "pts": 11,
-      "pos": 12
+      "pos": 13
     },
     {
       "eq": "FC Cajamarca",
       "pj": 11,
       "dg": -6,
       "pts": 11,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "Comer Unid",
       "pj": 11,
       "dg": -1,
       "pts": 10,
-      "pos": 14
-    },
-    {
-      "eq": "Los Chankas",
-      "pj": 11,
-      "dg": -13,
-      "pts": 9,
       "pos": 15
     },
     {
@@ -115,8 +115,8 @@
     },
     {
       "eq": "ADT",
-      "pj": 11,
-      "dg": -14,
+      "pj": 12,
+      "dg": -15,
       "pts": 6,
       "pos": 17
     },
@@ -138,9 +138,9 @@
     },
     {
       "eq": "Sport Huancayo",
-      "pj": -6,
-      "dg": 14,
-      "pts": 6,
+      "pj": -5,
+      "dg": 15,
+      "pts": 9,
       "pos": 2
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": -6,
-      "dg": 7,
+      "pj": -5,
+      "dg": 6,
       "pts": -9,
       "pos": 11
     },
@@ -222,8 +222,8 @@
     },
     {
       "eq": "ADT",
-      "pj": -6,
-      "dg": -15,
+      "pj": -5,
+      "dg": -16,
       "pts": -14,
       "pos": 14
     },
@@ -242,17 +242,17 @@
       "pos": 16
     },
     {
-      "eq": "Cienciano",
-      "pj": -6,
+      "eq": "Los Chankas",
+      "pj": -5,
       "dg": -16,
       "pts": -22,
       "pos": 17
     },
     {
-      "eq": "Los Chankas",
+      "eq": "Cienciano",
       "pj": -6,
-      "dg": -17,
-      "pts": -25,
+      "dg": -16,
+      "pts": -22,
       "pos": 18
     }
   ],
@@ -268,7 +268,7 @@
         {
           "l": "Los Chankas",
           "v": "ADT",
-          "h": "3:30 p.m."
+          "m": "2 - 1"
         }
       ]
     }
