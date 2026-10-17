@@ -1,5 +1,5 @@
 {
-  "actualizado": "17 oct 2026, 1:51 a.m.",
+  "actualizado": "17 oct 2026, 6:32 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,17 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 16 de octubre",
+      "dia": "Sábado 17 de octubre",
       "juegos": [
         {
-          "l": "Sport Huancayo",
-          "v": "Cusco FC",
-          "m": "2 - 1"
+          "l": "Juan Pablo II",
+          "v": "Sport Boys",
+          "h": "3:00 p.m."
         },
         {
-          "l": "Los Chankas",
-          "v": "ADT",
-          "m": "2 - 1"
+          "l": "Melgar",
+          "v": "Dep. Garcilaso",
+          "h": "6:00 p.m."
+        },
+        {
+          "l": "Alianza Lima",
+          "v": "Atlético Grau",
+          "h": "8:30 p.m."
         }
       ]
     }
