@@ -1,5 +1,5 @@
 {
-  "actualizado": "17 oct 2026, 11:18 p.m.",
+  "actualizado": "18 oct 2026, 4:28 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -37,24 +37,24 @@
       "pos": 5
     },
     {
+      "eq": "Alianza Lima",
+      "pj": 12,
+      "dg": 7,
+      "pts": 22,
+      "pos": 6
+    },
+    {
       "eq": "Alianza Atlético",
       "pj": 11,
       "dg": 5,
       "pts": 22,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Universitario",
       "pj": 11,
       "dg": 3,
       "pts": 21,
-      "pos": 7
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": 11,
-      "dg": 5,
-      "pts": 19,
       "pos": 8
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": 11,
-      "dg": 1,
+      "pj": 12,
+      "dg": -1,
       "pts": 17,
       "pos": 11
     },
@@ -159,8 +159,8 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": -6,
-      "dg": 7,
+      "pj": -5,
+      "dg": 5,
       "pts": 1,
       "pos": 5
     },
@@ -236,9 +236,9 @@
     },
     {
       "eq": "Alianza Lima",
-      "pj": -6,
-      "dg": -17,
-      "pts": -21,
+      "pj": -5,
+      "dg": -15,
+      "pts": -18,
       "pos": 16
     },
     {
@@ -258,22 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 17 de octubre",
+      "dia": "Domingo 18 de octubre",
       "juegos": [
         {
-          "l": "Juan Pablo II",
-          "v": "Sport Boys",
-          "m": "2 - 0"
+          "l": "Sporting Cristal",
+          "v": "Comer Unid",
+          "h": "11:00 a.m."
         },
         {
-          "l": "Melgar",
-          "v": "Dep. Garcilaso",
-          "m": "4 - 2"
+          "l": "FC Cajamarca",
+          "v": "Dep. Moquegua",
+          "h": "1:15 p.m."
         },
         {
-          "l": "Alianza Lima",
-          "v": "Atlético Grau",
-          "m": "3 - 1"
+          "l": "Alianza Atlético",
+          "v": "Universitario",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Cienciano",
+          "v": "UTC",
+          "h": "6:30 p.m."
         }
       ]
     }
