@@ -1,18 +1,18 @@
 {
-  "actualizado": "18 oct 2026, 12:15 p.m.",
+  "actualizado": "18 oct 2026, 3:32 p.m.",
   "acumulado": [
+    {
+      "eq": "Sporting Cristal",
+      "pj": 12,
+      "dg": 13,
+      "pts": 25,
+      "pos": 1
+    },
     {
       "eq": "Sport Huancayo",
       "pj": 12,
       "dg": 5,
       "pts": 25,
-      "pos": 1
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 11,
-      "dg": 11,
-      "pts": 22,
       "pos": 2
     },
     {
@@ -94,23 +94,23 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": 11,
-      "dg": -6,
+      "pj": 12,
+      "dg": -7,
       "pts": 11,
       "pos": 14
     },
     {
       "eq": "Comer Unid",
-      "pj": 11,
-      "dg": -1,
+      "pj": 12,
+      "dg": -3,
       "pts": 10,
       "pos": 15
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 11,
-      "dg": -12,
-      "pts": 7,
+      "pj": 12,
+      "dg": -11,
+      "pts": 10,
       "pos": 16
     },
     {
@@ -131,8 +131,8 @@
   "clausura": [
     {
       "eq": "Comer Unid",
-      "pj": -6,
-      "dg": -1,
+      "pj": -5,
+      "dg": -3,
       "pts": 10,
       "pos": 1
     },
@@ -152,9 +152,9 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": -6,
-      "dg": 13,
-      "pts": 3,
+      "pj": -5,
+      "dg": 15,
+      "pts": 6,
       "pos": 4
     },
     {
@@ -194,30 +194,30 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": -6,
-      "dg": -1,
+      "pj": -5,
+      "dg": -2,
       "pts": -6,
       "pos": 10
+    },
+    {
+      "eq": "Dep. Moquegua",
+      "pj": -5,
+      "dg": -4,
+      "pts": -8,
+      "pos": 11
     },
     {
       "eq": "Universitario",
       "pj": -6,
       "dg": -6,
       "pts": -8,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Cusco FC",
       "pj": -5,
       "dg": 6,
       "pts": -9,
-      "pos": 12
-    },
-    {
-      "eq": "Dep. Moquegua",
-      "pj": -6,
-      "dg": -5,
-      "pts": -11,
       "pos": 13
     },
     {
@@ -263,17 +263,17 @@
         {
           "l": "Sporting Cristal",
           "v": "Comer Unid",
-          "m": "1 - 0"
+          "m": "4 - 2"
         },
         {
           "l": "FC Cajamarca",
           "v": "Dep. Moquegua",
-          "h": "1:15 p.m."
+          "m": "0 - 1"
         },
         {
           "l": "Alianza Atlético",
           "v": "Universitario",
-          "h": "3:30 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Cienciano",
