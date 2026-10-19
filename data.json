@@ -1,5 +1,5 @@
 {
-  "actualizado": "18 oct 2026, 8:05 p.m.",
+  "actualizado": "19 oct 2026, 1:02 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -79,17 +79,17 @@
       "pos": 11
     },
     {
+      "eq": "Cienciano",
+      "pj": 12,
+      "dg": -3,
+      "pts": 14,
+      "pos": 12
+    },
+    {
       "eq": "Los Chankas",
       "pj": 12,
       "dg": -12,
       "pts": 12,
-      "pos": 12
-    },
-    {
-      "eq": "Cienciano",
-      "pj": 11,
-      "dg": -4,
-      "pts": 11,
       "pos": 13
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 11,
-      "dg": -14,
+      "pj": 12,
+      "dg": -15,
       "pts": -3,
       "pos": 18
     }
@@ -229,8 +229,8 @@
     },
     {
       "eq": "UTC",
-      "pj": -6,
-      "dg": -9,
+      "pj": -5,
+      "dg": -10,
       "pts": -16,
       "pos": 15
     },
@@ -242,15 +242,15 @@
       "pos": 16
     },
     {
-      "eq": "Los Chankas",
+      "eq": "Cienciano",
       "pj": -5,
-      "dg": -16,
-      "pts": -22,
+      "dg": -15,
+      "pts": -19,
       "pos": 17
     },
     {
-      "eq": "Cienciano",
-      "pj": -6,
+      "eq": "Los Chankas",
+      "pj": -5,
       "dg": -16,
       "pts": -22,
       "pos": 18
