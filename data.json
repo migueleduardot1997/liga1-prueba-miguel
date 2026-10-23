@@ -1,5 +1,5 @@
 {
-  "actualizado": "23 oct 2026, 1:14 p.m.",
+  "actualizado": "23 oct 2026, 5:00 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -9,30 +9,30 @@
       "pos": 1
     },
     {
+      "eq": "Melgar",
+      "pj": 13,
+      "dg": 10,
+      "pts": 25,
+      "pos": 2
+    },
+    {
       "eq": "Sport Huancayo",
       "pj": 12,
       "dg": 5,
       "pts": 25,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Universitario",
       "pj": 12,
       "dg": 6,
       "pts": 24,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Juan Pablo II",
       "pj": 12,
       "dg": 10,
-      "pts": 22,
-      "pos": 4
-    },
-    {
-      "eq": "Melgar",
-      "pj": 12,
-      "dg": 9,
       "pts": 22,
       "pos": 5
     },
@@ -122,8 +122,8 @@
     },
     {
       "eq": "UTC",
-      "pj": 12,
-      "dg": -15,
+      "pj": 13,
+      "dg": -16,
       "pts": -3,
       "pos": 18
     }
@@ -179,24 +179,24 @@
       "pos": 7
     },
     {
+      "eq": "Melgar",
+      "pj": -4,
+      "dg": 1,
+      "pts": -3,
+      "pos": 8
+    },
+    {
       "eq": "Dep. Garcilaso",
       "pj": -5,
       "dg": 6,
       "pts": -4,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Universitario",
       "pj": -5,
       "dg": -3,
       "pts": -5,
-      "pos": 9
-    },
-    {
-      "eq": "Melgar",
-      "pj": -5,
-      "dg": 0,
-      "pts": -6,
       "pos": 10
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "eq": "UTC",
-      "pj": -5,
-      "dg": -10,
+      "pj": -4,
+      "dg": -11,
       "pts": -16,
       "pos": 15
     },
@@ -263,12 +263,12 @@
         {
           "l": "UTC",
           "v": "Melgar",
-          "m": "0 - 1"
+          "m": "1 - 2"
         },
         {
           "l": "Atlético Grau",
           "v": "ADT",
-          "h": "3:15 p.m."
+          "m": "1 - 1"
         }
       ]
     }
