@@ -1,5 +1,5 @@
 {
-  "actualizado": "23 oct 2026, 5:00 p.m.",
+  "actualizado": "23 oct 2026, 7:30 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -73,9 +73,9 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": 12,
+      "pj": 13,
       "dg": -1,
-      "pts": 17,
+      "pts": 18,
       "pos": 11
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "eq": "ADT",
-      "pj": 12,
+      "pj": 13,
       "dg": -15,
-      "pts": 6,
+      "pts": 7,
       "pos": 17
     },
     {
@@ -159,9 +159,9 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": -5,
+      "pj": -4,
       "dg": 5,
-      "pts": 1,
+      "pts": 2,
       "pos": 5
     },
     {
@@ -222,9 +222,9 @@
     },
     {
       "eq": "ADT",
-      "pj": -5,
+      "pj": -4,
       "dg": -16,
-      "pts": -14,
+      "pts": -13,
       "pos": 14
     },
     {
