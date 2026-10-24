@@ -1,5 +1,5 @@
 {
-  "actualizado": "24 oct 2026, 12:41 a.m.",
+  "actualizado": "24 oct 2026, 5:48 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -258,17 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 23 de octubre",
+      "dia": "Sábado 24 de octubre",
       "juegos": [
         {
-          "l": "UTC",
-          "v": "Melgar",
-          "m": "1 - 2"
+          "l": "Sport Huancayo",
+          "v": "Alianza Atlético",
+          "h": "12:45 p.m."
         },
         {
-          "l": "Atlético Grau",
-          "v": "ADT",
-          "m": "1 - 1"
+          "l": "Cusco FC",
+          "v": "Sporting Cristal",
+          "h": "3:15 p.m."
+        },
+        {
+          "l": "Universitario",
+          "v": "Juan Pablo II",
+          "h": "7:30 p.m."
         }
       ]
     }
