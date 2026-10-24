@@ -1,5 +1,5 @@
 {
-  "actualizado": "24 oct 2026, 3:39 p.m.",
+  "actualizado": "24 oct 2026, 6:05 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -10,8 +10,8 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": 12,
-      "dg": 13,
+      "pj": 13,
+      "dg": 11,
       "pts": 25,
       "pos": 2
     },
@@ -59,9 +59,9 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": 12,
-      "dg": 3,
-      "pts": 18,
+      "pj": 13,
+      "dg": 5,
+      "pts": 21,
       "pos": 9
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": -5,
-      "dg": 15,
+      "pj": -4,
+      "dg": 13,
       "pts": 6,
       "pos": 4
     },
@@ -200,24 +200,24 @@
       "pos": 10
     },
     {
+      "eq": "Cusco FC",
+      "pj": -4,
+      "dg": 8,
+      "pts": -6,
+      "pos": 11
+    },
+    {
       "eq": "FC Cajamarca",
       "pj": -5,
       "dg": -2,
       "pts": -6,
-      "pos": 11
+      "pos": 12
     },
     {
       "eq": "Dep. Moquegua",
       "pj": -5,
       "dg": -4,
       "pts": -8,
-      "pos": 12
-    },
-    {
-      "eq": "Cusco FC",
-      "pj": -5,
-      "dg": 6,
-      "pts": -9,
       "pos": 13
     },
     {
@@ -268,7 +268,7 @@
         {
           "l": "Cusco FC",
           "v": "Sporting Cristal",
-          "m": "1 - 0"
+          "m": "3 - 1"
         },
         {
           "l": "Universitario",
