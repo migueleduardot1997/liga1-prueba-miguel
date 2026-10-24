@@ -1,24 +1,24 @@
 {
-  "actualizado": "24 oct 2026, 1:02 p.m.",
+  "actualizado": "24 oct 2026, 3:39 p.m.",
   "acumulado": [
+    {
+      "eq": "Sport Huancayo",
+      "pj": 13,
+      "dg": 8,
+      "pts": 28,
+      "pos": 1
+    },
     {
       "eq": "Sporting Cristal",
       "pj": 12,
       "dg": 13,
       "pts": 25,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Melgar",
       "pj": 13,
       "dg": 10,
-      "pts": 25,
-      "pos": 2
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 12,
-      "dg": 5,
       "pts": 25,
       "pos": 3
     },
@@ -52,8 +52,8 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 12,
-      "dg": 2,
+      "pj": 13,
+      "dg": -1,
       "pts": 22,
       "pos": 8
     },
@@ -130,17 +130,17 @@
   ],
   "clausura": [
     {
+      "eq": "Sport Huancayo",
+      "pj": -4,
+      "dg": 18,
+      "pts": 12,
+      "pos": 1
+    },
+    {
       "eq": "Comer Unid",
       "pj": -5,
       "dg": -3,
       "pts": 10,
-      "pos": 1
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": -5,
-      "dg": 15,
-      "pts": 9,
       "pos": 2
     },
     {
@@ -166,8 +166,8 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": -5,
-      "dg": 0,
+      "pj": -4,
+      "dg": -3,
       "pts": 1,
       "pos": 6
     },
@@ -263,12 +263,12 @@
         {
           "l": "Sport Huancayo",
           "v": "Alianza Atlético",
-          "m": "2 - 0"
+          "m": "4 - 1"
         },
         {
           "l": "Cusco FC",
           "v": "Sporting Cristal",
-          "h": "3:15 p.m."
+          "m": "1 - 0"
         },
         {
           "l": "Universitario",
