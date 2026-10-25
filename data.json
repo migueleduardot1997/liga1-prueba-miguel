@@ -1,5 +1,5 @@
 {
-  "actualizado": "25 oct 2026, 12:57 a.m.",
+  "actualizado": "25 oct 2026, 6:13 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,22 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 24 de octubre",
+      "dia": "Domingo 25 de octubre",
       "juegos": [
         {
-          "l": "Sport Huancayo",
-          "v": "Alianza Atlético",
-          "m": "4 - 1"
+          "l": "Comer Unid",
+          "v": "Cienciano",
+          "h": "11:00 a.m."
         },
         {
-          "l": "Cusco FC",
-          "v": "Sporting Cristal",
-          "m": "3 - 1"
+          "l": "Dep. Moquegua",
+          "v": "Alianza Lima",
+          "h": "1:15 p.m."
         },
         {
-          "l": "Universitario",
-          "v": "Juan Pablo II",
-          "m": "3 - 0"
+          "l": "Sport Boys",
+          "v": "FC Cajamarca",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Dep. Garcilaso",
+          "v": "Los Chankas",
+          "h": "6:00 p.m."
         }
       ]
     }
