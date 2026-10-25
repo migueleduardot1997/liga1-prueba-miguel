@@ -1,5 +1,5 @@
 {
-  "actualizado": "25 oct 2026, 1:55 p.m.",
+  "actualizado": "25 oct 2026, 4:39 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -30,22 +30,22 @@
       "pos": 4
     },
     {
+      "eq": "Alianza Lima",
+      "pj": 13,
+      "dg": 8,
+      "pts": 25,
+      "pos": 5
+    },
+    {
       "eq": "Dep. Garcilaso",
       "pj": 12,
       "dg": 9,
       "pts": 22,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Juan Pablo II",
       "pj": 13,
-      "dg": 7,
-      "pts": 22,
-      "pos": 6
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": 12,
       "dg": 7,
       "pts": 22,
       "pos": 7
@@ -108,8 +108,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 12,
-      "dg": -11,
+      "pj": 13,
+      "dg": -12,
       "pts": 10,
       "pos": 16
     },
@@ -215,8 +215,8 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": -5,
-      "dg": -4,
+      "pj": -4,
+      "dg": -5,
       "pts": -8,
       "pos": 13
     },
@@ -228,17 +228,17 @@
       "pos": 14
     },
     {
+      "eq": "Alianza Lima",
+      "pj": -4,
+      "dg": -14,
+      "pts": -15,
+      "pos": 15
+    },
+    {
       "eq": "UTC",
       "pj": -4,
       "dg": -11,
       "pts": -16,
-      "pos": 15
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": -5,
-      "dg": -15,
-      "pts": -18,
       "pos": 16
     },
     {
@@ -268,12 +268,12 @@
         {
           "l": "Dep. Moquegua",
           "v": "Alianza Lima",
-          "m": "0 - 0"
+          "m": "0 - 1"
         },
         {
           "l": "Sport Boys",
           "v": "FC Cajamarca",
-          "h": "3:30 p.m."
+          "m": "2 - 1"
         },
         {
           "l": "Dep. Garcilaso",
