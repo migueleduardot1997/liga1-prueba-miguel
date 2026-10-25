@@ -1,5 +1,5 @@
 {
-  "actualizado": "25 oct 2026, 11:01 a.m.",
+  "actualizado": "25 oct 2026, 1:55 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -80,30 +80,30 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 12,
-      "dg": -3,
+      "pj": 13,
+      "dg": -5,
       "pts": 14,
       "pos": 12
+    },
+    {
+      "eq": "Comer Unid",
+      "pj": 13,
+      "dg": -1,
+      "pts": 13,
+      "pos": 13
     },
     {
       "eq": "Los Chankas",
       "pj": 12,
       "dg": -12,
       "pts": 12,
-      "pos": 13
+      "pos": 14
     },
     {
       "eq": "FC Cajamarca",
       "pj": 12,
       "dg": -7,
       "pts": 11,
-      "pos": 14
-    },
-    {
-      "eq": "Comer Unid",
-      "pj": 12,
-      "dg": -3,
-      "pts": 10,
       "pos": 15
     },
     {
@@ -130,17 +130,17 @@
   ],
   "clausura": [
     {
+      "eq": "Comer Unid",
+      "pj": -4,
+      "dg": -1,
+      "pts": 13,
+      "pos": 1
+    },
+    {
       "eq": "Sport Huancayo",
       "pj": -4,
       "dg": 18,
       "pts": 12,
-      "pos": 1
-    },
-    {
-      "eq": "Comer Unid",
-      "pj": -5,
-      "dg": -3,
-      "pts": 10,
       "pos": 2
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": -5,
-      "dg": -15,
+      "pj": -4,
+      "dg": -17,
       "pts": -19,
       "pos": 17
     },
@@ -263,12 +263,12 @@
         {
           "l": "Comer Unid",
           "v": "Cienciano",
-          "m": "0 - 0"
+          "m": "3 - 1"
         },
         {
           "l": "Dep. Moquegua",
           "v": "Alianza Lima",
-          "h": "1:15 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Sport Boys",
