@@ -1,5 +1,5 @@
 {
-  "actualizado": "25 oct 2026, 7:08 p.m.",
+  "actualizado": "25 oct 2026, 11:37 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -16,31 +16,31 @@
       "pos": 2
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": 13,
+      "dg": 12,
+      "pts": 25,
+      "pos": 3
+    },
+    {
       "eq": "Sporting Cristal",
       "pj": 13,
       "dg": 11,
       "pts": 25,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Melgar",
       "pj": 13,
       "dg": 10,
       "pts": 25,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Alianza Lima",
       "pj": 13,
       "dg": 8,
       "pts": 25,
-      "pos": 5
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 12,
-      "dg": 9,
-      "pts": 22,
       "pos": 6
     },
     {
@@ -94,8 +94,8 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 12,
-      "dg": -12,
+      "pj": 13,
+      "dg": -15,
       "pts": 12,
       "pos": 14
     },
@@ -179,24 +179,24 @@
       "pos": 7
     },
     {
+      "eq": "Dep. Garcilaso",
+      "pj": -4,
+      "dg": 9,
+      "pts": -1,
+      "pos": 8
+    },
+    {
       "eq": "Universitario",
       "pj": -4,
       "dg": 0,
       "pts": -2,
-      "pos": 8
+      "pos": 9
     },
     {
       "eq": "Melgar",
       "pj": -4,
       "dg": 1,
       "pts": -3,
-      "pos": 9
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": -5,
-      "dg": 6,
-      "pts": -4,
       "pos": 10
     },
     {
@@ -250,35 +250,20 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": -5,
-      "dg": -16,
+      "pj": -4,
+      "dg": -19,
       "pts": -22,
       "pos": 18
     }
   ],
   "partidos": [
     {
-      "dia": "Domingo 25 de octubre",
+      "dia": "Martes 27 de octubre",
       "juegos": [
         {
-          "l": "Comer Unid",
-          "v": "Cienciano",
-          "m": "3 - 1"
-        },
-        {
-          "l": "Dep. Moquegua",
-          "v": "Alianza Lima",
-          "m": "0 - 1"
-        },
-        {
-          "l": "Sport Boys",
-          "v": "FC Cajamarca",
-          "m": "4 - 2"
-        },
-        {
-          "l": "Dep. Garcilaso",
-          "v": "Los Chankas",
-          "m": "1 - 0"
+          "l": "Juan Pablo II",
+          "v": "Sport Huancayo",
+          "h": "3:00 p.m."
         }
       ]
     }
