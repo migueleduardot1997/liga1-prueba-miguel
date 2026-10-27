@@ -1,10 +1,10 @@
 {
-  "actualizado": "27 oct 2026, 3:00 p.m.",
+  "actualizado": "27 oct 2026, 6:42 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
-      "pj": 13,
-      "dg": 8,
+      "pj": 14,
+      "dg": 6,
       "pts": 28,
       "pos": 1
     },
@@ -37,17 +37,17 @@
       "pos": 5
     },
     {
-      "eq": "Alianza Lima",
-      "pj": 13,
-      "dg": 8,
+      "eq": "Juan Pablo II",
+      "pj": 14,
+      "dg": 9,
       "pts": 25,
       "pos": 6
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Alianza Lima",
       "pj": 13,
-      "dg": 7,
-      "pts": 22,
+      "dg": 8,
+      "pts": 25,
       "pos": 7
     },
     {
@@ -138,16 +138,16 @@
     },
     {
       "eq": "Sport Huancayo",
-      "pj": -4,
-      "dg": 18,
+      "pj": -3,
+      "dg": 16,
       "pts": 12,
       "pos": 2
     },
     {
       "eq": "Juan Pablo II",
-      "pj": -4,
-      "dg": 25,
-      "pts": 6,
+      "pj": -3,
+      "dg": 27,
+      "pts": 9,
       "pos": 3
     },
     {
@@ -263,7 +263,7 @@
         {
           "l": "Juan Pablo II",
           "v": "Sport Huancayo",
-          "h": "3:00 p.m."
+          "m": "2 - 0"
         }
       ]
     }
