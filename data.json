@@ -1,5 +1,5 @@
 {
-  "actualizado": "28 oct 2026, 7:40 a.m.",
+  "actualizado": "28 oct 2026, 1:47 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -107,17 +107,17 @@
       "pos": 15
     },
     {
-      "eq": "Dep. Moquegua",
-      "pj": 13,
-      "dg": -12,
+      "eq": "ADT",
+      "pj": 14,
+      "dg": -13,
       "pts": 10,
       "pos": 16
     },
     {
-      "eq": "ADT",
-      "pj": 13,
-      "dg": -15,
-      "pts": 7,
+      "eq": "Dep. Moquegua",
+      "pj": 14,
+      "dg": -14,
+      "pts": 10,
       "pos": 17
     },
     {
@@ -215,16 +215,16 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": -4,
-      "dg": -5,
+      "pj": -3,
+      "dg": -7,
       "pts": -8,
       "pos": 13
     },
     {
       "eq": "ADT",
-      "pj": -4,
-      "dg": -16,
-      "pts": -13,
+      "pj": -3,
+      "dg": -14,
+      "pts": -10,
       "pos": 14
     },
     {
@@ -263,12 +263,12 @@
         {
           "l": "ADT",
           "v": "Dep. Moquegua",
-          "h": "11:00 a.m."
+          "m": "2 - 0"
         },
         {
           "l": "FC Cajamarca",
           "v": "UTC",
-          "h": "1:15 p.m."
+          "m": "0 - 1"
         },
         {
           "l": "Alianza Atlético",
