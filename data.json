@@ -1,5 +1,5 @@
 {
-  "actualizado": "28 oct 2026, 12:26 a.m.",
+  "actualizado": "28 oct 2026, 7:40 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,12 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Martes 27 de octubre",
+      "dia": "Miércoles 28 de octubre",
       "juegos": [
         {
-          "l": "Juan Pablo II",
-          "v": "Sport Huancayo",
-          "m": "2 - 0"
+          "l": "ADT",
+          "v": "Dep. Moquegua",
+          "h": "11:00 a.m."
+        },
+        {
+          "l": "FC Cajamarca",
+          "v": "UTC",
+          "h": "1:15 p.m."
+        },
+        {
+          "l": "Alianza Atlético",
+          "v": "Dep. Garcilaso",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Cienciano",
+          "v": "Atlético Grau",
+          "h": "7:00 p.m."
         }
       ]
     }
