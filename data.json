@@ -1,5 +1,5 @@
 {
-  "actualizado": "28 oct 2026, 9:21 p.m.",
+  "actualizado": "29 oct 2026, 4:48 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,27 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Miércoles 28 de octubre",
+      "dia": "Jueves 29 de octubre",
       "juegos": [
         {
-          "l": "ADT",
-          "v": "Dep. Moquegua",
-          "m": "2 - 0"
+          "l": "Los Chankas",
+          "v": "Cusco FC",
+          "h": "1:00 p.m."
         },
         {
-          "l": "FC Cajamarca",
-          "v": "UTC",
-          "m": "1 - 3"
+          "l": "Sporting Cristal",
+          "v": "Alianza Lima",
+          "h": "3:30 p.m."
         },
         {
-          "l": "Alianza Atlético",
-          "v": "Dep. Garcilaso",
-          "m": "3 - 2"
-        },
-        {
-          "l": "Cienciano",
-          "v": "Atlético Grau",
-          "m": "3 - 0"
+          "l": "Melgar",
+          "v": "Comer Unid",
+          "h": "7:30 p.m."
         }
       ]
     }
