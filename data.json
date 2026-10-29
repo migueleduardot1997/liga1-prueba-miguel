@@ -1,5 +1,5 @@
 {
-  "actualizado": "28 oct 2026, 6:06 p.m.",
+  "actualizado": "28 oct 2026, 9:21 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -73,16 +73,16 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": 13,
-      "dg": -1,
+      "pj": 14,
+      "dg": -4,
       "pts": 18,
       "pos": 11
     },
     {
       "eq": "Cienciano",
-      "pj": 13,
-      "dg": -5,
-      "pts": 14,
+      "pj": 14,
+      "dg": -2,
+      "pts": 17,
       "pos": 12
     },
     {
@@ -166,8 +166,8 @@
     },
     {
       "eq": "Atlético Grau",
-      "pj": -4,
-      "dg": 5,
+      "pj": -3,
+      "dg": 2,
       "pts": 2,
       "pos": 6
     },
@@ -243,9 +243,9 @@
     },
     {
       "eq": "Cienciano",
-      "pj": -4,
-      "dg": -17,
-      "pts": -19,
+      "pj": -3,
+      "dg": -14,
+      "pts": -16,
       "pos": 17
     },
     {
@@ -278,7 +278,7 @@
         {
           "l": "Cienciano",
           "v": "Atlético Grau",
-          "h": "7:00 p.m."
+          "m": "3 - 0"
         }
       ]
     }
