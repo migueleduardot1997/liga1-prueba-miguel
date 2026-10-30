@@ -1,5 +1,5 @@
 {
-  "actualizado": "29 oct 2026, 8:52 p.m.",
+  "actualizado": "30 oct 2026, 3:30 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -23,16 +23,16 @@
       "pos": 3
     },
     {
-      "eq": "Dep. Garcilaso",
+      "eq": "Melgar",
       "pj": 14,
-      "dg": 11,
-      "pts": 25,
+      "dg": 10,
+      "pts": 26,
       "pos": 4
     },
     {
-      "eq": "Melgar",
-      "pj": 13,
-      "dg": 10,
+      "eq": "Dep. Garcilaso",
+      "pj": 14,
+      "dg": 11,
       "pts": 25,
       "pos": 5
     },
@@ -87,9 +87,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 13,
+      "pj": 14,
       "dg": -1,
-      "pts": 13,
+      "pts": 14,
       "pos": 13
     },
     {
@@ -131,9 +131,9 @@
   "clausura": [
     {
       "eq": "Comer Unid",
-      "pj": -4,
+      "pj": -3,
       "dg": -1,
-      "pts": 13,
+      "pts": 14,
       "pos": 1
     },
     {
@@ -186,23 +186,23 @@
       "pos": 8
     },
     {
+      "eq": "Melgar",
+      "pj": -3,
+      "dg": 1,
+      "pts": -2,
+      "pos": 9
+    },
+    {
       "eq": "Universitario",
       "pj": -4,
       "dg": 0,
       "pts": -2,
-      "pos": 9
+      "pos": 10
     },
     {
       "eq": "Cusco FC",
       "pj": -3,
       "dg": 9,
-      "pts": -3,
-      "pos": 10
-    },
-    {
-      "eq": "Melgar",
-      "pj": -4,
-      "dg": 1,
       "pts": -3,
       "pos": 11
     },
@@ -258,22 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Jueves 29 de octubre",
+      "dia": "Sábado 31 de octubre",
       "juegos": [
         {
-          "l": "Los Chankas",
-          "v": "Cusco FC",
-          "m": "0 - 1"
-        },
-        {
-          "l": "Sporting Cristal",
-          "v": "Alianza Lima",
-          "m": "3 - 2"
-        },
-        {
-          "l": "Melgar",
-          "v": "Comer Unid",
-          "m": "1 - 0"
+          "l": "Alianza Atlético",
+          "v": "Juan Pablo II",
+          "h": "3:30 p.m."
         }
       ]
     }
