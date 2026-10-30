@@ -1,30 +1,30 @@
 {
-  "actualizado": "29 oct 2026, 4:44 p.m.",
+  "actualizado": "29 oct 2026, 8:52 p.m.",
   "acumulado": [
+    {
+      "eq": "Sporting Cristal",
+      "pj": 14,
+      "dg": 12,
+      "pts": 28,
+      "pos": 1
+    },
     {
       "eq": "Sport Huancayo",
       "pj": 14,
       "dg": 6,
       "pts": 28,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Universitario",
       "pj": 13,
       "dg": 9,
       "pts": 27,
-      "pos": 2
+      "pos": 3
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 14,
-      "dg": 11,
-      "pts": 25,
-      "pos": 3
-    },
-    {
-      "eq": "Sporting Cristal",
-      "pj": 13,
       "dg": 11,
       "pts": 25,
       "pos": 4
@@ -45,8 +45,8 @@
     },
     {
       "eq": "Alianza Lima",
-      "pj": 13,
-      "dg": 8,
+      "pj": 14,
+      "dg": 7,
       "pts": 25,
       "pos": 7
     },
@@ -152,9 +152,9 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": -4,
-      "dg": 13,
-      "pts": 6,
+      "pj": -3,
+      "dg": 14,
+      "pts": 9,
       "pos": 4
     },
     {
@@ -236,8 +236,8 @@
     },
     {
       "eq": "Alianza Lima",
-      "pj": -4,
-      "dg": -14,
+      "pj": -3,
+      "dg": -15,
       "pts": -15,
       "pos": 16
     },
@@ -268,12 +268,12 @@
         {
           "l": "Sporting Cristal",
           "v": "Alianza Lima",
-          "m": "2 - 2"
+          "m": "3 - 2"
         },
         {
           "l": "Melgar",
           "v": "Comer Unid",
-          "h": "7:30 p.m."
+          "m": "1 - 0"
         }
       ]
     }
