@@ -1,5 +1,5 @@
 {
-  "actualizado": "31 oct 2026, 9:06 p.m.",
+  "actualizado": "1 nov 2026, 4:05 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -258,12 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 31 de octubre",
+      "dia": "Domingo 1 de noviembre",
       "juegos": [
         {
-          "l": "Alianza Atlético",
-          "v": "Juan Pablo II",
-          "m": "1 - 0"
+          "l": "Dep. Moquegua",
+          "v": "Los Chankas",
+          "h": "11:00 a.m."
+        },
+        {
+          "l": "Cusco FC",
+          "v": "Sport Boys",
+          "h": "1:15 p.m."
+        },
+        {
+          "l": "Atlético Grau",
+          "v": "Universitario",
+          "h": "3:30 p.m."
         }
       ]
     }
