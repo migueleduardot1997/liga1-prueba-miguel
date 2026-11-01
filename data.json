@@ -1,5 +1,5 @@
 {
-  "actualizado": "31 oct 2026, 5:24 p.m.",
+  "actualizado": "31 oct 2026, 9:06 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -16,44 +16,44 @@
       "pos": 2
     },
     {
+      "eq": "Alianza Atlético",
+      "pj": 15,
+      "dg": 1,
+      "pts": 28,
+      "pos": 3
+    },
+    {
       "eq": "Universitario",
       "pj": 13,
       "dg": 9,
       "pts": 27,
-      "pos": 3
+      "pos": 4
     },
     {
       "eq": "Melgar",
       "pj": 14,
       "dg": 10,
       "pts": 26,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Dep. Garcilaso",
       "pj": 14,
       "dg": 11,
       "pts": 25,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 14,
-      "dg": 9,
+      "pj": 15,
+      "dg": 8,
       "pts": 25,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Alianza Lima",
       "pj": 14,
       "dg": 7,
-      "pts": 25,
-      "pos": 7
-    },
-    {
-      "eq": "Alianza Atlético",
-      "pj": 14,
-      "dg": 0,
       "pts": 25,
       "pos": 8
     },
@@ -145,8 +145,8 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": -3,
-      "dg": 27,
+      "pj": -2,
+      "dg": 26,
       "pts": 9,
       "pos": 3
     },
@@ -159,9 +159,9 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": -3,
-      "dg": -2,
-      "pts": 4,
+      "pj": -2,
+      "dg": -1,
+      "pts": 7,
       "pos": 5
     },
     {
