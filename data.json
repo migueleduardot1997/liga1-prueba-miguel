@@ -1,5 +1,5 @@
 {
-  "actualizado": "1 nov 2026, 10:57 a.m.",
+  "actualizado": "1 nov 2026, 3:26 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -58,17 +58,17 @@
       "pos": 8
     },
     {
-      "eq": "Cusco FC",
+      "eq": "Sport Boys",
       "pj": 14,
       "dg": 6,
       "pts": 24,
       "pos": 9
     },
     {
-      "eq": "Sport Boys",
-      "pj": 13,
+      "eq": "Cusco FC",
+      "pj": 15,
       "dg": 5,
-      "pts": 21,
+      "pts": 24,
       "pos": 10
     },
     {
@@ -94,9 +94,9 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 14,
+      "pj": 15,
       "dg": -16,
-      "pts": 12,
+      "pts": 13,
       "pos": 14
     },
     {
@@ -107,16 +107,16 @@
       "pos": 15
     },
     {
-      "eq": "ADT",
-      "pj": 14,
-      "dg": -13,
-      "pts": 10,
+      "eq": "Dep. Moquegua",
+      "pj": 15,
+      "dg": -14,
+      "pts": 11,
       "pos": 16
     },
     {
-      "eq": "Dep. Moquegua",
+      "eq": "ADT",
       "pj": 14,
-      "dg": -14,
+      "dg": -13,
       "pts": 10,
       "pos": 17
     },
@@ -165,17 +165,17 @@
       "pos": 5
     },
     {
+      "eq": "Sport Boys",
+      "pj": -3,
+      "dg": 10,
+      "pts": 4,
+      "pos": 6
+    },
+    {
       "eq": "Atlético Grau",
       "pj": -3,
       "dg": 2,
       "pts": 2,
-      "pos": 6
-    },
-    {
-      "eq": "Sport Boys",
-      "pj": -4,
-      "dg": 9,
-      "pts": 1,
       "pos": 7
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": -3,
-      "dg": 9,
+      "pj": -2,
+      "dg": 8,
       "pts": -3,
       "pos": 11
     },
@@ -215,9 +215,9 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": -3,
+      "pj": -2,
       "dg": -7,
-      "pts": -8,
+      "pts": -7,
       "pos": 13
     },
     {
@@ -250,9 +250,9 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": -3,
+      "pj": -2,
       "dg": -20,
-      "pts": -22,
+      "pts": -21,
       "pos": 18
     }
   ],
@@ -263,12 +263,12 @@
         {
           "l": "Dep. Moquegua",
           "v": "Los Chankas",
-          "h": "11:00 a.m."
+          "m": "0 - 0"
         },
         {
           "l": "Cusco FC",
           "v": "Sport Boys",
-          "h": "1:15 p.m."
+          "m": "0 - 1"
         },
         {
           "l": "Atlético Grau",
