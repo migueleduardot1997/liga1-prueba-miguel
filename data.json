@@ -1,5 +1,5 @@
 {
-  "actualizado": "3 nov 2026, 12:43 p.m.",
+  "actualizado": "3 nov 2026, 6:13 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -87,9 +87,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 14,
+      "pj": 15,
       "dg": -1,
-      "pts": 14,
+      "pts": 15,
       "pos": 13
     },
     {
@@ -100,24 +100,24 @@
       "pos": 14
     },
     {
+      "eq": "ADT",
+      "pj": 15,
+      "dg": -13,
+      "pts": 11,
+      "pos": 15
+    },
+    {
       "eq": "Dep. Moquegua",
       "pj": 15,
       "dg": -14,
       "pts": 11,
-      "pos": 15
+      "pos": 16
     },
     {
       "eq": "FC Cajamarca",
       "pj": 15,
       "dg": -16,
       "pts": 11,
-      "pos": 16
-    },
-    {
-      "eq": "ADT",
-      "pj": 14,
-      "dg": -13,
-      "pts": 10,
       "pos": 17
     },
     {
@@ -138,9 +138,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": -3,
+      "pj": -2,
       "dg": -1,
-      "pts": 14,
+      "pts": 15,
       "pos": 2
     },
     {
@@ -222,9 +222,9 @@
     },
     {
       "eq": "ADT",
-      "pj": -3,
+      "pj": -2,
       "dg": -14,
-      "pts": -10,
+      "pts": -9,
       "pos": 14
     },
     {
@@ -263,7 +263,7 @@
         {
           "l": "Comer Unid",
           "v": "ADT",
-          "h": "3:00 p.m."
+          "m": "2 - 2"
         },
         {
           "l": "Alianza Lima",
