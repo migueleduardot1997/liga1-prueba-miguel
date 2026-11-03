@@ -1,5 +1,5 @@
 {
-  "actualizado": "2 nov 2026, 8:31 p.m.",
+  "actualizado": "3 nov 2026, 4:25 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -258,22 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Lunes 2 de noviembre",
+      "dia": "Martes 3 de noviembre",
       "juegos": [
         {
-          "l": "Sport Huancayo",
-          "v": "Melgar",
-          "m": "2 - 0"
+          "l": "Comer Unid",
+          "v": "ADT",
+          "h": "3:00 p.m."
         },
         {
-          "l": "UTC",
-          "v": "Dep. Garcilaso",
-          "m": "2 - 3"
-        },
-        {
-          "l": "Sporting Cristal",
-          "v": "FC Cajamarca",
-          "m": "5 - 0"
+          "l": "Alianza Lima",
+          "v": "Cienciano",
+          "h": "8:00 p.m."
         }
       ]
     }
