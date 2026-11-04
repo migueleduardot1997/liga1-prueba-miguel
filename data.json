@@ -1,5 +1,5 @@
 {
-  "actualizado": "4 nov 2026, 1:01 a.m.",
+  "actualizado": "4 nov 2026, 9:19 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -258,17 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Martes 3 de noviembre",
+      "dia": "Miércoles 4 de noviembre",
       "juegos": [
         {
-          "l": "Comer Unid",
-          "v": "ADT",
-          "m": "2 - 2"
-        },
-        {
-          "l": "Alianza Lima",
-          "v": "Cienciano",
-          "m": "1 - 0"
+          "l": "Universitario",
+          "v": "Sport Boys",
+          "h": "8:30 p.m."
         }
       ]
     }
