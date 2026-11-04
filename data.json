@@ -1,5 +1,5 @@
 {
-  "actualizado": "3 nov 2026, 6:13 p.m.",
+  "actualizado": "4 nov 2026, 1:01 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -30,30 +30,30 @@
       "pos": 4
     },
     {
+      "eq": "Alianza Lima",
+      "pj": 15,
+      "dg": 8,
+      "pts": 28,
+      "pos": 5
+    },
+    {
       "eq": "Alianza Atlético",
       "pj": 15,
       "dg": 1,
       "pts": 28,
-      "pos": 5
+      "pos": 6
     },
     {
       "eq": "Melgar",
       "pj": 15,
       "dg": 8,
       "pts": 26,
-      "pos": 6
+      "pos": 7
     },
     {
       "eq": "Juan Pablo II",
       "pj": 15,
       "dg": 8,
-      "pts": 25,
-      "pos": 7
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": 14,
-      "dg": 7,
       "pts": 25,
       "pos": 8
     },
@@ -80,8 +80,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 14,
-      "dg": -2,
+      "pj": 15,
+      "dg": -3,
       "pts": 17,
       "pos": 12
     },
@@ -228,23 +228,23 @@
       "pos": 14
     },
     {
+      "eq": "Alianza Lima",
+      "pj": -2,
+      "dg": -14,
+      "pts": -12,
+      "pos": 15
+    },
+    {
       "eq": "UTC",
       "pj": -2,
       "dg": -10,
       "pts": -13,
-      "pos": 15
-    },
-    {
-      "eq": "Alianza Lima",
-      "pj": -3,
-      "dg": -15,
-      "pts": -15,
       "pos": 16
     },
     {
       "eq": "Cienciano",
-      "pj": -3,
-      "dg": -14,
+      "pj": -2,
+      "dg": -15,
       "pts": -16,
       "pos": 17
     },
@@ -268,7 +268,7 @@
         {
           "l": "Alianza Lima",
           "v": "Cienciano",
-          "h": "8:00 p.m."
+          "m": "1 - 0"
         }
       ]
     }
