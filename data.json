@@ -1,5 +1,5 @@
 {
-  "actualizado": "4 nov 2026, 9:16 p.m.",
+  "actualizado": "5 nov 2026, 5:43 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -9,17 +9,17 @@
       "pos": 1
     },
     {
-      "eq": "Sport Huancayo",
+      "eq": "Universitario",
       "pj": 15,
-      "dg": 8,
+      "dg": 11,
       "pts": 31,
       "pos": 2
     },
     {
-      "eq": "Universitario",
-      "pj": 14,
-      "dg": 11,
-      "pts": 30,
+      "eq": "Sport Huancayo",
+      "pj": 15,
+      "dg": 8,
+      "pts": 31,
       "pos": 3
     },
     {
@@ -59,9 +59,9 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": 14,
+      "pj": 15,
       "dg": 6,
-      "pts": 24,
+      "pts": 25,
       "pos": 9
     },
     {
@@ -166,9 +166,9 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": -3,
+      "pj": -2,
       "dg": 10,
-      "pts": 4,
+      "pts": 5,
       "pos": 6
     },
     {
@@ -179,17 +179,17 @@
       "pos": 7
     },
     {
-      "eq": "Atlético Grau",
+      "eq": "Universitario",
       "pj": -2,
-      "dg": 0,
+      "dg": 2,
       "pts": 2,
       "pos": 8
     },
     {
-      "eq": "Universitario",
-      "pj": -3,
-      "dg": 2,
-      "pts": 1,
+      "eq": "Atlético Grau",
+      "pj": -2,
+      "dg": 0,
+      "pts": 2,
       "pos": 9
     },
     {
@@ -258,12 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Miércoles 4 de noviembre",
+      "dia": "Viernes 6 de noviembre",
       "juegos": [
         {
-          "l": "Universitario",
-          "v": "Sport Boys",
-          "m": "0 - 1"
+          "l": "Atlético Grau",
+          "v": "Cusco FC",
+          "h": "3:00 p.m."
         }
       ]
     }
