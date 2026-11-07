@@ -1,5 +1,5 @@
 {
-  "actualizado": "6 nov 2026, 3:49 p.m.",
+  "actualizado": "6 nov 2026, 7:51 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -66,16 +66,16 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": 15,
-      "dg": 5,
+      "pj": 16,
+      "dg": 2,
       "pts": 24,
       "pos": 10
     },
     {
       "eq": "Atlético Grau",
-      "pj": 15,
-      "dg": -6,
-      "pts": 18,
+      "pj": 16,
+      "dg": -3,
+      "pts": 21,
       "pos": 11
     },
     {
@@ -172,23 +172,23 @@
       "pos": 6
     },
     {
+      "eq": "Atlético Grau",
+      "pj": -1,
+      "dg": 3,
+      "pts": 5,
+      "pos": 7
+    },
+    {
       "eq": "Dep. Garcilaso",
       "pj": -2,
       "dg": 9,
       "pts": 2,
-      "pos": 7
+      "pos": 8
     },
     {
       "eq": "Universitario",
       "pj": -2,
       "dg": 2,
-      "pts": 2,
-      "pos": 8
-    },
-    {
-      "eq": "Atlético Grau",
-      "pj": -2,
-      "dg": 0,
       "pts": 2,
       "pos": 9
     },
@@ -201,8 +201,8 @@
     },
     {
       "eq": "Cusco FC",
-      "pj": -2,
-      "dg": 8,
+      "pj": -1,
+      "dg": 5,
       "pts": -3,
       "pos": 11
     },
@@ -263,7 +263,7 @@
         {
           "l": "Atlético Grau",
           "v": "Cusco FC",
-          "m": "1 - 0"
+          "m": "3 - 0"
         }
       ]
     }
