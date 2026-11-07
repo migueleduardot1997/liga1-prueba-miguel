@@ -1,5 +1,5 @@
 {
-  "actualizado": "7 nov 2026, 2:00 a.m.",
+  "actualizado": "7 nov 2026, 8:54 a.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -258,12 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Viernes 6 de noviembre",
+      "dia": "Sábado 7 de noviembre",
       "juegos": [
         {
-          "l": "Atlético Grau",
-          "v": "Cusco FC",
-          "m": "3 - 0"
+          "l": "ADT",
+          "v": "Sporting Cristal",
+          "h": "1:00 p.m."
+        },
+        {
+          "l": "FC Cajamarca",
+          "v": "Alianza Atlético",
+          "h": "3:30 p.m."
+        },
+        {
+          "l": "Melgar",
+          "v": "Juan Pablo II",
+          "h": "6:00 p.m."
+        },
+        {
+          "l": "Cienciano",
+          "v": "Sport Huancayo",
+          "h": "8:30 p.m."
         }
       ]
     }
