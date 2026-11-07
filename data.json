@@ -1,11 +1,11 @@
 {
-  "actualizado": "7 nov 2026, 1:40 p.m.",
+  "actualizado": "7 nov 2026, 5:39 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
-      "pj": 15,
+      "pj": 16,
       "dg": 17,
-      "pts": 31,
+      "pts": 32,
       "pos": 1
     },
     {
@@ -101,9 +101,9 @@
     },
     {
       "eq": "ADT",
-      "pj": 15,
+      "pj": 16,
       "dg": -13,
-      "pts": 11,
+      "pts": 12,
       "pos": 15
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": -2,
+      "pj": -1,
       "dg": 19,
-      "pts": 12,
+      "pts": 13,
       "pos": 3
     },
     {
@@ -222,9 +222,9 @@
     },
     {
       "eq": "ADT",
-      "pj": -2,
+      "pj": -1,
       "dg": -14,
-      "pts": -9,
+      "pts": -8,
       "pos": 14
     },
     {
@@ -263,12 +263,12 @@
         {
           "l": "ADT",
           "v": "Sporting Cristal",
-          "m": "0 - 0"
+          "m": "1 - 1"
         },
         {
           "l": "FC Cajamarca",
           "v": "Alianza Atlético",
-          "h": "3:30 p.m."
+          "m": "2 - 0"
         },
         {
           "l": "Melgar",
