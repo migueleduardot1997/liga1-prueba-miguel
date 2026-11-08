@@ -1,5 +1,5 @@
 {
-  "actualizado": "7 nov 2026, 5:39 p.m.",
+  "actualizado": "7 nov 2026, 9:19 p.m.",
   "acumulado": [
     {
       "eq": "Sporting Cristal",
@@ -23,37 +23,37 @@
       "pos": 3
     },
     {
+      "eq": "Melgar",
+      "pj": 16,
+      "dg": 9,
+      "pts": 29,
+      "pos": 4
+    },
+    {
       "eq": "Dep. Garcilaso",
       "pj": 15,
       "dg": 12,
       "pts": 28,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Alianza Lima",
       "pj": 15,
       "dg": 8,
       "pts": 28,
-      "pos": 5
-    },
-    {
-      "eq": "Alianza Atlético",
-      "pj": 15,
-      "dg": 1,
-      "pts": 28,
       "pos": 6
     },
     {
-      "eq": "Melgar",
-      "pj": 15,
-      "dg": 8,
-      "pts": 26,
+      "eq": "Alianza Atlético",
+      "pj": 16,
+      "dg": -1,
+      "pts": 28,
       "pos": 7
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 15,
-      "dg": 8,
+      "pj": 16,
+      "dg": 7,
       "pts": 25,
       "pos": 8
     },
@@ -93,30 +93,30 @@
       "pos": 13
     },
     {
+      "eq": "FC Cajamarca",
+      "pj": 16,
+      "dg": -14,
+      "pts": 14,
+      "pos": 14
+    },
+    {
       "eq": "Los Chankas",
       "pj": 15,
       "dg": -16,
       "pts": 13,
-      "pos": 14
+      "pos": 15
     },
     {
       "eq": "ADT",
       "pj": 16,
       "dg": -13,
       "pts": 12,
-      "pos": 15
+      "pos": 16
     },
     {
       "eq": "Dep. Moquegua",
       "pj": 15,
       "dg": -14,
-      "pts": 11,
-      "pos": 16
-    },
-    {
-      "eq": "FC Cajamarca",
-      "pj": 15,
-      "dg": -16,
       "pts": 11,
       "pos": 17
     },
@@ -152,15 +152,15 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": -2,
-      "dg": 26,
+      "pj": -1,
+      "dg": 25,
       "pts": 9,
       "pos": 4
     },
     {
       "eq": "Alianza Atlético",
-      "pj": -2,
-      "dg": -1,
+      "pj": -1,
+      "dg": -3,
       "pts": 7,
       "pos": 5
     },
@@ -194,9 +194,9 @@
     },
     {
       "eq": "Melgar",
-      "pj": -2,
-      "dg": -1,
-      "pts": -2,
+      "pj": -1,
+      "dg": 0,
+      "pts": 1,
       "pos": 10
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "eq": "FC Cajamarca",
-      "pj": -2,
-      "dg": -11,
-      "pts": -6,
+      "pj": -1,
+      "dg": -9,
+      "pts": -3,
       "pos": 12
     },
     {
@@ -273,12 +273,12 @@
         {
           "l": "Melgar",
           "v": "Juan Pablo II",
-          "h": "6:00 p.m."
+          "m": "2 - 1"
         },
         {
           "l": "Cienciano",
           "v": "Sport Huancayo",
-          "h": "8:30 p.m."
+          "m": "1 - 1"
         }
       ]
     }
