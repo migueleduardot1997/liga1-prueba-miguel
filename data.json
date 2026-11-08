@@ -1,24 +1,24 @@
 {
-  "actualizado": "7 nov 2026, 9:19 p.m.",
+  "actualizado": "8 nov 2026, 5:09 a.m.",
   "acumulado": [
+    {
+      "eq": "Sport Huancayo",
+      "pj": 16,
+      "dg": 9,
+      "pts": 34,
+      "pos": 1
+    },
     {
       "eq": "Sporting Cristal",
       "pj": 16,
       "dg": 17,
       "pts": 32,
-      "pos": 1
+      "pos": 2
     },
     {
       "eq": "Universitario",
       "pj": 15,
       "dg": 11,
-      "pts": 31,
-      "pos": 2
-    },
-    {
-      "eq": "Sport Huancayo",
-      "pj": 15,
-      "dg": 8,
       "pts": 31,
       "pos": 3
     },
@@ -80,8 +80,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 15,
-      "dg": -3,
+      "pj": 16,
+      "dg": -4,
       "pts": 17,
       "pos": 12
     },
@@ -131,9 +131,9 @@
   "clausura": [
     {
       "eq": "Sport Huancayo",
-      "pj": -2,
-      "dg": 18,
-      "pts": 15,
+      "pj": -1,
+      "dg": 19,
+      "pts": 18,
       "pos": 1
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": -2,
-      "dg": -15,
+      "pj": -1,
+      "dg": -16,
       "pts": -16,
       "pos": 17
     },
@@ -258,27 +258,27 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 7 de noviembre",
+      "dia": "Domingo 8 de noviembre",
       "juegos": [
         {
-          "l": "ADT",
-          "v": "Sporting Cristal",
-          "m": "1 - 1"
+          "l": "Los Chankas",
+          "v": "Alianza Lima",
+          "h": "1:00 p.m."
         },
         {
-          "l": "FC Cajamarca",
-          "v": "Alianza Atlético",
-          "m": "2 - 0"
+          "l": "Sport Boys",
+          "v": "UTC",
+          "h": "3:30 p.m."
         },
         {
-          "l": "Melgar",
-          "v": "Juan Pablo II",
-          "m": "2 - 1"
+          "l": "Dep. Garcilaso",
+          "v": "Comer Unid",
+          "h": "6:00 p.m."
         },
         {
-          "l": "Cienciano",
-          "v": "Sport Huancayo",
-          "m": "1 - 1"
+          "l": "Universitario",
+          "v": "Dep. Moquegua",
+          "h": "8:30 p.m."
         }
       ]
     }
