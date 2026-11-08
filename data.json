@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 nov 2026, 11:38 a.m.",
+  "actualizado": "8 nov 2026, 4:04 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -30,16 +30,16 @@
       "pos": 4
     },
     {
-      "eq": "Dep. Garcilaso",
-      "pj": 15,
-      "dg": 12,
-      "pts": 28,
+      "eq": "Alianza Lima",
+      "pj": 16,
+      "dg": 8,
+      "pts": 29,
       "pos": 5
     },
     {
-      "eq": "Alianza Lima",
+      "eq": "Dep. Garcilaso",
       "pj": 15,
-      "dg": 8,
+      "dg": 12,
       "pts": 28,
       "pos": 6
     },
@@ -101,9 +101,9 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": 15,
+      "pj": 16,
       "dg": -16,
-      "pts": 13,
+      "pts": 14,
       "pos": 15
     },
     {
@@ -229,9 +229,9 @@
     },
     {
       "eq": "Alianza Lima",
-      "pj": -2,
+      "pj": -1,
       "dg": -14,
-      "pts": -12,
+      "pts": -11,
       "pos": 15
     },
     {
@@ -250,9 +250,9 @@
     },
     {
       "eq": "Los Chankas",
-      "pj": -2,
+      "pj": -1,
       "dg": -20,
-      "pts": -21,
+      "pts": -20,
       "pos": 18
     }
   ],
@@ -263,12 +263,12 @@
         {
           "l": "Los Chankas",
           "v": "Alianza Lima",
-          "h": "1:00 p.m."
+          "m": "1 - 1"
         },
         {
           "l": "Sport Boys",
           "v": "UTC",
-          "h": "3:30 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Dep. Garcilaso",
