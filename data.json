@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 nov 2026, 4:04 p.m.",
+  "actualizado": "8 nov 2026, 7:44 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -51,16 +51,16 @@
       "pos": 7
     },
     {
-      "eq": "Juan Pablo II",
+      "eq": "Sport Boys",
       "pj": 16,
-      "dg": 7,
-      "pts": 25,
+      "dg": 6,
+      "pts": 26,
       "pos": 8
     },
     {
-      "eq": "Sport Boys",
-      "pj": 15,
-      "dg": 6,
+      "eq": "Juan Pablo II",
+      "pj": 16,
+      "dg": 7,
       "pts": 25,
       "pos": 9
     },
@@ -122,9 +122,9 @@
     },
     {
       "eq": "UTC",
-      "pj": 15,
+      "pj": 16,
       "dg": -15,
-      "pts": 0,
+      "pts": 1,
       "pos": 18
     }
   ],
@@ -166,9 +166,9 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": -2,
+      "pj": -1,
       "dg": 10,
-      "pts": 5,
+      "pts": 6,
       "pos": 6
     },
     {
@@ -236,9 +236,9 @@
     },
     {
       "eq": "UTC",
-      "pj": -2,
+      "pj": -1,
       "dg": -10,
-      "pts": -13,
+      "pts": -12,
       "pos": 16
     },
     {
@@ -273,7 +273,7 @@
         {
           "l": "Dep. Garcilaso",
           "v": "Comer Unid",
-          "h": "6:00 p.m."
+          "m": "0 - 0"
         },
         {
           "l": "Universitario",
