@@ -1,5 +1,5 @@
 {
-  "actualizado": "8 nov 2026, 7:44 p.m.",
+  "actualizado": "9 nov 2026, 2:52 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -17,30 +17,30 @@
     },
     {
       "eq": "Universitario",
-      "pj": 15,
+      "pj": 16,
       "dg": 11,
-      "pts": 31,
+      "pts": 32,
       "pos": 3
+    },
+    {
+      "eq": "Dep. Garcilaso",
+      "pj": 16,
+      "dg": 12,
+      "pts": 29,
+      "pos": 4
     },
     {
       "eq": "Melgar",
       "pj": 16,
       "dg": 9,
       "pts": 29,
-      "pos": 4
+      "pos": 5
     },
     {
       "eq": "Alianza Lima",
       "pj": 16,
       "dg": 8,
       "pts": 29,
-      "pos": 5
-    },
-    {
-      "eq": "Dep. Garcilaso",
-      "pj": 15,
-      "dg": 12,
-      "pts": 28,
       "pos": 6
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": 15,
+      "pj": 16,
       "dg": -1,
-      "pts": 15,
+      "pts": 16,
       "pos": 13
     },
     {
@@ -115,9 +115,9 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": 15,
+      "pj": 16,
       "dg": -14,
-      "pts": 11,
+      "pts": 12,
       "pos": 17
     },
     {
@@ -138,9 +138,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": -2,
+      "pj": -1,
       "dg": -1,
-      "pts": 15,
+      "pts": 16,
       "pos": 2
     },
     {
@@ -180,16 +180,16 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": -2,
+      "pj": -1,
       "dg": 9,
-      "pts": 2,
+      "pts": 3,
       "pos": 8
     },
     {
       "eq": "Universitario",
-      "pj": -2,
+      "pj": -1,
       "dg": 2,
-      "pts": 2,
+      "pts": 3,
       "pos": 9
     },
     {
@@ -215,9 +215,9 @@
     },
     {
       "eq": "Dep. Moquegua",
-      "pj": -2,
+      "pj": -1,
       "dg": -7,
-      "pts": -7,
+      "pts": -6,
       "pos": 13
     },
     {
@@ -278,7 +278,7 @@
         {
           "l": "Universitario",
           "v": "Dep. Moquegua",
-          "h": "8:30 p.m."
+          "m": "2 - 2"
         }
       ]
     }
