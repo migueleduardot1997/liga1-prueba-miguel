@@ -1,5 +1,5 @@
 {
-  "actualizado": "11 nov 2026, 8:27 p.m.",
+  "actualizado": "12 nov 2026, 4:41 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,27 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 8 de noviembre",
+      "dia": "Domingo 15 de noviembre",
       "juegos": [
         {
-          "l": "Los Chankas",
-          "v": "Alianza Lima",
-          "m": "1 - 1"
+          "l": "Comer Unid",
+          "v": "Sport Boys",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Sport Boys",
-          "v": "UTC",
-          "m": "0 - 0"
-        },
-        {
-          "l": "Dep. Garcilaso",
-          "v": "Comer Unid",
-          "m": "0 - 0"
-        },
-        {
-          "l": "Universitario",
-          "v": "Dep. Moquegua",
-          "m": "2 - 2"
+          "l": "Juan Pablo II",
+          "v": "Dep. Garcilaso",
+          "h": "3:15 p.m."
         }
       ]
     }
