@@ -1,5 +1,5 @@
 {
-  "actualizado": "15 nov 2026, 11:58 a.m.",
+  "actualizado": "15 nov 2026, 4:40 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -52,9 +52,9 @@
     },
     {
       "eq": "Sport Boys",
-      "pj": 16,
+      "pj": 17,
       "dg": 6,
-      "pts": 26,
+      "pts": 27,
       "pos": 8
     },
     {
@@ -79,17 +79,17 @@
       "pos": 11
     },
     {
-      "eq": "Cienciano",
-      "pj": 16,
-      "dg": -4,
+      "eq": "Comer Unid",
+      "pj": 17,
+      "dg": -1,
       "pts": 17,
       "pos": 12
     },
     {
-      "eq": "Comer Unid",
+      "eq": "Cienciano",
       "pj": 16,
-      "dg": -1,
-      "pts": 16,
+      "dg": -4,
+      "pts": 17,
       "pos": 13
     },
     {
@@ -138,9 +138,9 @@
     },
     {
       "eq": "Comer Unid",
-      "pj": -1,
+      "pj": 0,
       "dg": -1,
-      "pts": 16,
+      "pts": 17,
       "pos": 2
     },
     {
@@ -158,17 +158,17 @@
       "pos": 4
     },
     {
-      "eq": "Alianza Atlético",
-      "pj": -1,
-      "dg": -3,
+      "eq": "Sport Boys",
+      "pj": 0,
+      "dg": 10,
       "pts": 7,
       "pos": 5
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Alianza Atlético",
       "pj": -1,
-      "dg": 10,
-      "pts": 6,
+      "dg": -3,
+      "pts": 7,
       "pos": 6
     },
     {
@@ -263,12 +263,12 @@
         {
           "l": "Comer Unid",
           "v": "Sport Boys",
-          "h": "1:00 p.m."
+          "m": "3 - 3"
         },
         {
           "l": "Juan Pablo II",
           "v": "Dep. Garcilaso",
-          "h": "3:15 p.m."
+          "m": "1 - 2"
         }
       ]
     }
