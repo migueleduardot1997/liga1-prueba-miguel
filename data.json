@@ -1,5 +1,5 @@
 {
-  "actualizado": "15 nov 2026, 8:52 p.m.",
+  "actualizado": "16 nov 2026, 4:27 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,17 +258,22 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 15 de noviembre",
+      "dia": "Lunes 16 de noviembre",
       "juegos": [
         {
-          "l": "Comer Unid",
-          "v": "Sport Boys",
-          "m": "3 - 3"
+          "l": "UTC",
+          "v": "Los Chankas",
+          "h": "1:00 p.m."
         },
         {
-          "l": "Juan Pablo II",
-          "v": "Dep. Garcilaso",
-          "m": "2 - 2"
+          "l": "Cusco FC",
+          "v": "ADT",
+          "h": "3:15 p.m."
+        },
+        {
+          "l": "Dep. Moquegua",
+          "v": "Atlético Grau",
+          "h": "3:15 p.m."
         }
       ]
     }
