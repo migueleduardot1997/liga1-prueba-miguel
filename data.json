@@ -1,5 +1,5 @@
 {
-  "actualizado": "15 nov 2026, 4:40 p.m.",
+  "actualizado": "15 nov 2026, 8:52 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -24,9 +24,9 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": 16,
+      "pj": 17,
       "dg": 12,
-      "pts": 29,
+      "pts": 30,
       "pos": 4
     },
     {
@@ -59,9 +59,9 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": 16,
+      "pj": 17,
       "dg": 7,
-      "pts": 25,
+      "pts": 26,
       "pos": 9
     },
     {
@@ -152,9 +152,9 @@
     },
     {
       "eq": "Juan Pablo II",
-      "pj": -1,
+      "pj": 0,
       "dg": 25,
-      "pts": 9,
+      "pts": 10,
       "pos": 4
     },
     {
@@ -180,9 +180,9 @@
     },
     {
       "eq": "Dep. Garcilaso",
-      "pj": -1,
+      "pj": 0,
       "dg": 9,
-      "pts": 3,
+      "pts": 4,
       "pos": 8
     },
     {
@@ -268,7 +268,7 @@
         {
           "l": "Juan Pablo II",
           "v": "Dep. Garcilaso",
-          "m": "1 - 2"
+          "m": "2 - 2"
         }
       ]
     }
