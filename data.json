@@ -1,5 +1,5 @@
 {
-  "actualizado": "18 nov 2026, 4:20 p.m.",
+  "actualizado": "18 nov 2026, 10:12 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -31,9 +31,9 @@
     },
     {
       "eq": "Melgar",
-      "pj": 16,
+      "pj": 17,
       "dg": 9,
-      "pts": 29,
+      "pts": 30,
       "pos": 5
     },
     {
@@ -45,9 +45,9 @@
     },
     {
       "eq": "Alianza Atlético",
-      "pj": 16,
+      "pj": 17,
       "dg": -1,
-      "pts": 28,
+      "pts": 29,
       "pos": 7
     },
     {
@@ -158,16 +158,16 @@
       "pos": 4
     },
     {
-      "eq": "Sport Boys",
+      "eq": "Alianza Atlético",
       "pj": 0,
-      "dg": 10,
-      "pts": 7,
+      "dg": -3,
+      "pts": 8,
       "pos": 5
     },
     {
-      "eq": "Alianza Atlético",
-      "pj": -1,
-      "dg": -3,
+      "eq": "Sport Boys",
+      "pj": 0,
+      "dg": 10,
       "pts": 7,
       "pos": 6
     },
@@ -194,9 +194,9 @@
     },
     {
       "eq": "Melgar",
-      "pj": -1,
+      "pj": 0,
       "dg": 0,
-      "pts": 1,
+      "pts": 2,
       "pos": 10
     },
     {
@@ -263,7 +263,7 @@
         {
           "l": "Alianza Atlético",
           "v": "Melgar",
-          "m": "0 - 1"
+          "m": "1 - 1"
         }
       ]
     }
