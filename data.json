@@ -1,5 +1,5 @@
 {
-  "actualizado": "21 nov 2026, 9:59 p.m.",
+  "actualizado": "22 nov 2026, 6:04 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,12 +258,17 @@
   ],
   "partidos": [
     {
-      "dia": "Sábado 21 de noviembre",
+      "dia": "Domingo 22 de noviembre",
       "juegos": [
         {
-          "l": "Alianza Lima",
-          "v": "FC Cajamarca",
-          "m": "5 - 0"
+          "l": "Sport Huancayo",
+          "v": "Universitario",
+          "h": "3:00 p.m."
+        },
+        {
+          "l": "Sporting Cristal",
+          "v": "Cienciano",
+          "h": "3:00 p.m."
         }
       ]
     }
