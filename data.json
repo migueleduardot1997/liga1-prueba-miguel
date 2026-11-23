@@ -1,18 +1,18 @@
 {
-  "actualizado": "22 nov 2026, 1:25 p.m.",
+  "actualizado": "22 nov 2026, 7:11 p.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
-      "pj": 16,
-      "dg": 9,
-      "pts": 34,
+      "pj": 17,
+      "dg": 12,
+      "pts": 37,
       "pos": 1
     },
     {
       "eq": "Sporting Cristal",
-      "pj": 16,
-      "dg": 17,
-      "pts": 32,
+      "pj": 17,
+      "dg": 20,
+      "pts": 35,
       "pos": 2
     },
     {
@@ -24,8 +24,8 @@
     },
     {
       "eq": "Universitario",
-      "pj": 16,
-      "dg": 11,
+      "pj": 17,
+      "dg": 8,
       "pts": 32,
       "pos": 4
     },
@@ -87,8 +87,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": 16,
-      "dg": -4,
+      "pj": 17,
+      "dg": -7,
       "pts": 17,
       "pos": 13
     },
@@ -131,9 +131,9 @@
   "clausura": [
     {
       "eq": "Sport Huancayo",
-      "pj": -1,
-      "dg": 19,
-      "pts": 18,
+      "pj": 0,
+      "dg": 22,
+      "pts": 21,
       "pos": 1
     },
     {
@@ -145,9 +145,9 @@
     },
     {
       "eq": "Sporting Cristal",
-      "pj": -1,
-      "dg": 19,
-      "pts": 13,
+      "pj": 0,
+      "dg": 22,
+      "pts": 16,
       "pos": 3
     },
     {
@@ -187,8 +187,8 @@
     },
     {
       "eq": "Universitario",
-      "pj": -1,
-      "dg": 2,
+      "pj": 0,
+      "dg": -1,
       "pts": 3,
       "pos": 9
     },
@@ -243,8 +243,8 @@
     },
     {
       "eq": "Cienciano",
-      "pj": -1,
-      "dg": -16,
+      "pj": 0,
+      "dg": -19,
       "pts": -16,
       "pos": 17
     },
@@ -263,12 +263,12 @@
         {
           "l": "Sport Huancayo",
           "v": "Universitario",
-          "h": "3:00 p.m."
+          "m": "4 - 1"
         },
         {
           "l": "Sporting Cristal",
           "v": "Cienciano",
-          "h": "3:00 p.m."
+          "m": "4 - 1"
         }
       ]
     }
