@@ -1,5 +1,5 @@
 {
-  "actualizado": "24 nov 2026, 9:16 p.m.",
+  "actualizado": "25 nov 2026, 7:36 a.m.",
   "acumulado": [
     {
       "eq": "Sport Huancayo",
@@ -258,17 +258,12 @@
   ],
   "partidos": [
     {
-      "dia": "Domingo 22 de noviembre",
+      "dia": "Sábado 28 de noviembre",
       "juegos": [
         {
           "l": "Sport Huancayo",
           "v": "Universitario",
-          "m": "4 - 1"
-        },
-        {
-          "l": "Sporting Cristal",
-          "v": "Cienciano",
-          "m": "4 - 1"
+          "h": "3:00 p.m."
         }
       ]
     }
